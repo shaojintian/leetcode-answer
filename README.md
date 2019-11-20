@@ -946,7 +946,7 @@ Note: All explanations are written in Github Issues, **please do not create any 
 
 ## Reward
 
-If you like this project and want to sponsor the author, you can reward the author using Wechat by scanning the following QR code.
+If you like this project and want to sponsor the author, you can reward the author using Wechat or Alipay by scanning the following QR code.
 
 <img src="docs/images/reward_wechat.png" width="200"/>
 
