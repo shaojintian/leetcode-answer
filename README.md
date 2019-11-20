@@ -937,8 +937,8 @@ Note: All explanations are written in Github Issues, **please do not create any 
 | 5    | [Longest Palindromic Substring](https://github.com/shaojintian/leetcode-answer/issues/5) | 20.70%   | Medium     |
 | 4    | [Median of Two Sorted Arrays](https://github.com/shaojintian/leetcode-answer/issues/4) | 17.40%   | Hard       |
 | 3    | [Longest Substring Without Repeating Characters](https://github.com/shaojintian/leetcode-answer/issues/3) | 20.60%   | Medium     |
-| 2    | [Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/solution/) | 21.10%   | Medium     |
-| 1    | [Two Sum](https://leetcode-cn.com/problems/two-sum/solution/) | 17.70%   | Medium     |
+| 2    | [Add Two Numbers 缺少答案，指向官网](https://leetcode-cn.com/problems/add-two-numbers/solution/) | 21.10%   | Medium     |
+| 1    | [Two Sum 缺少答案，指向官网](https://leetcode-cn.com/problems/two-sum/solution/) | 17.70%   | Medium     |
 
 
 
