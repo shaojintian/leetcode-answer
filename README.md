@@ -71,7 +71,7 @@ Note: All explanations are written in Github Issues, **please do not create any 
 | 874  | [Walking Robot Simulation](https://github.com/shaojintian/leetcode-answer/issues/874) | 31.70%   | Easy       |
 | 873  | [Length of Longest Fibonacci Subsequence](https://github.com/shaojintian/leetcode-answer/issues/873) | 46.00%   | Medium     |
 | 872  | [Leaf-Similar Trees](https://github.com/shaojintian/leetcode-answer/issues/872) | 63.10%   | Easy       |
-| 871  | Minimum Number of Refueling Stops                            | 28.70%   | Hard       |
+| 871  | [Minimum Number of Refueling Stops](https://github.com/shaojintian/leetcode-answer/issues/872) | 28.70%   | Hard       |
 | 870  | [Advantage Shuffle](https://github.com/shaojintian/leetcode-answer/issues/870) | 42.20%   | Medium     |
 | 869  | [Reordered Power of 2](https://github.com/shaojintian/leetcode-answer/issues/869) | 50.60%   | Medium     |
 | 868  | [Binary Gap](https://github.com/shaojintian/leetcode-answer/issues/868) | 59.30%   | Easy       |
@@ -315,16 +315,16 @@ Note: All explanations are written in Github Issues, **please do not create any 
 | 630  | [Course Schedule III](https://github.com/shaojintian/leetcode-answer/issues/630) | 20.50%   | Medium     |
 | 629  | [K Inverse Pairs Array](https://github.com/shaojintian/leetcode-answer/issues/629) | 23.90%   | Hard       |
 | 628  | [Maximum Product of Three Numbers](https://github.com/shaojintian/leetcode-answer/issues/628) | 45.40%   | Easy       |
-| 627  | Swap Salary                                                  | 67.40%   | Easy       |
-| 626  | Exchange Seats                                               | 49.60%   | Medium     |
+| 627  | [Swap Salary](https://github.com/shaojintian/leetcode-answer/issues/627)                                                  | 67.40%   | Easy       |
+| 626  | [Exchange Seats](https://github.com/shaojintian/leetcode-answer/issues/626)                                               | 49.60%   | Medium     |
 | 625  | [Minimum Factorization](https://github.com/shaojintian/leetcode-answer/issues/625) | 29.50%   | Medium     |
 | 624  | [Maximum Distance in Arrays](https://github.com/shaojintian/leetcode-answer/issues/624) $ | 32.70%   | Easy       |
 | 623  | [Add One Row to Tree](https://github.com/shaojintian/leetcode-answer/issues/623) | 48.70%   | Medium     |
 | 622  | [Design Circular Queue](https://github.com/shaojintian/leetcode-answer/issues/622) | 36.60%   | Medium     |
 | 621  | [Task Scheduler](https://github.com/shaojintian/leetcode-answer/issues/621) | 41.40%   | Medium     |
-| 620  | Not Boring Movies                                            | 59.80%   | Easy       |
-| 619  | Biggest Single Number  $                                     | 36.60%   | Easy       |
-| 618  | Students Report By Geography  $                              | 40.40%   | Hard       |
+| 620  | [Not Boring Movies](https://github.com/shaojintian/leetcode-answer/issues/620)                                            | 59.80%   | Easy       |
+| 619  | [Biggest Single Number](https://github.com/shaojintian/leetcode-answer/issues/619)                                   | 36.60%   | Easy       |
+| 618  | [Students Report By Geography](https://github.com/shaojintian/leetcode-answer/issues/618)                             | 40.40%   | Hard       |
 | 617  | [Merge Two Binary Trees](https://github.com/shaojintian/leetcode-answer/issues/617) | 69.60%   | Easy       |
 | 616  | [Add Bold Tag in String](https://github.com/shaojintian/leetcode-answer/issues/616) $ | 37.30%   | Medium     |
 | 615  | Average Salary: Departments VS Company $                     | 33.00%   | Hard       |
@@ -889,7 +889,7 @@ Note: All explanations are written in Github Issues, **please do not create any 
 | 53   | [Maximum Subarray](https://github.com/shaojintian/leetcode-answer/issues/53) | 34.50%   | Medium     |
 | 52   | [N-Queens II](https://github.com/shaojintian/leetcode-answer/issues/52) | 35.80%   | Hard       |
 | 51   | [N-Queens](https://github.com/shaojintian/leetcode-answer/issues/51) | 26.50%   | Hard       |
-| 50   | "Pow(x                                                       | n)"      | 26.70%     |
+| 50   | [Pow(x)](https://github.com/shaojintian/leetcode-answer/issues/50)                                                      |  26.70%     |  Medium|
 | 49   | [Anagrams](https://github.com/shaojintian/leetcode-answer/issues/49) | 24.30%   | Medium     |
 | 48   | [Rotate Image](https://github.com/shaojintian/leetcode-answer/issues/48) | 31.90%   | Medium     |
 | 47   | [Permutations II](https://github.com/shaojintian/leetcode-answer/issues/47) | 25.80%   | Hard       |
