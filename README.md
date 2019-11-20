@@ -23,920 +23,920 @@ Note: All explanations are written in Github Issues, **please do not create any 
 
 | #    | Title                                                        | Solution | Difficulty |
 | ---- | ------------------------------------------------------------ | -------- | ---------- |
-| 919  | [Complete Binary Tree Inserter](https://github.com/shaojintian/leetcode-answer/issues/919) | 55.70%   | Medium     |
-| 918  | [Maximum Sum Circular Subarray](https://github.com/shaojintian/leetcode-answer/issues/918) | 33.20%   | Medium     |
-| 917  | [Reverse Only Letters](https://github.com/shaojintian/leetcode-answer/issues/917) | 56.30%   | Easy       |
-| 916  | [Word Subsets](https://github.com/shaojintian/leetcode-answer/issues/916) | 45.90%   | Medium     |
-| 915  | [Partition Array into Disjoint Intervals](https://github.com/shaojintian/leetcode-answer/issues/915) | 43.90%   | Medium     |
-| 914  | [X of a Kind in a Deck of Cards](https://github.com/shaojintian/leetcode-answer/issues/914) | 34.00%   | Easy       |
-| 913  | [Cat and Mouse](https://github.com/shaojintian/leetcode-answer/issues/913) | 29.90%   | Hard       |
-| 912  | [Sort an Array](https://github.com/shaojintian/leetcode-answer/issues/912) | 62.90%   | Medium     |
-| 911  | [Online Election](https://github.com/shaojintian/leetcode-answer/issues/911) | 48.30%   | Medium     |
-| 910  | [Smallest Range II](https://github.com/shaojintian/leetcode-answer/issues/910) | 24.90%   | Medium     |
-| 909  | [Snakes and Ladders](https://github.com/shaojintian/leetcode-answer/issues/909) | 36.10%   | Easy       |
-| 908  | [Smallest Range I](https://github.com/shaojintian/leetcode-answer/issues/908) | 65.00%   | Easy       |
-| 907  | [Sum of Subarray Minimums](https://github.com/shaojintian/leetcode-answer/issues/907) | 29.40%   | Medium     |
-| 906  | [Super Palindromes](https://github.com/shaojintian/leetcode-answer/issues/906) | 30.80%   | Hard       |
-| 905  | [Sort Array By Parity](https://github.com/shaojintian/leetcode-answer/issues/905) | 72.60%   | Easy       |
-| 904  | [Fruit Into Baskets](https://github.com/shaojintian/leetcode-answer/issues/904) | 41.70%   | Medium     |
-| 903  | [Valid Permutations for DI Sequence](https://github.com/shaojintian/leetcode-answer/issues/903) | 45.10%   | Hard       |
-| 902  | [Numbers At Most N Given Digit Set](https://github.com/shaojintian/leetcode-answer/issues/902) | 28.80%   | Hard       |
-| 901  | [Online Stock Span](https://github.com/shaojintian/leetcode-answer/issues/901) | 49.90%   | Medium     |
-| 900  | [RLE Iterator](https://github.com/shaojintian/leetcode-answer/issues/900) | 50.50%   | Medium     |
-| 899  | [Orderly Queue](https://github.com/shaojintian/leetcode-answer/issues/899) | 47.70%   | Hard       |
-| 898  | [Bitwise ORs of Subarrays](https://github.com/shaojintian/leetcode-answer/issues/898) | 34.70%   | Medium     |
-| 897  | [Increasing Order Search Tree](https://github.com/shaojintian/leetcode-answer/issues/897) | 65.20%   | Easy       |
-| 896  | [Monotonic Array](https://github.com/shaojintian/leetcode-answer/issues/896) | 55.40%   | Easy       |
-| 895  | [Maximum Frequency Stack](https://github.com/shaojintian/leetcode-answer/issues/895) | 56.70%   | Hard       |
-| 894  | [All Possible Full Binary Trees](https://github.com/shaojintian/leetcode-answer/issues/894) | 71.30%   | Medium     |
-| 893  | [Groups of Special-Equivalent Strings](https://github.com/shaojintian/leetcode-answer/issues/893) | 63.00%   | Easy       |
-| 892  | [Surface Area of 3D Shapes](https://github.com/shaojintian/leetcode-answer/issues/892) | 56.10%   | Easy       |
-| 891  | [Sum of Subsequence Widths](https://github.com/shaojintian/leetcode-answer/issues/891) | 29.20%   | Hard       |
-| 890  | [Find and Replace Pattern](https://github.com/shaojintian/leetcode-answer/issues/890) | 71.30%   | Medium     |
-| 889  | [Construct Binary Tree from Preorder and Postorder Traversal](https://github.com/shaojintian/leetcode-answer/issues/889) | 60.70%   | Medium     |
-| 888  | [Fair Candy Swap](https://github.com/shaojintian/leetcode-answer/issues/888) | 56.90%   | Easy       |
-| 887  | [Super Egg Drop](https://github.com/shaojintian/leetcode-answer/issues/887) | 24.90%   | Hard       |
-| 886  | [Possible Bipartition](https://github.com/shaojintian/leetcode-answer/issues/886) | 40.90%   | Medium     |
-| 885  | [Spiral Matrix III](https://github.com/shaojintian/leetcode-answer/issues/885) | 64.80%   | Medium     |
-| 884  | [Uncommon Words from Two Sentences](https://github.com/shaojintian/leetcode-answer/issues/884) | 60.90%   | Easy       |
-| 883  | [Projection Area of 3D Shapes](https://github.com/shaojintian/leetcode-answer/issues/883) | 65.90%   | Easy       |
-| 882  | [Reachable Nodes In Subdivided Graph](https://github.com/shaojintian/leetcode-answer/issues/882) | 38.20%   | Hard       |
-| 881  | [Boats to Save People](https://github.com/shaojintian/leetcode-answer/issues/881) | 44.10%   | Medium     |
-| 880  | [Decoded String at Index](https://github.com/shaojintian/leetcode-answer/issues/880) | 23.00%   | Medium     |
-| 879  | [Profitable Schemes](https://github.com/shaojintian/leetcode-answer/issues/879) | 36.20%   | Hard       |
-| 878  | [Nth Magical Number](https://github.com/shaojintian/leetcode-answer/issues/878) | 25.40%   | Hard       |
-| 877  | [Stone Game](https://github.com/shaojintian/leetcode-answer/issues/877) | 61.10%   | Medium     |
-| 876  | [Middle of the Linked List](https://github.com/shaojintian/leetcode-answer/issues/876) | 63.80%   | Easy       |
-| 875  | [Koko Eating Bananas](https://github.com/shaojintian/leetcode-answer/issues/875) | 45.90%   | Medium     |
-| 874  | [Walking Robot Simulation](https://github.com/shaojintian/leetcode-answer/issues/874) | 31.70%   | Easy       |
-| 873  | [Length of Longest Fibonacci Subsequence](https://github.com/shaojintian/leetcode-answer/issues/873) | 46.00%   | Medium     |
-| 872  | [Leaf-Similar Trees](https://github.com/shaojintian/leetcode-answer/issues/872) | 63.10%   | Easy       |
-| 871  | [Minimum Number of Refueling Stops](https://github.com/shaojintian/leetcode-answer/issues/872) | 28.70%   | Hard       |
-| 870  | [Advantage Shuffle](https://github.com/shaojintian/leetcode-answer/issues/870) | 42.20%   | Medium     |
-| 869  | [Reordered Power of 2](https://github.com/shaojintian/leetcode-answer/issues/869) | 50.60%   | Medium     |
-| 868  | [Binary Gap](https://github.com/shaojintian/leetcode-answer/issues/868) | 59.30%   | Easy       |
-| 867  | [Transpose Matrix](https://github.com/shaojintian/leetcode-answer/issues/867) | 63.90%   | Easy       |
-| 866  | [Prime Palindrome](https://github.com/shaojintian/leetcode-answer/issues/866) | 20.00%   | Medium     |
-| 865  | [Smallest Subtree with all the Deepest Nodes](https://github.com/shaojintian/leetcode-answer/issues/865) | 55.40%   | Medium     |
-| 864  | [Shortest Path to Get All Keys](https://github.com/shaojintian/leetcode-answer/issues/864) | 35.70%   | Hard       |
-| 863  | [All Nodes Distance K in Binary Tree](https://github.com/shaojintian/leetcode-answer/issues/863) | 46.80%   | Medium     |
-| 862  | [Shortest Subarray with Sum at Least K](https://github.com/shaojintian/leetcode-answer/issues/862) | 22.00%   | Hard       |
-| 861  | [Score After Flipping Matrix](https://github.com/shaojintian/leetcode-answer/issues/861) | 69.30%   | Medium     |
-| 860  | [Lemonade Change](https://github.com/shaojintian/leetcode-answer/issues/860) | 50.20%   | Easy       |
-| 859  | [Buddy Strings](https://github.com/shaojintian/leetcode-answer/issues/859) | 27.60%   | Easy       |
-| 858  | [Mirror Reflection](https://github.com/shaojintian/leetcode-answer/issues/858) | 52.00%   | Medium     |
-| 857  | [Minimum Cost to Hire K Workers](https://github.com/shaojintian/leetcode-answer/issues/857) | 47.30%   | Hard       |
-| 856  | [Score of Parentheses](https://github.com/shaojintian/leetcode-answer/issues/856) | 55.90%   | Medium     |
-| 855  | [Exam Room](https://github.com/shaojintian/leetcode-answer/issues/855) | 38.10%   | Medium     |
-| 854  | [K-Similar Strings](https://github.com/shaojintian/leetcode-answer/issues/854) | 33.20%   | Hard       |
-| 853  | [Car Fleet](https://github.com/shaojintian/leetcode-answer/issues/853) | 39.30%   | Medium     |
-| 852  | [Peak Index in a Mountain Array](https://github.com/shaojintian/leetcode-answer/issues/852) | 68.50%   | Easy       |
-| 851  | [Loud and Rich](https://github.com/shaojintian/leetcode-answer/issues/851) | 47.40%   | Medium     |
-| 850  | [Rectangle Area II](https://github.com/shaojintian/leetcode-answer/issues/850) | 44.00%   | Hard       |
-| 849  | [Maximize Distance to Closest Person](https://github.com/shaojintian/leetcode-answer/issues/849) | 40.40%   | Easy       |
-| 848  | [Shifting Letters](https://github.com/shaojintian/leetcode-answer/issues/848) | 39.90%   | Medium     |
-| 847  | [Shortest Path Visiting All Nodes](https://github.com/shaojintian/leetcode-answer/issues/847) | 45.90%   | Hard       |
-| 846  | [Hand of Straights](https://github.com/shaojintian/leetcode-answer/issues/846) | 48.60%   | Medium     |
-| 845  | [Longest Mountain in Array](https://github.com/shaojintian/leetcode-answer/issues/845) | 34.00%   | Medium     |
-| 844  | [Backspace String Compare](https://github.com/shaojintian/leetcode-answer/issues/844) | 45.50%   | Easy       |
-| 843  | [Guess the Word](https://github.com/shaojintian/leetcode-answer/issues/843) | 42.60%   | Hard       |
-| 842  | [Split Array into Fibonacci Sequence](https://github.com/shaojintian/leetcode-answer/issues/842) | 34.60%   | Medium     |
-| 841  | [Keys and Rooms](https://github.com/shaojintian/leetcode-answer/issues/841) | 59.70%   | Medium     |
-| 840  | [Magic Squares In Grid](https://github.com/shaojintian/leetcode-answer/issues/840) | 35.10%   | Easy       |
-| 839  | [Similar String Groups](https://github.com/shaojintian/leetcode-answer/issues/839) | 33.50%   | Hard       |
-| 838  | [Push Dominoes](https://github.com/shaojintian/leetcode-answer/issues/838) | 42.80%   | Medium     |
-| 837  | [New 21 Game](https://github.com/shaojintian/leetcode-answer/issues/837) | 29.50%   | Medium     |
-| 836  | [Rectangle Overlap](https://github.com/shaojintian/leetcode-answer/issues/836) | 45.50%   | Easy       |
-| 835  | [Image Overlap](https://github.com/shaojintian/leetcode-answer/issues/835) | 50.30%   | Medium     |
-| 834  | [Sum of Distances in Tree](https://github.com/shaojintian/leetcode-answer/issues/834) | 38.10%   | Hard       |
-| 833  | [Find And Replace in String](https://github.com/shaojintian/leetcode-answer/issues/833) | 44.50%   | Medium     |
-| 832  | [Flipping an Image](https://github.com/shaojintian/leetcode-answer/issues/832) | 71.30%   | Easy       |
-| 831  | [Masking Personal Information](https://github.com/shaojintian/leetcode-answer/issues/831) | 41.50%   | Medium     |
-| 830  | [Positions of Large Groups](https://github.com/shaojintian/leetcode-answer/issues/830) | 47.40%   | Easy       |
-| 829  | [Consecutive Numbers Sum](https://github.com/shaojintian/leetcode-answer/issues/829) | 32.10%   | Hard       |
-| 828  | [Unique Letter String](https://github.com/shaojintian/leetcode-answer/issues/828) | 38.10%   | Hard       |
-| 827  | [Making A Large Island](https://github.com/shaojintian/leetcode-answer/issues/827) | 42.10%   | Hard       |
-| 826  | [Most Profit Assigning Work](https://github.com/shaojintian/leetcode-answer/issues/826) | 34.70%   | Medium     |
-| 825  | [Friends Of Appropriate Ages](https://github.com/shaojintian/leetcode-answer/issues/825) | 35.00%   | Medium     |
-| 824  | [Goat Latin](https://github.com/shaojintian/leetcode-answer/issues/824) | 56.70%   | Easy       |
-| 823  | [Binary Trees With Factors](https://github.com/shaojintian/leetcode-answer/issues/823) | 31.50%   | Medium     |
-| 822  | [Card Flipping Game](https://github.com/shaojintian/leetcode-answer/issues/822) | 39.70%   | Medium     |
-| 821  | [Shortest Distance to a Character](https://github.com/shaojintian/leetcode-answer/issues/821) | 62.60%   | Easy       |
-| 820  | [Short Encoding of Words](https://github.com/shaojintian/leetcode-answer/issues/820) | 46.00%   | Medium     |
-| 819  | [Most Common Word](https://github.com/shaojintian/leetcode-answer/issues/819) | 41.50%   | Easy       |
-| 818  | [Race Car](https://github.com/shaojintian/leetcode-answer/issues/818) | 34.00%   | Hard       |
-| 817  | [Linked List Components](https://github.com/shaojintian/leetcode-answer/issues/817) | 51.90%   | Medium     |
-| 816  | [Ambiguous Coordinates](https://github.com/shaojintian/leetcode-answer/issues/816) | 42.40%   | Medium     |
-| 815  | [Bus Routes](https://github.com/shaojintian/leetcode-answer/issues/815) | 36.10%   | Hard       |
-| 814  | [Binary Tree Pruning](https://github.com/shaojintian/leetcode-answer/issues/814) | 68.30%   | Medium     |
-| 813  | [Largest Sum of Averages](https://github.com/shaojintian/leetcode-answer/issues/813) | 42.40%   | Medium     |
-| 812  | [Largest Triangle Area](https://github.com/shaojintian/leetcode-answer/issues/812) | 53.80%   | Easy       |
-| 811  | [Subdomain Visit Count](https://github.com/shaojintian/leetcode-answer/issues/811) | 61.50%   | Easy       |
-| 810  | [Chalkboard XOR Game](https://github.com/shaojintian/leetcode-answer/issues/810) | 41.90%   | Hard       |
-| 809  | [Expressive Words](https://github.com/shaojintian/leetcode-answer/issues/809) | 39.50%   | Medium     |
-| 808  | [Soup Servings](https://github.com/shaojintian/leetcode-answer/issues/808) | 33.60%   | Medium     |
-| 807  | [Max Increase to Keep City Skyline](https://github.com/shaojintian/leetcode-answer/issues/807) | 79.60%   | Medium     |
-| 806  | [Number of Lines To Write String](https://github.com/shaojintian/leetcode-answer/issues/806) | 62.10%   | Easy       |
-| 805  | [Split Array With Same Average](https://github.com/shaojintian/leetcode-answer/issues/805) | 21.00%   | Hard       |
-| 804  | [Unique Morse Code Words](https://github.com/shaojintian/leetcode-answer/issues/804) | 71.30%   | Easy       |
-| 803  | [Bricks Falling When Hit](https://github.com/shaojintian/leetcode-answer/issues/803) | 22.90%   | Hard       |
-| 802  | [Find Eventual Safe States](https://github.com/shaojintian/leetcode-answer/issues/802) | 39.20%   | Medium     |
-| 801  | [Minimum Swaps To Make Sequences Increasing](https://github.com/shaojintian/leetcode-answer/issues/801) | 31.00%   | Medium     |
-| 800  | [Similar RGB Color](https://github.com/shaojintian/leetcode-answer/issues/800) $ | 54.50%   | Easy       |
-| 799  | [Champagne Tower](https://github.com/shaojintian/leetcode-answer/issues/799) | 29.90%   | Medium     |
-| 798  | [Smallest Rotation with Highest Score](https://github.com/shaojintian/leetcode-answer/issues/798) | 34.30%   | Hard       |
-| 797  | [All Paths From Source to Target](https://github.com/shaojintian/leetcode-answer/issues/797) | 67.40%   | Medium     |
-| 796  | [Rotate String](https://github.com/shaojintian/leetcode-answer/issues/796) | 49.60%   | Easy       |
-| 795  | [Number of Subarrays with Bounded Maximum](https://github.com/shaojintian/leetcode-answer/issues/795) | 41.60%   | Medium     |
-| 794  | [Valid Tic-Tac-Toe State](https://github.com/shaojintian/leetcode-answer/issues/794) | 27.80%   | Medium     |
-| 793  | [Preimage Size of Factorial Zeroes Function](https://github.com/shaojintian/leetcode-answer/issues/793) | 40.80%   | Hard       |
-| 792  | [Number of Matching Subsequences](https://github.com/shaojintian/leetcode-answer/issues/792) | 37.30%   | Medium     |
-| 791  | [Custom Sort String](https://github.com/shaojintian/leetcode-answer/issues/791) | 59.40%   | Medium     |
-| 790  | [Domino and Tromino Tiling](https://github.com/shaojintian/leetcode-answer/issues/790) | 32.80%   | Medium     |
-| 789  | [Escape The Ghosts](https://github.com/shaojintian/leetcode-answer/issues/789) | 51.00%   | Medium     |
-| 788  | [Rotated Digits](https://github.com/shaojintian/leetcode-answer/issues/788) | 51.00%   | Easy       |
-| 787  | [Cheapest Flights Within K Stops](https://github.com/shaojintian/leetcode-answer/issues/787) | 29.90%   | Medium     |
-| 786  | [K-th Smallest Prime Fraction](https://github.com/shaojintian/leetcode-answer/issues/786) | 32.50%   | Hard       |
-| 785  | [Is Graph Bipartite](https://github.com/shaojintian/leetcode-answer/issues/785) | 38.50%   | Medium     |
-| 784  | [Letter Case Permutation](https://github.com/shaojintian/leetcode-answer/issues/784) | 53.00%   | Easy       |
-| 783  | [Minimum Distance Between BST Nodes](https://github.com/shaojintian/leetcode-answer/issues/783) | 47.80%   | Easy       |
-| 782  | [Transform to Chessboard](https://github.com/shaojintian/leetcode-answer/issues/782) | 37.50%   | Hard       |
-| 781  | [Rabbits in Forest](https://github.com/shaojintian/leetcode-answer/issues/781) | 49.80%   | Medium     |
-| 780  | [Reaching Points](https://github.com/shaojintian/leetcode-answer/issues/780) | 23.90%   | Hard       |
-| 779  | [K-th Symbol in Grammar](https://github.com/shaojintian/leetcode-answer/issues/779) | 37.30%   | Medium     |
-| 778  | [Swim in Rising Water](https://github.com/shaojintian/leetcode-answer/issues/778) | 44.60%   | Hard       |
-| 777  | [Swap Adjacent in LR String](https://github.com/shaojintian/leetcode-answer/issues/777) | 28.90%   | Medium     |
-| 776  | [Split BST](https://github.com/shaojintian/leetcode-answer/issues/776) $ | 49.90%   | Medium     |
-| 775  | [Global and Local Inversions](https://github.com/shaojintian/leetcode-answer/issues/775) | 33.60%   | Medium     |
-| 774  | [Minimize Max Distance to Gas Station](https://github.com/shaojintian/leetcode-answer/issues/774) $ | 32.80%   | Hard       |
-| 773  | [Sliding Puzzle](https://github.com/shaojintian/leetcode-answer/issues/773) | 46.50%   | Hard       |
-| 772  | [Basic Calculator III](https://github.com/shaojintian/leetcode-answer/issues/772) $ | 40.10%   | Hard       |
-| 771  | [Jewels and Stones](https://github.com/shaojintian/leetcode-answer/issues/771) | 81.90%   | Easy       |
+| 919  | [Complete Binary Tree Inserter](https://github.com/shaojintian/leetcode-answer/answers/919) | 55.70%   | Medium     |
+| 918  | [Maximum Sum Circular Subarray](https://github.com/shaojintian/leetcode-answer/answers/918) | 33.20%   | Medium     |
+| 917  | [Reverse Only Letters](https://github.com/shaojintian/leetcode-answer/answers/917) | 56.30%   | Easy       |
+| 916  | [Word Subsets](https://github.com/shaojintian/leetcode-answer/answers/916) | 45.90%   | Medium     |
+| 915  | [Partition Array into Disjoint Intervals](https://github.com/shaojintian/leetcode-answer/answers/915) | 43.90%   | Medium     |
+| 914  | [X of a Kind in a Deck of Cards](https://github.com/shaojintian/leetcode-answer/answers/914) | 34.00%   | Easy       |
+| 913  | [Cat and Mouse](https://github.com/shaojintian/leetcode-answer/answers/913) | 29.90%   | Hard       |
+| 912  | [Sort an Array](https://github.com/shaojintian/leetcode-answer/answers/912) | 62.90%   | Medium     |
+| 911  | [Online Election](https://github.com/shaojintian/leetcode-answer/answers/911) | 48.30%   | Medium     |
+| 910  | [Smallest Range II](https://github.com/shaojintian/leetcode-answer/answers/910) | 24.90%   | Medium     |
+| 909  | [Snakes and Ladders](https://github.com/shaojintian/leetcode-answer/answers/909) | 36.10%   | Easy       |
+| 908  | [Smallest Range I](https://github.com/shaojintian/leetcode-answer/answers/908) | 65.00%   | Easy       |
+| 907  | [Sum of Subarray Minimums](https://github.com/shaojintian/leetcode-answer/answers/907) | 29.40%   | Medium     |
+| 906  | [Super Palindromes](https://github.com/shaojintian/leetcode-answer/answers/906) | 30.80%   | Hard       |
+| 905  | [Sort Array By Parity](https://github.com/shaojintian/leetcode-answer/answers/905) | 72.60%   | Easy       |
+| 904  | [Fruit Into Baskets](https://github.com/shaojintian/leetcode-answer/answers/904) | 41.70%   | Medium     |
+| 903  | [Valid Permutations for DI Sequence](https://github.com/shaojintian/leetcode-answer/answers/903) | 45.10%   | Hard       |
+| 902  | [Numbers At Most N Given Digit Set](https://github.com/shaojintian/leetcode-answer/answers/902) | 28.80%   | Hard       |
+| 901  | [Online Stock Span](https://github.com/shaojintian/leetcode-answer/answers/901) | 49.90%   | Medium     |
+| 900  | [RLE Iterator](https://github.com/shaojintian/leetcode-answer/answers/900) | 50.50%   | Medium     |
+| 899  | [Orderly Queue](https://github.com/shaojintian/leetcode-answer/answers/899) | 47.70%   | Hard       |
+| 898  | [Bitwise ORs of Subarrays](https://github.com/shaojintian/leetcode-answer/answers/898) | 34.70%   | Medium     |
+| 897  | [Increasing Order Search Tree](https://github.com/shaojintian/leetcode-answer/answers/897) | 65.20%   | Easy       |
+| 896  | [Monotonic Array](https://github.com/shaojintian/leetcode-answer/answers/896) | 55.40%   | Easy       |
+| 895  | [Maximum Frequency Stack](https://github.com/shaojintian/leetcode-answer/answers/895) | 56.70%   | Hard       |
+| 894  | [All Possible Full Binary Trees](https://github.com/shaojintian/leetcode-answer/answers/894) | 71.30%   | Medium     |
+| 893  | [Groups of Special-Equivalent Strings](https://github.com/shaojintian/leetcode-answer/answers/893) | 63.00%   | Easy       |
+| 892  | [Surface Area of 3D Shapes](https://github.com/shaojintian/leetcode-answer/answers/892) | 56.10%   | Easy       |
+| 891  | [Sum of Subsequence Widths](https://github.com/shaojintian/leetcode-answer/answers/891) | 29.20%   | Hard       |
+| 890  | [Find and Replace Pattern](https://github.com/shaojintian/leetcode-answer/answers/890) | 71.30%   | Medium     |
+| 889  | [Construct Binary Tree from Preorder and Postorder Traversal](https://github.com/shaojintian/leetcode-answer/answers/889) | 60.70%   | Medium     |
+| 888  | [Fair Candy Swap](https://github.com/shaojintian/leetcode-answer/answers/888) | 56.90%   | Easy       |
+| 887  | [Super Egg Drop](https://github.com/shaojintian/leetcode-answer/answers/887) | 24.90%   | Hard       |
+| 886  | [Possible Bipartition](https://github.com/shaojintian/leetcode-answer/answers/886) | 40.90%   | Medium     |
+| 885  | [Spiral Matrix III](https://github.com/shaojintian/leetcode-answer/answers/885) | 64.80%   | Medium     |
+| 884  | [Uncommon Words from Two Sentences](https://github.com/shaojintian/leetcode-answer/answers/884) | 60.90%   | Easy       |
+| 883  | [Projection Area of 3D Shapes](https://github.com/shaojintian/leetcode-answer/answers/883) | 65.90%   | Easy       |
+| 882  | [Reachable Nodes In Subdivided Graph](https://github.com/shaojintian/leetcode-answer/answers/882) | 38.20%   | Hard       |
+| 881  | [Boats to Save People](https://github.com/shaojintian/leetcode-answer/answers/881) | 44.10%   | Medium     |
+| 880  | [Decoded String at Index](https://github.com/shaojintian/leetcode-answer/answers/880) | 23.00%   | Medium     |
+| 879  | [Profitable Schemes](https://github.com/shaojintian/leetcode-answer/answers/879) | 36.20%   | Hard       |
+| 878  | [Nth Magical Number](https://github.com/shaojintian/leetcode-answer/answers/878) | 25.40%   | Hard       |
+| 877  | [Stone Game](https://github.com/shaojintian/leetcode-answer/answers/877) | 61.10%   | Medium     |
+| 876  | [Middle of the Linked List](https://github.com/shaojintian/leetcode-answer/answers/876) | 63.80%   | Easy       |
+| 875  | [Koko Eating Bananas](https://github.com/shaojintian/leetcode-answer/answers/875) | 45.90%   | Medium     |
+| 874  | [Walking Robot Simulation](https://github.com/shaojintian/leetcode-answer/answers/874) | 31.70%   | Easy       |
+| 873  | [Length of Longest Fibonacci Subsequence](https://github.com/shaojintian/leetcode-answer/answers/873) | 46.00%   | Medium     |
+| 872  | [Leaf-Similar Trees](https://github.com/shaojintian/leetcode-answer/answers/872) | 63.10%   | Easy       |
+| 871  | [Minimum Number of Refueling Stops](https://github.com/shaojintian/leetcode-answer/answers/872) | 28.70%   | Hard       |
+| 870  | [Advantage Shuffle](https://github.com/shaojintian/leetcode-answer/answers/870) | 42.20%   | Medium     |
+| 869  | [Reordered Power of 2](https://github.com/shaojintian/leetcode-answer/answers/869) | 50.60%   | Medium     |
+| 868  | [Binary Gap](https://github.com/shaojintian/leetcode-answer/answers/868) | 59.30%   | Easy       |
+| 867  | [Transpose Matrix](https://github.com/shaojintian/leetcode-answer/answers/867) | 63.90%   | Easy       |
+| 866  | [Prime Palindrome](https://github.com/shaojintian/leetcode-answer/answers/866) | 20.00%   | Medium     |
+| 865  | [Smallest Subtree with all the Deepest Nodes](https://github.com/shaojintian/leetcode-answer/answers/865) | 55.40%   | Medium     |
+| 864  | [Shortest Path to Get All Keys](https://github.com/shaojintian/leetcode-answer/answers/864) | 35.70%   | Hard       |
+| 863  | [All Nodes Distance K in Binary Tree](https://github.com/shaojintian/leetcode-answer/answers/863) | 46.80%   | Medium     |
+| 862  | [Shortest Subarray with Sum at Least K](https://github.com/shaojintian/leetcode-answer/answers/862) | 22.00%   | Hard       |
+| 861  | [Score After Flipping Matrix](https://github.com/shaojintian/leetcode-answer/answers/861) | 69.30%   | Medium     |
+| 860  | [Lemonade Change](https://github.com/shaojintian/leetcode-answer/answers/860) | 50.20%   | Easy       |
+| 859  | [Buddy Strings](https://github.com/shaojintian/leetcode-answer/answers/859) | 27.60%   | Easy       |
+| 858  | [Mirror Reflection](https://github.com/shaojintian/leetcode-answer/answers/858) | 52.00%   | Medium     |
+| 857  | [Minimum Cost to Hire K Workers](https://github.com/shaojintian/leetcode-answer/answers/857) | 47.30%   | Hard       |
+| 856  | [Score of Parentheses](https://github.com/shaojintian/leetcode-answer/answers/856) | 55.90%   | Medium     |
+| 855  | [Exam Room](https://github.com/shaojintian/leetcode-answer/answers/855) | 38.10%   | Medium     |
+| 854  | [K-Similar Strings](https://github.com/shaojintian/leetcode-answer/answers/854) | 33.20%   | Hard       |
+| 853  | [Car Fleet](https://github.com/shaojintian/leetcode-answer/answers/853) | 39.30%   | Medium     |
+| 852  | [Peak Index in a Mountain Array](https://github.com/shaojintian/leetcode-answer/answers/852) | 68.50%   | Easy       |
+| 851  | [Loud and Rich](https://github.com/shaojintian/leetcode-answer/answers/851) | 47.40%   | Medium     |
+| 850  | [Rectangle Area II](https://github.com/shaojintian/leetcode-answer/answers/850) | 44.00%   | Hard       |
+| 849  | [Maximize Distance to Closest Person](https://github.com/shaojintian/leetcode-answer/answers/849) | 40.40%   | Easy       |
+| 848  | [Shifting Letters](https://github.com/shaojintian/leetcode-answer/answers/848) | 39.90%   | Medium     |
+| 847  | [Shortest Path Visiting All Nodes](https://github.com/shaojintian/leetcode-answer/answers/847) | 45.90%   | Hard       |
+| 846  | [Hand of Straights](https://github.com/shaojintian/leetcode-answer/answers/846) | 48.60%   | Medium     |
+| 845  | [Longest Mountain in Array](https://github.com/shaojintian/leetcode-answer/answers/845) | 34.00%   | Medium     |
+| 844  | [Backspace String Compare](https://github.com/shaojintian/leetcode-answer/answers/844) | 45.50%   | Easy       |
+| 843  | [Guess the Word](https://github.com/shaojintian/leetcode-answer/answers/843) | 42.60%   | Hard       |
+| 842  | [Split Array into Fibonacci Sequence](https://github.com/shaojintian/leetcode-answer/answers/842) | 34.60%   | Medium     |
+| 841  | [Keys and Rooms](https://github.com/shaojintian/leetcode-answer/answers/841) | 59.70%   | Medium     |
+| 840  | [Magic Squares In Grid](https://github.com/shaojintian/leetcode-answer/answers/840) | 35.10%   | Easy       |
+| 839  | [Similar String Groups](https://github.com/shaojintian/leetcode-answer/answers/839) | 33.50%   | Hard       |
+| 838  | [Push Dominoes](https://github.com/shaojintian/leetcode-answer/answers/838) | 42.80%   | Medium     |
+| 837  | [New 21 Game](https://github.com/shaojintian/leetcode-answer/answers/837) | 29.50%   | Medium     |
+| 836  | [Rectangle Overlap](https://github.com/shaojintian/leetcode-answer/answers/836) | 45.50%   | Easy       |
+| 835  | [Image Overlap](https://github.com/shaojintian/leetcode-answer/answers/835) | 50.30%   | Medium     |
+| 834  | [Sum of Distances in Tree](https://github.com/shaojintian/leetcode-answer/answers/834) | 38.10%   | Hard       |
+| 833  | [Find And Replace in String](https://github.com/shaojintian/leetcode-answer/answers/833) | 44.50%   | Medium     |
+| 832  | [Flipping an Image](https://github.com/shaojintian/leetcode-answer/answers/832) | 71.30%   | Easy       |
+| 831  | [Masking Personal Information](https://github.com/shaojintian/leetcode-answer/answers/831) | 41.50%   | Medium     |
+| 830  | [Positions of Large Groups](https://github.com/shaojintian/leetcode-answer/answers/830) | 47.40%   | Easy       |
+| 829  | [Consecutive Numbers Sum](https://github.com/shaojintian/leetcode-answer/answers/829) | 32.10%   | Hard       |
+| 828  | [Unique Letter String](https://github.com/shaojintian/leetcode-answer/answers/828) | 38.10%   | Hard       |
+| 827  | [Making A Large Island](https://github.com/shaojintian/leetcode-answer/answers/827) | 42.10%   | Hard       |
+| 826  | [Most Profit Assigning Work](https://github.com/shaojintian/leetcode-answer/answers/826) | 34.70%   | Medium     |
+| 825  | [Friends Of Appropriate Ages](https://github.com/shaojintian/leetcode-answer/answers/825) | 35.00%   | Medium     |
+| 824  | [Goat Latin](https://github.com/shaojintian/leetcode-answer/answers/824) | 56.70%   | Easy       |
+| 823  | [Binary Trees With Factors](https://github.com/shaojintian/leetcode-answer/answers/823) | 31.50%   | Medium     |
+| 822  | [Card Flipping Game](https://github.com/shaojintian/leetcode-answer/answers/822) | 39.70%   | Medium     |
+| 821  | [Shortest Distance to a Character](https://github.com/shaojintian/leetcode-answer/answers/821) | 62.60%   | Easy       |
+| 820  | [Short Encoding of Words](https://github.com/shaojintian/leetcode-answer/answers/820) | 46.00%   | Medium     |
+| 819  | [Most Common Word](https://github.com/shaojintian/leetcode-answer/answers/819) | 41.50%   | Easy       |
+| 818  | [Race Car](https://github.com/shaojintian/leetcode-answer/answers/818) | 34.00%   | Hard       |
+| 817  | [Linked List Components](https://github.com/shaojintian/leetcode-answer/answers/817) | 51.90%   | Medium     |
+| 816  | [Ambiguous Coordinates](https://github.com/shaojintian/leetcode-answer/answers/816) | 42.40%   | Medium     |
+| 815  | [Bus Routes](https://github.com/shaojintian/leetcode-answer/answers/815) | 36.10%   | Hard       |
+| 814  | [Binary Tree Pruning](https://github.com/shaojintian/leetcode-answer/answers/814) | 68.30%   | Medium     |
+| 813  | [Largest Sum of Averages](https://github.com/shaojintian/leetcode-answer/answers/813) | 42.40%   | Medium     |
+| 812  | [Largest Triangle Area](https://github.com/shaojintian/leetcode-answer/answers/812) | 53.80%   | Easy       |
+| 811  | [Subdomain Visit Count](https://github.com/shaojintian/leetcode-answer/answers/811) | 61.50%   | Easy       |
+| 810  | [Chalkboard XOR Game](https://github.com/shaojintian/leetcode-answer/answers/810) | 41.90%   | Hard       |
+| 809  | [Expressive Words](https://github.com/shaojintian/leetcode-answer/answers/809) | 39.50%   | Medium     |
+| 808  | [Soup Servings](https://github.com/shaojintian/leetcode-answer/answers/808) | 33.60%   | Medium     |
+| 807  | [Max Increase to Keep City Skyline](https://github.com/shaojintian/leetcode-answer/answers/807) | 79.60%   | Medium     |
+| 806  | [Number of Lines To Write String](https://github.com/shaojintian/leetcode-answer/answers/806) | 62.10%   | Easy       |
+| 805  | [Split Array With Same Average](https://github.com/shaojintian/leetcode-answer/answers/805) | 21.00%   | Hard       |
+| 804  | [Unique Morse Code Words](https://github.com/shaojintian/leetcode-answer/answers/804) | 71.30%   | Easy       |
+| 803  | [Bricks Falling When Hit](https://github.com/shaojintian/leetcode-answer/answers/803) | 22.90%   | Hard       |
+| 802  | [Find Eventual Safe States](https://github.com/shaojintian/leetcode-answer/answers/802) | 39.20%   | Medium     |
+| 801  | [Minimum Swaps To Make Sequences Increasing](https://github.com/shaojintian/leetcode-answer/answers/801) | 31.00%   | Medium     |
+| 800  | [Similar RGB Color](https://github.com/shaojintian/leetcode-answer/answers/800) $ | 54.50%   | Easy       |
+| 799  | [Champagne Tower](https://github.com/shaojintian/leetcode-answer/answers/799) | 29.90%   | Medium     |
+| 798  | [Smallest Rotation with Highest Score](https://github.com/shaojintian/leetcode-answer/answers/798) | 34.30%   | Hard       |
+| 797  | [All Paths From Source to Target](https://github.com/shaojintian/leetcode-answer/answers/797) | 67.40%   | Medium     |
+| 796  | [Rotate String](https://github.com/shaojintian/leetcode-answer/answers/796) | 49.60%   | Easy       |
+| 795  | [Number of Subarrays with Bounded Maximum](https://github.com/shaojintian/leetcode-answer/answers/795) | 41.60%   | Medium     |
+| 794  | [Valid Tic-Tac-Toe State](https://github.com/shaojintian/leetcode-answer/answers/794) | 27.80%   | Medium     |
+| 793  | [Preimage Size of Factorial Zeroes Function](https://github.com/shaojintian/leetcode-answer/answers/793) | 40.80%   | Hard       |
+| 792  | [Number of Matching Subsequences](https://github.com/shaojintian/leetcode-answer/answers/792) | 37.30%   | Medium     |
+| 791  | [Custom Sort String](https://github.com/shaojintian/leetcode-answer/answers/791) | 59.40%   | Medium     |
+| 790  | [Domino and Tromino Tiling](https://github.com/shaojintian/leetcode-answer/answers/790) | 32.80%   | Medium     |
+| 789  | [Escape The Ghosts](https://github.com/shaojintian/leetcode-answer/answers/789) | 51.00%   | Medium     |
+| 788  | [Rotated Digits](https://github.com/shaojintian/leetcode-answer/answers/788) | 51.00%   | Easy       |
+| 787  | [Cheapest Flights Within K Stops](https://github.com/shaojintian/leetcode-answer/answers/787) | 29.90%   | Medium     |
+| 786  | [K-th Smallest Prime Fraction](https://github.com/shaojintian/leetcode-answer/answers/786) | 32.50%   | Hard       |
+| 785  | [Is Graph Bipartite](https://github.com/shaojintian/leetcode-answer/answers/785) | 38.50%   | Medium     |
+| 784  | [Letter Case Permutation](https://github.com/shaojintian/leetcode-answer/answers/784) | 53.00%   | Easy       |
+| 783  | [Minimum Distance Between BST Nodes](https://github.com/shaojintian/leetcode-answer/answers/783) | 47.80%   | Easy       |
+| 782  | [Transform to Chessboard](https://github.com/shaojintian/leetcode-answer/answers/782) | 37.50%   | Hard       |
+| 781  | [Rabbits in Forest](https://github.com/shaojintian/leetcode-answer/answers/781) | 49.80%   | Medium     |
+| 780  | [Reaching Points](https://github.com/shaojintian/leetcode-answer/answers/780) | 23.90%   | Hard       |
+| 779  | [K-th Symbol in Grammar](https://github.com/shaojintian/leetcode-answer/answers/779) | 37.30%   | Medium     |
+| 778  | [Swim in Rising Water](https://github.com/shaojintian/leetcode-answer/answers/778) | 44.60%   | Hard       |
+| 777  | [Swap Adjacent in LR String](https://github.com/shaojintian/leetcode-answer/answers/777) | 28.90%   | Medium     |
+| 776  | [Split BST](https://github.com/shaojintian/leetcode-answer/answers/776) $ | 49.90%   | Medium     |
+| 775  | [Global and Local Inversions](https://github.com/shaojintian/leetcode-answer/answers/775) | 33.60%   | Medium     |
+| 774  | [Minimize Max Distance to Gas Station](https://github.com/shaojintian/leetcode-answer/answers/774) $ | 32.80%   | Hard       |
+| 773  | [Sliding Puzzle](https://github.com/shaojintian/leetcode-answer/answers/773) | 46.50%   | Hard       |
+| 772  | [Basic Calculator III](https://github.com/shaojintian/leetcode-answer/answers/772) $ | 40.10%   | Hard       |
+| 771  | [Jewels and Stones](https://github.com/shaojintian/leetcode-answer/answers/771) | 81.90%   | Easy       |
 | 770  | Basic Calculator IV                                          | 42.10%   | Hard       |
-| 769  | [Max Chunks To Make Sorted](https://github.com/shaojintian/leetcode-answer/issues/769) | 48.00%   | Medium     |
-| 768  | [Max Chunks To Make Sorted II](https://github.com/shaojintian/leetcode-answer/issues/768) | 43.20%   | Hard       |
-| 767  | [Reorganize String](https://github.com/shaojintian/leetcode-answer/issues/767) | 36.50%   | Medium     |
-| 766  | [Toeplitz Matrix](https://github.com/shaojintian/leetcode-answer/issues/766) | 57.90%   | Easy       |
-| 765  | [Couples Holding Hands](https://github.com/shaojintian/leetcode-answer/issues/765) | 48.50%   | Hard       |
-| 764  | [Largest Plus Sign](https://github.com/shaojintian/leetcode-answer/issues/764) | 39.20%   | Medium     |
-| 763  | [Partition Labels](https://github.com/shaojintian/leetcode-answer/issues/763) | 64.10%   | Medium     |
-| 762  | [Prime Number of Set Bits in Binary Representation](https://github.com/shaojintian/leetcode-answer/issues/762) | 55.00%   | Easy       |
-| 761  | [Special Binary String](https://github.com/shaojintian/leetcode-answer/issues/761) | 41.00%   | Hard       |
-| 760  | [Find Anagram Mappings](https://github.com/shaojintian/leetcode-answer/issues/760) $ | 75.60%   | Easy       |
-| 759  | [Employee Free Time](https://github.com/shaojintian/leetcode-answer/issues/759) $ | 51.90%   | Hard       |
-| 758  | [Bold Words in String](https://github.com/shaojintian/leetcode-answer/issues/758) $ | 37.90%   | Easy       |
-| 757  | [Set Intersection Size At Least Two](https://github.com/shaojintian/leetcode-answer/issues/757) | 34.60%   | Hard       |
-| 756  | [Pyramid Transition Matrix](https://github.com/shaojintian/leetcode-answer/issues/756) | 45.50%   | Medium     |
-| 755  | [Pour Water](https://github.com/shaojintian/leetcode-answer/issues/755) $ | 34.00%   | Medium     |
-| 754  | [Reach a Number](https://github.com/shaojintian/leetcode-answer/issues/754) | 26.10%   | Medium     |
-| 753  | [Cracking the Safe](https://github.com/shaojintian/leetcode-answer/issues/753) | 39.70%   | Hard       |
-| 752  | [Open the Lock](https://github.com/shaojintian/leetcode-answer/issues/752) | 38.20%   | Medium     |
-| 751  | [IP to CIDR](https://github.com/shaojintian/leetcode-answer/issues/751) $ | 54.80%   | Easy       |
-| 750  | [Number Of Corner Rectangles](https://github.com/shaojintian/leetcode-answer/issues/750) $ | 51.00%   | Medium     |
-| 749  | [Contain Virus](https://github.com/shaojintian/leetcode-answer/issues/749) | 39.60%   | Hard       |
-| 748  | [Shortest Completing Word](https://github.com/shaojintian/leetcode-answer/issues/748) | 53.50%   | Medium     |
-| 747  | [Largest Number At Least Twice of Others](https://github.com/shaojintian/leetcode-answer/issues/747) | 42.60%   | Easy       |
-| 746  | [Min Cost Climbing Stairs](https://github.com/shaojintian/leetcode-answer/issues/746) | 43.60%   | Easy       |
-| 745  | [Prefix and Suffix Search](https://github.com/shaojintian/leetcode-answer/issues/745) | 24.50%   | Hard       |
-| 744  | [Find Smallest Letter Greater Than Target](https://github.com/shaojintian/leetcode-answer/issues/744) | 45.30%   | Easy       |
-| 743  | [Network Delay Time](https://github.com/shaojintian/leetcode-answer/issues/743) | 34.30%   | Medium     |
-| 742  | [Closest Leaf in a Binary Tree](https://github.com/shaojintian/leetcode-answer/issues/742) $ | 33.20%   | Medium     |
-| 741  | [Cherry Pickup](https://github.com/shaojintian/leetcode-answer/issues/741) | 22.50%   | Hard       |
-| 740  | [Delete and Earn](https://github.com/shaojintian/leetcode-answer/issues/740) | 42.60%   | Medium     |
-| 739  | [Daily Temperatures](https://github.com/shaojintian/leetcode-answer/issues/739) | 53.50%   | Medium     |
-| 738  | [Monotone Increasing Digits](https://github.com/shaojintian/leetcode-answer/issues/738) | 41.80%   | Medium     |
-| 737  | [Sentence Similarity II](https://github.com/shaojintian/leetcode-answer/issues/737) $ | 41.20%   | Medium     |
-| 736  | [Parse Lisp Expression](https://github.com/shaojintian/leetcode-answer/issues/736) | 42.00%   | Hard       |
-| 735  | [Asteroid Collision](https://github.com/shaojintian/leetcode-answer/issues/735) | 37.60%   | Medium     |
-| 734  | [Sentence Similarity](https://github.com/shaojintian/leetcode-answer/issues/734) $ | 38.60%   | Easy       |
-| 733  | [Flood Fill](https://github.com/shaojintian/leetcode-answer/issues/733) | 49.30%   | Easy       |
-| 732  | [My Calendar III](https://github.com/shaojintian/leetcode-answer/issues/732) | 51.30%   | Hard       |
-| 731  | [My Calendar II](https://github.com/shaojintian/leetcode-answer/issues/731) | 35.00%   | Medium     |
-| 730  | [Count Different Palindromic Subsequences](https://github.com/shaojintian/leetcode-answer/issues/730) | 32.40%   | Hard       |
-| 729  | [My Calendar I](https://github.com/shaojintian/leetcode-answer/issues/729) | 40.10%   | Medium     |
-| 728  | [Self Dividing Numbers](https://github.com/shaojintian/leetcode-answer/issues/728) | 68.50%   | Easy       |
-| 727  | [Minimum Window Subsequence](https://github.com/shaojintian/leetcode-answer/issues/727) | 30.10%   | Hard       |
-| 726  | [Number of Atoms](https://github.com/shaojintian/leetcode-answer/issues/726) | 45.00%   | Hard       |
-| 725  | [Split Linked List in Parts](https://github.com/shaojintian/leetcode-answer/issues/725) | 50.00%   | Medium     |
-| 724  | [Find Pivot Index](https://github.com/shaojintian/leetcode-answer/issues/724) | 41.00%   | Easy       |
-| 723  | [Candy Crush](https://github.com/shaojintian/leetcode-answer/issues/723) $ | 56.10%   | Medium     |
-| 722  | [Remove Comments](https://github.com/shaojintian/leetcode-answer/issues/722) | 26.30%   | Medium     |
-| 721  | [Accounts Merge](https://github.com/shaojintian/leetcode-answer/issues/721) | 29.60%   | Medium     |
-| 720  | [Longest Word in Dictionary](https://github.com/shaojintian/leetcode-answer/issues/720) | 40.60%   | Easy       |
-| 719  | [Find K-th Smallest Pair Distance](https://github.com/shaojintian/leetcode-answer/issues/719) | 26.10%   | Hard       |
-| 718  | [Maximum Length of Repeated Subarray](https://github.com/shaojintian/leetcode-answer/issues/718) | 39.90%   | Medium     |
-| 717  | [1-bit and 2-bit Characters](https://github.com/shaojintian/leetcode-answer/issues/717) | 50.90%   | Easy       |
-| 716  | [Max Stack](https://github.com/shaojintian/leetcode-answer/issues/716) $ | 35.50%   | Hard       |
-| 715  | [Range Module](https://github.com/shaojintian/leetcode-answer/issues/715) | 31.00%   | Hard       |
-| 714  | [Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/shaojintian/leetcode-answer/issues/714) | 41.60%   | Medium     |
-| 713  | [Subarray Product Less Than K](https://github.com/shaojintian/leetcode-answer/issues/713) | 32.90%   | Medium     |
-| 712  | [Minimum ASCII Delete Sum for Two Strings](https://github.com/shaojintian/leetcode-answer/issues/712) | 50.90%   | Medium     |
-| 711  | [Number of Distinct Islands II](https://github.com/shaojintian/leetcode-answer/issues/711) $ | 39.40%   | Hard       |
-| 710  | [Random Pick with Blacklist](https://github.com/shaojintian/leetcode-answer/issues/710) | 29.80%   | Hard       |
-| 709  | [To Lower Case](https://github.com/shaojintian/leetcode-answer/issues/709) | 74.50%   | Easy       |
-| 708  | [Insert into a Cyclic Sorted List](https://github.com/shaojintian/leetcode-answer/issues/708) $ | 25.50%   | Medium     |
-| 707  | [Design Linked List](https://github.com/shaojintian/leetcode-answer/issues/707) | 19.10%   | Easy       |
-| 706  | [Design HashMap](https://github.com/shaojintian/leetcode-answer/issues/706) | 49.10%   | Easy       |
-| 705  | [Design HashSet](https://github.com/shaojintian/leetcode-answer/issues/705) | 43.60%   | Easy       |
-| 704  | [Binary Search](https://github.com/shaojintian/leetcode-answer/issues/704) | 40.10%   | Easy       |
-| 703  | [Kth Largest Element in a Stream](https://github.com/shaojintian/leetcode-answer/issues/703) | 39.60%   | Easy       |
-| 702  | [Search in a Sorted Array of Unknown Size](https://github.com/shaojintian/leetcode-answer/issues/702) | 43.00%   | Medium     |
-| 701  | [Insert into a Binary Search Tree](https://github.com/shaojintian/leetcode-answer/issues/701) | 67.90%   | Medium     |
-| 700  | [Search in a Binary Search Tree](https://github.com/shaojintian/leetcode-answer/issues/700) | 62.70%   | Easy       |
-| 699  | [Falling Squares](https://github.com/shaojintian/leetcode-answer/issues/699) | 36.80%   | Hard       |
-| 698  | [Partition to K Equal Sum Subsets](https://github.com/shaojintian/leetcode-answer/issues/698) | 35.60%   | Medium     |
-| 697  | [Degree of an Array](https://github.com/shaojintian/leetcode-answer/issues/697) | 47.90%   | Easy       |
-| 696  | [Count Binary Substrings](https://github.com/shaojintian/leetcode-answer/issues/696) | 51.90%   | Easy       |
-| 695  | [Max Area of Island](https://github.com/shaojintian/leetcode-answer/issues/695) | 53.30%   | Easy       |
-| 694  | [Number of Distinct Islands](https://github.com/shaojintian/leetcode-answer/issues/694) $ | 43.90%   | Medium     |
-| 693  | [Binary Number with Alternating Bits](https://github.com/shaojintian/leetcode-answer/issues/693) | 54.20%   | Easy       |
-| 692  | [Top K Frequent Words](https://github.com/shaojintian/leetcode-answer/issues/692) | 41.70%   | Medium     |
-| 691  | [Stickers to Spell Word](https://github.com/shaojintian/leetcode-answer/issues/691) | 32.30%   | Hard       |
-| 690  | [Employee Importance](https://github.com/shaojintian/leetcode-answer/issues/690) | 53.60%   | Easy       |
-| 689  | [Maximum Sum of 3 Non-Overlapping Subarrays](https://github.com/shaojintian/leetcode-answer/issues/689) | 41.70%   | Hard       |
-| 688  | [Knight Probability in Chessboard](https://github.com/shaojintian/leetcode-answer/issues/688) | 38.90%   | Medium     |
-| 687  | [Longest Univalue Path](https://github.com/shaojintian/leetcode-answer/issues/687) | 32.90%   | Easy       |
-| 686  | [Repeated String Match](https://github.com/shaojintian/leetcode-answer/issues/686) | 31.70%   | Easy       |
-| 685  | [Redundant Connection II](https://github.com/shaojintian/leetcode-answer/issues/685) | 28.40%   | Hard       |
-| 684  | [Redundant Connection](https://github.com/shaojintian/leetcode-answer/issues/684) | 37.40%   | Medium     |
-| 683  | [K Empty Slots](https://github.com/shaojintian/leetcode-answer/issues/683) | 37.00%   | Hard       |
-| 682  | [Baseball Game](https://github.com/shaojintian/leetcode-answer/issues/682) | 58.60%   | Easy       |
-| 681  | [Next Closest Time](https://github.com/shaojintian/leetcode-answer/issues/681) $ | 43.00%   | Medium     |
-| 680  | [Valid Palindrome II](https://github.com/shaojintian/leetcode-answer/issues/680) | 31.10%   | Easy       |
-| 679  | [24 Game](https://github.com/shaojintian/leetcode-answer/issues/679) | 38.30%   | Hard       |
-| 678  | [Valid Parenthesis String](https://github.com/shaojintian/leetcode-answer/issues/678) | 28.30%   | Medium     |
-| 677  | [Map Sum Pairs](https://github.com/shaojintian/leetcode-answer/issues/677) | 53.80%   | Medium     |
-| 676  | [Implement Magic Dictionary](https://github.com/shaojintian/leetcode-answer/issues/676) | 50.70%   | Medium     |
-| 675  | [Cut Off Trees for Golf Event](https://github.com/shaojintian/leetcode-answer/issues/675) | 27.20%   | Hard       |
-| 674  | [Longest Continuous Increasing Subsequence](https://github.com/shaojintian/leetcode-answer/issues/674) | 43.20%   | Easy       |
-| 673  | [Number of Longest Increasing Subsequence](https://github.com/shaojintian/leetcode-answer/issues/673) | 30.80%   | Medium     |
-| 672  | [Bulb Switcher II](https://github.com/shaojintian/leetcode-answer/issues/672) | 47.60%   | Medium     |
-| 671  | [Second Minimum Node In a Binary Tree](https://github.com/shaojintian/leetcode-answer/issues/671) | 42.30%   | Easy       |
-| 670  | [Maximum Swap](https://github.com/shaojintian/leetcode-answer/issues/670) | 38.40%   | Medium     |
-| 669  | [Trim a Binary Search Tree](https://github.com/shaojintian/leetcode-answer/issues/669) | 58.70%   | Easy       |
-| 668  | [Kth Smallest Number in Multiplication Table](https://github.com/shaojintian/leetcode-answer/issues/668) | 36.30%   | Hard       |
-| 667  | [Beautiful Arrangement II](https://github.com/shaojintian/leetcode-answer/issues/667) | 51.50%   | Medium     |
-| 666  | [Path Sum IV](https://github.com/shaojintian/leetcode-answer/issues/666) $ | 48.90%   | Medium     |
-| 665  | [Non-decreasing Array](https://github.com/shaojintian/leetcode-answer/issues/665) | 21.20%   | Easy       |
-| 664  | [Strange Printer](https://github.com/shaojintian/leetcode-answer/issues/664) | 31.10%   | Hard       |
-| 663  | [Equal Tree Partition](https://github.com/shaojintian/leetcode-answer/issues/663) $ | 36.70%   | Medium     |
-| 662  | [Maximum Width of Binary Tree](https://github.com/shaojintian/leetcode-answer/issues/662) | 37.00%   | Medium     |
-| 661  | [Image Smoother](https://github.com/shaojintian/leetcode-answer/issues/661) | 46.60%   | Easy       |
-| 660  | [Remove 9](https://github.com/shaojintian/leetcode-answer/issues/660) $ | 46.10%   | Hard       |
-| 659  | [Split Array into Consecutive Subsequences](https://github.com/shaojintian/leetcode-answer/issues/659) | 39.40%   | Medium     |
-| 658  | [Find K Closest Elements](https://github.com/shaojintian/leetcode-answer/issues/658) | 36.30%   | Medium     |
-| 657  | [Judge Route Circle](https://github.com/shaojintian/leetcode-answer/issues/657) | 69.30%   | Easy       |
-| 656  | [Coin Path](https://github.com/shaojintian/leetcode-answer/issues/656) $ | 24.60%   | Hard       |
-| 655  | [Print Binary Tree](https://github.com/shaojintian/leetcode-answer/issues/655) | 50.80%   | Medium     |
-| 654  | [Maximum Binary Tree](https://github.com/shaojintian/leetcode-answer/issues/654) | 70.80%   | Medium     |
-| 653  | [Two Sum IV - Input is a BST](https://github.com/shaojintian/leetcode-answer/issues/653) | 50.60%   | Easy       |
-| 652  | [Find Duplicate Subtrees](https://github.com/shaojintian/leetcode-answer/issues/652) | 33.20%   | Medium     |
-| 651  | [4 Keys Keyboard](https://github.com/shaojintian/leetcode-answer/issues/651) $ | 46.70%   | Medium     |
-| 650  | [2 Keys Keyboard](https://github.com/shaojintian/leetcode-answer/issues/650) | 42.70%   | Medium     |
-| 649  | [Dota2 Senate](https://github.com/shaojintian/leetcode-answer/issues/649) | 35.60%   | Medium     |
-| 648  | [Replace Words](https://github.com/shaojintian/leetcode-answer/issues/648) | 48.40%   | Medium     |
-| 647  | [Palindromic Substrings](https://github.com/shaojintian/leetcode-answer/issues/647) | 55.70%   | Medium     |
-| 646  | [Maximum Length of Pair Chain](https://github.com/shaojintian/leetcode-answer/issues/646) | 47.40%   | Medium     |
-| 645  | [Set Mismatch](https://github.com/shaojintian/leetcode-answer/issues/645) | 40.40%   | Easy       |
-| 644  | [Maximum Average Subarray II](https://github.com/shaojintian/leetcode-answer/issues/644) $ | 20.30%   | Hard       |
-| 643  | [Maximum Average Subarray I](https://github.com/shaojintian/leetcode-answer/issues/643) | 38.40%   | Easy       |
-| 642  | [Design Search Autocomplete System](https://github.com/shaojintian/leetcode-answer/issues/642) $ | 29.40%   | Hard       |
-| 641  | [Design Circular Deque](https://github.com/shaojintian/leetcode-answer/issues/641) | 48.00%   | Medium     |
-| 640  | [Solve the Equation](https://github.com/shaojintian/leetcode-answer/issues/640) | 39.00%   | Medium     |
-| 639  | [Decode Ways II](https://github.com/shaojintian/leetcode-answer/issues/639) | 22.80%   | Hard       |
-| 638  | [Shopping Offers](https://github.com/shaojintian/leetcode-answer/issues/638) | 41.50%   | Medium     |
-| 637  | [Average of Levels in Binary Tree](https://github.com/shaojintian/leetcode-answer/issues/637) | 55.60%   | Easy       |
-| 636  | [Exclusive Time of Functions](https://github.com/shaojintian/leetcode-answer/issues/636) | 40.30%   | Medium     |
-| 635  | [Design Log Storage System](https://github.com/shaojintian/leetcode-answer/issues/635) $ | 47.70%   | Medium     |
-| 634  | [Find the Derangement of An Array](https://github.com/shaojintian/leetcode-answer/issues/634) $ | 32.70%   | Medium     |
-| 633  | [Sum of Square Numbers](https://github.com/shaojintian/leetcode-answer/issues/633) | 31.60%   | Easy       |
-| 632  | [Smallest Range](https://github.com/shaojintian/leetcode-answer/issues/632) | 42.80%   | Hard       |
-| 631  | [Design Excel Sum Formula](https://github.com/shaojintian/leetcode-answer/issues/631) $ | 25.60%   | Hard       |
-| 630  | [Course Schedule III](https://github.com/shaojintian/leetcode-answer/issues/630) | 20.50%   | Medium     |
-| 629  | [K Inverse Pairs Array](https://github.com/shaojintian/leetcode-answer/issues/629) | 23.90%   | Hard       |
-| 628  | [Maximum Product of Three Numbers](https://github.com/shaojintian/leetcode-answer/issues/628) | 45.40%   | Easy       |
-| 627  | [Swap Salary](https://github.com/shaojintian/leetcode-answer/issues/627)                                                  | 67.40%   | Easy       |
-| 626  | [Exchange Seats](https://github.com/shaojintian/leetcode-answer/issues/626)                                               | 49.60%   | Medium     |
-| 625  | [Minimum Factorization](https://github.com/shaojintian/leetcode-answer/issues/625) | 29.50%   | Medium     |
-| 624  | [Maximum Distance in Arrays](https://github.com/shaojintian/leetcode-answer/issues/624) $ | 32.70%   | Easy       |
-| 623  | [Add One Row to Tree](https://github.com/shaojintian/leetcode-answer/issues/623) | 48.70%   | Medium     |
-| 622  | [Design Circular Queue](https://github.com/shaojintian/leetcode-answer/issues/622) | 36.60%   | Medium     |
-| 621  | [Task Scheduler](https://github.com/shaojintian/leetcode-answer/issues/621) | 41.40%   | Medium     |
-| 620  | [Not Boring Movies](https://github.com/shaojintian/leetcode-answer/issues/620)                                            | 59.80%   | Easy       |
-| 619  | [Biggest Single Number](https://github.com/shaojintian/leetcode-answer/issues/619)                                   | 36.60%   | Easy       |
-| 618  | [Students Report By Geography](https://github.com/shaojintian/leetcode-answer/issues/618)                             | 40.40%   | Hard       |
-| 617  | [Merge Two Binary Trees](https://github.com/shaojintian/leetcode-answer/issues/617) | 69.60%   | Easy       |
-| 616  | [Add Bold Tag in String](https://github.com/shaojintian/leetcode-answer/issues/616) $ | 37.30%   | Medium     |
+| 769  | [Max Chunks To Make Sorted](https://github.com/shaojintian/leetcode-answer/answers/769) | 48.00%   | Medium     |
+| 768  | [Max Chunks To Make Sorted II](https://github.com/shaojintian/leetcode-answer/answers/768) | 43.20%   | Hard       |
+| 767  | [Reorganize String](https://github.com/shaojintian/leetcode-answer/answers/767) | 36.50%   | Medium     |
+| 766  | [Toeplitz Matrix](https://github.com/shaojintian/leetcode-answer/answers/766) | 57.90%   | Easy       |
+| 765  | [Couples Holding Hands](https://github.com/shaojintian/leetcode-answer/answers/765) | 48.50%   | Hard       |
+| 764  | [Largest Plus Sign](https://github.com/shaojintian/leetcode-answer/answers/764) | 39.20%   | Medium     |
+| 763  | [Partition Labels](https://github.com/shaojintian/leetcode-answer/answers/763) | 64.10%   | Medium     |
+| 762  | [Prime Number of Set Bits in Binary Representation](https://github.com/shaojintian/leetcode-answer/answers/762) | 55.00%   | Easy       |
+| 761  | [Special Binary String](https://github.com/shaojintian/leetcode-answer/answers/761) | 41.00%   | Hard       |
+| 760  | [Find Anagram Mappings](https://github.com/shaojintian/leetcode-answer/answers/760) $ | 75.60%   | Easy       |
+| 759  | [Employee Free Time](https://github.com/shaojintian/leetcode-answer/answers/759) $ | 51.90%   | Hard       |
+| 758  | [Bold Words in String](https://github.com/shaojintian/leetcode-answer/answers/758) $ | 37.90%   | Easy       |
+| 757  | [Set Intersection Size At Least Two](https://github.com/shaojintian/leetcode-answer/answers/757) | 34.60%   | Hard       |
+| 756  | [Pyramid Transition Matrix](https://github.com/shaojintian/leetcode-answer/answers/756) | 45.50%   | Medium     |
+| 755  | [Pour Water](https://github.com/shaojintian/leetcode-answer/answers/755) $ | 34.00%   | Medium     |
+| 754  | [Reach a Number](https://github.com/shaojintian/leetcode-answer/answers/754) | 26.10%   | Medium     |
+| 753  | [Cracking the Safe](https://github.com/shaojintian/leetcode-answer/answers/753) | 39.70%   | Hard       |
+| 752  | [Open the Lock](https://github.com/shaojintian/leetcode-answer/answers/752) | 38.20%   | Medium     |
+| 751  | [IP to CIDR](https://github.com/shaojintian/leetcode-answer/answers/751) $ | 54.80%   | Easy       |
+| 750  | [Number Of Corner Rectangles](https://github.com/shaojintian/leetcode-answer/answers/750) $ | 51.00%   | Medium     |
+| 749  | [Contain Virus](https://github.com/shaojintian/leetcode-answer/answers/749) | 39.60%   | Hard       |
+| 748  | [Shortest Completing Word](https://github.com/shaojintian/leetcode-answer/answers/748) | 53.50%   | Medium     |
+| 747  | [Largest Number At Least Twice of Others](https://github.com/shaojintian/leetcode-answer/answers/747) | 42.60%   | Easy       |
+| 746  | [Min Cost Climbing Stairs](https://github.com/shaojintian/leetcode-answer/answers/746) | 43.60%   | Easy       |
+| 745  | [Prefix and Suffix Search](https://github.com/shaojintian/leetcode-answer/answers/745) | 24.50%   | Hard       |
+| 744  | [Find Smallest Letter Greater Than Target](https://github.com/shaojintian/leetcode-answer/answers/744) | 45.30%   | Easy       |
+| 743  | [Network Delay Time](https://github.com/shaojintian/leetcode-answer/answers/743) | 34.30%   | Medium     |
+| 742  | [Closest Leaf in a Binary Tree](https://github.com/shaojintian/leetcode-answer/answers/742) $ | 33.20%   | Medium     |
+| 741  | [Cherry Pickup](https://github.com/shaojintian/leetcode-answer/answers/741) | 22.50%   | Hard       |
+| 740  | [Delete and Earn](https://github.com/shaojintian/leetcode-answer/answers/740) | 42.60%   | Medium     |
+| 739  | [Daily Temperatures](https://github.com/shaojintian/leetcode-answer/answers/739) | 53.50%   | Medium     |
+| 738  | [Monotone Increasing Digits](https://github.com/shaojintian/leetcode-answer/answers/738) | 41.80%   | Medium     |
+| 737  | [Sentence Similarity II](https://github.com/shaojintian/leetcode-answer/answers/737) $ | 41.20%   | Medium     |
+| 736  | [Parse Lisp Expression](https://github.com/shaojintian/leetcode-answer/answers/736) | 42.00%   | Hard       |
+| 735  | [Asteroid Collision](https://github.com/shaojintian/leetcode-answer/answers/735) | 37.60%   | Medium     |
+| 734  | [Sentence Similarity](https://github.com/shaojintian/leetcode-answer/answers/734) $ | 38.60%   | Easy       |
+| 733  | [Flood Fill](https://github.com/shaojintian/leetcode-answer/answers/733) | 49.30%   | Easy       |
+| 732  | [My Calendar III](https://github.com/shaojintian/leetcode-answer/answers/732) | 51.30%   | Hard       |
+| 731  | [My Calendar II](https://github.com/shaojintian/leetcode-answer/answers/731) | 35.00%   | Medium     |
+| 730  | [Count Different Palindromic Subsequences](https://github.com/shaojintian/leetcode-answer/answers/730) | 32.40%   | Hard       |
+| 729  | [My Calendar I](https://github.com/shaojintian/leetcode-answer/answers/729) | 40.10%   | Medium     |
+| 728  | [Self Dividing Numbers](https://github.com/shaojintian/leetcode-answer/answers/728) | 68.50%   | Easy       |
+| 727  | [Minimum Window Subsequence](https://github.com/shaojintian/leetcode-answer/answers/727) | 30.10%   | Hard       |
+| 726  | [Number of Atoms](https://github.com/shaojintian/leetcode-answer/answers/726) | 45.00%   | Hard       |
+| 725  | [Split Linked List in Parts](https://github.com/shaojintian/leetcode-answer/answers/725) | 50.00%   | Medium     |
+| 724  | [Find Pivot Index](https://github.com/shaojintian/leetcode-answer/answers/724) | 41.00%   | Easy       |
+| 723  | [Candy Crush](https://github.com/shaojintian/leetcode-answer/answers/723) $ | 56.10%   | Medium     |
+| 722  | [Remove Comments](https://github.com/shaojintian/leetcode-answer/answers/722) | 26.30%   | Medium     |
+| 721  | [Accounts Merge](https://github.com/shaojintian/leetcode-answer/answers/721) | 29.60%   | Medium     |
+| 720  | [Longest Word in Dictionary](https://github.com/shaojintian/leetcode-answer/answers/720) | 40.60%   | Easy       |
+| 719  | [Find K-th Smallest Pair Distance](https://github.com/shaojintian/leetcode-answer/answers/719) | 26.10%   | Hard       |
+| 718  | [Maximum Length of Repeated Subarray](https://github.com/shaojintian/leetcode-answer/answers/718) | 39.90%   | Medium     |
+| 717  | [1-bit and 2-bit Characters](https://github.com/shaojintian/leetcode-answer/answers/717) | 50.90%   | Easy       |
+| 716  | [Max Stack](https://github.com/shaojintian/leetcode-answer/answers/716) $ | 35.50%   | Hard       |
+| 715  | [Range Module](https://github.com/shaojintian/leetcode-answer/answers/715) | 31.00%   | Hard       |
+| 714  | [Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/shaojintian/leetcode-answer/answers/714) | 41.60%   | Medium     |
+| 713  | [Subarray Product Less Than K](https://github.com/shaojintian/leetcode-answer/answers/713) | 32.90%   | Medium     |
+| 712  | [Minimum ASCII Delete Sum for Two Strings](https://github.com/shaojintian/leetcode-answer/answers/712) | 50.90%   | Medium     |
+| 711  | [Number of Distinct Islands II](https://github.com/shaojintian/leetcode-answer/answers/711) $ | 39.40%   | Hard       |
+| 710  | [Random Pick with Blacklist](https://github.com/shaojintian/leetcode-answer/answers/710) | 29.80%   | Hard       |
+| 709  | [To Lower Case](https://github.com/shaojintian/leetcode-answer/answers/709) | 74.50%   | Easy       |
+| 708  | [Insert into a Cyclic Sorted List](https://github.com/shaojintian/leetcode-answer/answers/708) $ | 25.50%   | Medium     |
+| 707  | [Design Linked List](https://github.com/shaojintian/leetcode-answer/answers/707) | 19.10%   | Easy       |
+| 706  | [Design HashMap](https://github.com/shaojintian/leetcode-answer/answers/706) | 49.10%   | Easy       |
+| 705  | [Design HashSet](https://github.com/shaojintian/leetcode-answer/answers/705) | 43.60%   | Easy       |
+| 704  | [Binary Search](https://github.com/shaojintian/leetcode-answer/answers/704) | 40.10%   | Easy       |
+| 703  | [Kth Largest Element in a Stream](https://github.com/shaojintian/leetcode-answer/answers/703) | 39.60%   | Easy       |
+| 702  | [Search in a Sorted Array of Unknown Size](https://github.com/shaojintian/leetcode-answer/answers/702) | 43.00%   | Medium     |
+| 701  | [Insert into a Binary Search Tree](https://github.com/shaojintian/leetcode-answer/answers/701) | 67.90%   | Medium     |
+| 700  | [Search in a Binary Search Tree](https://github.com/shaojintian/leetcode-answer/answers/700) | 62.70%   | Easy       |
+| 699  | [Falling Squares](https://github.com/shaojintian/leetcode-answer/answers/699) | 36.80%   | Hard       |
+| 698  | [Partition to K Equal Sum Subsets](https://github.com/shaojintian/leetcode-answer/answers/698) | 35.60%   | Medium     |
+| 697  | [Degree of an Array](https://github.com/shaojintian/leetcode-answer/answers/697) | 47.90%   | Easy       |
+| 696  | [Count Binary Substrings](https://github.com/shaojintian/leetcode-answer/answers/696) | 51.90%   | Easy       |
+| 695  | [Max Area of Island](https://github.com/shaojintian/leetcode-answer/answers/695) | 53.30%   | Easy       |
+| 694  | [Number of Distinct Islands](https://github.com/shaojintian/leetcode-answer/answers/694) $ | 43.90%   | Medium     |
+| 693  | [Binary Number with Alternating Bits](https://github.com/shaojintian/leetcode-answer/answers/693) | 54.20%   | Easy       |
+| 692  | [Top K Frequent Words](https://github.com/shaojintian/leetcode-answer/answers/692) | 41.70%   | Medium     |
+| 691  | [Stickers to Spell Word](https://github.com/shaojintian/leetcode-answer/answers/691) | 32.30%   | Hard       |
+| 690  | [Employee Importance](https://github.com/shaojintian/leetcode-answer/answers/690) | 53.60%   | Easy       |
+| 689  | [Maximum Sum of 3 Non-Overlapping Subarrays](https://github.com/shaojintian/leetcode-answer/answers/689) | 41.70%   | Hard       |
+| 688  | [Knight Probability in Chessboard](https://github.com/shaojintian/leetcode-answer/answers/688) | 38.90%   | Medium     |
+| 687  | [Longest Univalue Path](https://github.com/shaojintian/leetcode-answer/answers/687) | 32.90%   | Easy       |
+| 686  | [Repeated String Match](https://github.com/shaojintian/leetcode-answer/answers/686) | 31.70%   | Easy       |
+| 685  | [Redundant Connection II](https://github.com/shaojintian/leetcode-answer/answers/685) | 28.40%   | Hard       |
+| 684  | [Redundant Connection](https://github.com/shaojintian/leetcode-answer/answers/684) | 37.40%   | Medium     |
+| 683  | [K Empty Slots](https://github.com/shaojintian/leetcode-answer/answers/683) | 37.00%   | Hard       |
+| 682  | [Baseball Game](https://github.com/shaojintian/leetcode-answer/answers/682) | 58.60%   | Easy       |
+| 681  | [Next Closest Time](https://github.com/shaojintian/leetcode-answer/answers/681) $ | 43.00%   | Medium     |
+| 680  | [Valid Palindrome II](https://github.com/shaojintian/leetcode-answer/answers/680) | 31.10%   | Easy       |
+| 679  | [24 Game](https://github.com/shaojintian/leetcode-answer/answers/679) | 38.30%   | Hard       |
+| 678  | [Valid Parenthesis String](https://github.com/shaojintian/leetcode-answer/answers/678) | 28.30%   | Medium     |
+| 677  | [Map Sum Pairs](https://github.com/shaojintian/leetcode-answer/answers/677) | 53.80%   | Medium     |
+| 676  | [Implement Magic Dictionary](https://github.com/shaojintian/leetcode-answer/answers/676) | 50.70%   | Medium     |
+| 675  | [Cut Off Trees for Golf Event](https://github.com/shaojintian/leetcode-answer/answers/675) | 27.20%   | Hard       |
+| 674  | [Longest Continuous Increasing Subsequence](https://github.com/shaojintian/leetcode-answer/answers/674) | 43.20%   | Easy       |
+| 673  | [Number of Longest Increasing Subsequence](https://github.com/shaojintian/leetcode-answer/answers/673) | 30.80%   | Medium     |
+| 672  | [Bulb Switcher II](https://github.com/shaojintian/leetcode-answer/answers/672) | 47.60%   | Medium     |
+| 671  | [Second Minimum Node In a Binary Tree](https://github.com/shaojintian/leetcode-answer/answers/671) | 42.30%   | Easy       |
+| 670  | [Maximum Swap](https://github.com/shaojintian/leetcode-answer/answers/670) | 38.40%   | Medium     |
+| 669  | [Trim a Binary Search Tree](https://github.com/shaojintian/leetcode-answer/answers/669) | 58.70%   | Easy       |
+| 668  | [Kth Smallest Number in Multiplication Table](https://github.com/shaojintian/leetcode-answer/answers/668) | 36.30%   | Hard       |
+| 667  | [Beautiful Arrangement II](https://github.com/shaojintian/leetcode-answer/answers/667) | 51.50%   | Medium     |
+| 666  | [Path Sum IV](https://github.com/shaojintian/leetcode-answer/answers/666) $ | 48.90%   | Medium     |
+| 665  | [Non-decreasing Array](https://github.com/shaojintian/leetcode-answer/answers/665) | 21.20%   | Easy       |
+| 664  | [Strange Printer](https://github.com/shaojintian/leetcode-answer/answers/664) | 31.10%   | Hard       |
+| 663  | [Equal Tree Partition](https://github.com/shaojintian/leetcode-answer/answers/663) $ | 36.70%   | Medium     |
+| 662  | [Maximum Width of Binary Tree](https://github.com/shaojintian/leetcode-answer/answers/662) | 37.00%   | Medium     |
+| 661  | [Image Smoother](https://github.com/shaojintian/leetcode-answer/answers/661) | 46.60%   | Easy       |
+| 660  | [Remove 9](https://github.com/shaojintian/leetcode-answer/answers/660) $ | 46.10%   | Hard       |
+| 659  | [Split Array into Consecutive Subsequences](https://github.com/shaojintian/leetcode-answer/answers/659) | 39.40%   | Medium     |
+| 658  | [Find K Closest Elements](https://github.com/shaojintian/leetcode-answer/answers/658) | 36.30%   | Medium     |
+| 657  | [Judge Route Circle](https://github.com/shaojintian/leetcode-answer/answers/657) | 69.30%   | Easy       |
+| 656  | [Coin Path](https://github.com/shaojintian/leetcode-answer/answers/656) $ | 24.60%   | Hard       |
+| 655  | [Print Binary Tree](https://github.com/shaojintian/leetcode-answer/answers/655) | 50.80%   | Medium     |
+| 654  | [Maximum Binary Tree](https://github.com/shaojintian/leetcode-answer/answers/654) | 70.80%   | Medium     |
+| 653  | [Two Sum IV - Input is a BST](https://github.com/shaojintian/leetcode-answer/answers/653) | 50.60%   | Easy       |
+| 652  | [Find Duplicate Subtrees](https://github.com/shaojintian/leetcode-answer/answers/652) | 33.20%   | Medium     |
+| 651  | [4 Keys Keyboard](https://github.com/shaojintian/leetcode-answer/answers/651) $ | 46.70%   | Medium     |
+| 650  | [2 Keys Keyboard](https://github.com/shaojintian/leetcode-answer/answers/650) | 42.70%   | Medium     |
+| 649  | [Dota2 Senate](https://github.com/shaojintian/leetcode-answer/answers/649) | 35.60%   | Medium     |
+| 648  | [Replace Words](https://github.com/shaojintian/leetcode-answer/answers/648) | 48.40%   | Medium     |
+| 647  | [Palindromic Substrings](https://github.com/shaojintian/leetcode-answer/answers/647) | 55.70%   | Medium     |
+| 646  | [Maximum Length of Pair Chain](https://github.com/shaojintian/leetcode-answer/answers/646) | 47.40%   | Medium     |
+| 645  | [Set Mismatch](https://github.com/shaojintian/leetcode-answer/answers/645) | 40.40%   | Easy       |
+| 644  | [Maximum Average Subarray II](https://github.com/shaojintian/leetcode-answer/answers/644) $ | 20.30%   | Hard       |
+| 643  | [Maximum Average Subarray I](https://github.com/shaojintian/leetcode-answer/answers/643) | 38.40%   | Easy       |
+| 642  | [Design Search Autocomplete System](https://github.com/shaojintian/leetcode-answer/answers/642) $ | 29.40%   | Hard       |
+| 641  | [Design Circular Deque](https://github.com/shaojintian/leetcode-answer/answers/641) | 48.00%   | Medium     |
+| 640  | [Solve the Equation](https://github.com/shaojintian/leetcode-answer/answers/640) | 39.00%   | Medium     |
+| 639  | [Decode Ways II](https://github.com/shaojintian/leetcode-answer/answers/639) | 22.80%   | Hard       |
+| 638  | [Shopping Offers](https://github.com/shaojintian/leetcode-answer/answers/638) | 41.50%   | Medium     |
+| 637  | [Average of Levels in Binary Tree](https://github.com/shaojintian/leetcode-answer/answers/637) | 55.60%   | Easy       |
+| 636  | [Exclusive Time of Functions](https://github.com/shaojintian/leetcode-answer/answers/636) | 40.30%   | Medium     |
+| 635  | [Design Log Storage System](https://github.com/shaojintian/leetcode-answer/answers/635) $ | 47.70%   | Medium     |
+| 634  | [Find the Derangement of An Array](https://github.com/shaojintian/leetcode-answer/answers/634) $ | 32.70%   | Medium     |
+| 633  | [Sum of Square Numbers](https://github.com/shaojintian/leetcode-answer/answers/633) | 31.60%   | Easy       |
+| 632  | [Smallest Range](https://github.com/shaojintian/leetcode-answer/answers/632) | 42.80%   | Hard       |
+| 631  | [Design Excel Sum Formula](https://github.com/shaojintian/leetcode-answer/answers/631) $ | 25.60%   | Hard       |
+| 630  | [Course Schedule III](https://github.com/shaojintian/leetcode-answer/answers/630) | 20.50%   | Medium     |
+| 629  | [K Inverse Pairs Array](https://github.com/shaojintian/leetcode-answer/answers/629) | 23.90%   | Hard       |
+| 628  | [Maximum Product of Three Numbers](https://github.com/shaojintian/leetcode-answer/answers/628) | 45.40%   | Easy       |
+| 627  | [Swap Salary](https://github.com/shaojintian/leetcode-answer/answers/627)                                                  | 67.40%   | Easy       |
+| 626  | [Exchange Seats](https://github.com/shaojintian/leetcode-answer/answers/626)                                               | 49.60%   | Medium     |
+| 625  | [Minimum Factorization](https://github.com/shaojintian/leetcode-answer/answers/625) | 29.50%   | Medium     |
+| 624  | [Maximum Distance in Arrays](https://github.com/shaojintian/leetcode-answer/answers/624) $ | 32.70%   | Easy       |
+| 623  | [Add One Row to Tree](https://github.com/shaojintian/leetcode-answer/answers/623) | 48.70%   | Medium     |
+| 622  | [Design Circular Queue](https://github.com/shaojintian/leetcode-answer/answers/622) | 36.60%   | Medium     |
+| 621  | [Task Scheduler](https://github.com/shaojintian/leetcode-answer/answers/621) | 41.40%   | Medium     |
+| 620  | [Not Boring Movies](https://github.com/shaojintian/leetcode-answer/answers/620)                                            | 59.80%   | Easy       |
+| 619  | [Biggest Single Number](https://github.com/shaojintian/leetcode-answer/answers/619)                                   | 36.60%   | Easy       |
+| 618  | [Students Report By Geography](https://github.com/shaojintian/leetcode-answer/answers/618)                             | 40.40%   | Hard       |
+| 617  | [Merge Two Binary Trees](https://github.com/shaojintian/leetcode-answer/answers/617) | 69.60%   | Easy       |
+| 616  | [Add Bold Tag in String](https://github.com/shaojintian/leetcode-answer/answers/616) $ | 37.30%   | Medium     |
 | 615  | Average Salary: Departments VS Company $                     | 33.00%   | Hard       |
 | 614  | Second Degree Follower  $                                    | 22.70%   | Medium     |
 | 613  | Shortest Distance in a Line  $                               | 70.60%   | Easy       |
 | 612  | Shortest Distance in a Plane  $                              | 51.00%   | Medium     |
-| 611  | [Valid Triangle Number](https://github.com/shaojintian/leetcode-answer/issues/611) | 38.90%   | Medium     |
+| 611  | [Valid Triangle Number](https://github.com/shaojintian/leetcode-answer/answers/611) | 38.90%   | Medium     |
 | 610  | Triangle Judgement $                                         | 59.10%   | Easy       |
-| 609  | [Find Duplicate File in System](https://github.com/shaojintian/leetcode-answer/issues/609) | 52.50%   | Medium     |
+| 609  | [Find Duplicate File in System](https://github.com/shaojintian/leetcode-answer/answers/609) | 52.50%   | Medium     |
 | 608  | Tree Node $                                                  | 54.60%   | Medium     |
-| 607  | [Sales Person ](https://github.com/shaojintian/leetcode-answer/issues/607) $ | 51.10%   | Easy       |
-| 606  | [Construct String from Binary Tree](https://github.com/shaojintian/leetcode-answer/issues/606) | 51.80%   | Easy       |
-| 605  | [Can Place Flowers](https://github.com/shaojintian/leetcode-answer/issues/605) | 30.00%   | Easy       |
-| 604  | [Design Compressed String Iterator](https://github.com/shaojintian/leetcode-answer/issues/604) $ | 31.60%   | Easy       |
+| 607  | [Sales Person ](https://github.com/shaojintian/leetcode-answer/answers/607) $ | 51.10%   | Easy       |
+| 606  | [Construct String from Binary Tree](https://github.com/shaojintian/leetcode-answer/answers/606) | 51.80%   | Easy       |
+| 605  | [Can Place Flowers](https://github.com/shaojintian/leetcode-answer/answers/605) | 30.00%   | Easy       |
+| 604  | [Design Compressed String Iterator](https://github.com/shaojintian/leetcode-answer/answers/604) $ | 31.60%   | Easy       |
 | 603  | Consecutive Available Seats $                                | 54.50%   | Easy       |
 | 602  | Friend Requests II: Who Has the Most Friends  $              | 42.50%   | Medium     |
 | 601  | Human Traffic of Stadium                                     | 33.80%   | Hard       |
-| 600  | [Non-negative Integers without Consecutive Ones](https://github.com/shaojintian/leetcode-answer/issues/600) | 27.40%   | Hard       |
-| 599  | [Minimum Index Sum of Two Lists](https://github.com/shaojintian/leetcode-answer/issues/599) | 48.00%   | Easy       |
-| 598  | [Range Addition II](https://github.com/shaojintian/leetcode-answer/issues/598) | 48.30%   | Easy       |
+| 600  | [Non-negative Integers without Consecutive Ones](https://github.com/shaojintian/leetcode-answer/answers/600) | 27.40%   | Hard       |
+| 599  | [Minimum Index Sum of Two Lists](https://github.com/shaojintian/leetcode-answer/answers/599) | 48.00%   | Easy       |
+| 598  | [Range Addition II](https://github.com/shaojintian/leetcode-answer/answers/598) | 48.30%   | Easy       |
 | 597  | Friend Requests I: Overall Acceptance Rate  $                | 38.40%   | Easy       |
 | 596  | Classes More Than 5 Students                                 | 33.40%   | Easy       |
-| 595  | [Big Countries](https://github.com/shaojintian/leetcode-answer/issues/595) | 72.00%   | Easy       |
-| 594  | [Longest Harmonious Subsequence](https://github.com/shaojintian/leetcode-answer/issues/594) | 40.00%   | Easy       |
-| 593  | [Valid Square](https://github.com/shaojintian/leetcode-answer/issues/593) | 39.20%   | Medium     |
-| 592  | [Fraction Addition and Subtraction](https://github.com/shaojintian/leetcode-answer/issues/592) | 47.00%   | Medium     |
-| 591  | [Tag Validator](https://github.com/shaojintian/leetcode-answer/issues/591) | 26.40%   | Hard       |
-| 590  | [N-ary Tree Postorder Traversal](https://github.com/shaojintian/leetcode-answer/issues/590) | 63.00%   | Easy       |
-| 589  | [N-ary Tree Preorder Traversal](https://github.com/shaojintian/leetcode-answer/issues/589) | 63.10%   | Easy       |
-| 588  | [Design In-Memory File System](https://github.com/shaojintian/leetcode-answer/issues/588) $ | 32.40%   | Hard       |
-| 587  | [Erect the Fence](https://github.com/shaojintian/leetcode-answer/issues/587) | 29.90%   | Hard       |
+| 595  | [Big Countries](https://github.com/shaojintian/leetcode-answer/answers/595) | 72.00%   | Easy       |
+| 594  | [Longest Harmonious Subsequence](https://github.com/shaojintian/leetcode-answer/answers/594) | 40.00%   | Easy       |
+| 593  | [Valid Square](https://github.com/shaojintian/leetcode-answer/answers/593) | 39.20%   | Medium     |
+| 592  | [Fraction Addition and Subtraction](https://github.com/shaojintian/leetcode-answer/answers/592) | 47.00%   | Medium     |
+| 591  | [Tag Validator](https://github.com/shaojintian/leetcode-answer/answers/591) | 26.40%   | Hard       |
+| 590  | [N-ary Tree Postorder Traversal](https://github.com/shaojintian/leetcode-answer/answers/590) | 63.00%   | Easy       |
+| 589  | [N-ary Tree Preorder Traversal](https://github.com/shaojintian/leetcode-answer/answers/589) | 63.10%   | Easy       |
+| 588  | [Design In-Memory File System](https://github.com/shaojintian/leetcode-answer/answers/588) $ | 32.40%   | Hard       |
+| 587  | [Erect the Fence](https://github.com/shaojintian/leetcode-answer/answers/587) | 29.90%   | Hard       |
 | 586  | Customer Placing the Largest Number of Orders  $             | 62.50%   | Easy       |
 | 585  | Investments in 2016 $                                        | 44.60%   | Medium     |
 | 584  | Find Customer Referee  $                                     | 63.60%   | Easy       |
-| 583  | [Delete Operation for Two Strings](https://github.com/shaojintian/leetcode-answer/issues/583) | 44.00%   | Medium     |
-| 582  | [Kill Process](https://github.com/shaojintian/leetcode-answer/issues/582) $ | 47.70%   | Medium     |
-| 581  | [Shortest Unsorted Continuous Subarray](https://github.com/shaojintian/leetcode-answer/issues/581) | 30.10%   | Easy       |
+| 583  | [Delete Operation for Two Strings](https://github.com/shaojintian/leetcode-answer/answers/583) | 44.00%   | Medium     |
+| 582  | [Kill Process](https://github.com/shaojintian/leetcode-answer/answers/582) $ | 47.70%   | Medium     |
+| 581  | [Shortest Unsorted Continuous Subarray](https://github.com/shaojintian/leetcode-answer/answers/581) | 30.10%   | Easy       |
 | 580  | Count Student Number in Departments  $                       | 40.00%   | Medium     |
 | 579  | Find Cumulative Salary of an Employee  $                     | 30.90%   | Hard       |
 | 578  | Get Highest Answer Rate Question  $                          | 33.10%   | Medium     |
 | 577  | Employee Bonus  $                                            | 53.80%   | Easy       |
-| 576  | [Out of Boundary Paths](https://github.com/shaojintian/leetcode-answer/issues/576) | 33.10%   | Medium     |
-| 575  | [Distribute Candies](https://github.com/shaojintian/leetcode-answer/issues/575) | 59.50%   | Easy       |
-| 574  | [Winning Candidate ](https://github.com/shaojintian/leetcode-answer/issues/574) $ | 34.50%   | Medium     |
-| 573  | [Squirrel Simulation](https://github.com/shaojintian/leetcode-answer/issues/573) $ | 51.00%   | Medium     |
-| 572  | [Subtree of Another Tree](https://github.com/shaojintian/leetcode-answer/issues/572) | 41.00%   | Easy       |
+| 576  | [Out of Boundary Paths](https://github.com/shaojintian/leetcode-answer/answers/576) | 33.10%   | Medium     |
+| 575  | [Distribute Candies](https://github.com/shaojintian/leetcode-answer/answers/575) | 59.50%   | Easy       |
+| 574  | [Winning Candidate ](https://github.com/shaojintian/leetcode-answer/answers/574) $ | 34.50%   | Medium     |
+| 573  | [Squirrel Simulation](https://github.com/shaojintian/leetcode-answer/answers/573) $ | 51.00%   | Medium     |
+| 572  | [Subtree of Another Tree](https://github.com/shaojintian/leetcode-answer/answers/572) | 41.00%   | Easy       |
 | 571  | Find Median Given Frequency of Numbers  $                    | 44.90%   | Hard       |
 | 570  | Managers with at Least 5 Direct Reports $                    | 59.00%   | Medium     |
-| 569  | [Median Employee Salary ](https://github.com/shaojintian/leetcode-answer/issues/569) $ | 41.60%   | Hard       |
-| 568  | [Maximum Vacation Days](https://github.com/shaojintian/leetcode-answer/issues/568) $ | 39.90%   | Hard       |
-| 567  | [Permutation in String](https://github.com/shaojintian/leetcode-answer/issues/567) | 36.30%   | Medium     |
-| 566  | [Reshape the Matrix](https://github.com/shaojintian/leetcode-answer/issues/566) | 59.80%   | Easy       |
-| 565  | [Array Nesting](https://github.com/shaojintian/leetcode-answer/issues/565) | 50.00%   | Medium     |
-| 564  | [Find the Closest Palindrome](https://github.com/shaojintian/leetcode-answer/issues/564) | 16.60%   | Hard       |
-| 563  | [Binary Tree Tilt](https://github.com/shaojintian/leetcode-answer/issues/563) | 47.00%   | Easy       |
-| 562  | [Longest Line of Consecutive One in Matrix](https://github.com/shaojintian/leetcode-answer/issues/562) $ | 38.80%   | Medium     |
-| 561  | [Array Partition I](https://github.com/shaojintian/leetcode-answer/issues/561) | 69.80%   | Easy       |
-| 560  | [Subarray Sum Equals K](https://github.com/shaojintian/leetcode-answer/issues/560) | 41.80%   | Medium     |
-| 559  | [Maximum Depth of N-ary Tree](https://github.com/shaojintian/leetcode-answer/issues/559) | 62.10%   | Easy       |
-| 558  | [Quad Tree Intersection](https://github.com/shaojintian/leetcode-answer/issues/558) | 36.40%   | Easy       |
-| 557  | [Reverse Words in a String III](https://github.com/shaojintian/leetcode-answer/issues/557) | 61.20%   | Easy       |
-| 556  | [Next Greater Element III](https://github.com/shaojintian/leetcode-answer/issues/556) | 27.70%   | Medium     |
-| 555  | [Split Concatenated Strings](https://github.com/shaojintian/leetcode-answer/issues/555) $ | 30.00%   | Medium     |
-| 554  | [Brick Wall](https://github.com/shaojintian/leetcode-answer/issues/554) | 42.70%   | Medium     |
-| 553  | [Optimal Division](https://github.com/shaojintian/leetcode-answer/issues/553) | 55.20%   | Medium     |
-| 552  | [Student Attendance Record II](https://github.com/shaojintian/leetcode-answer/issues/552) | 28.50%   | Hard       |
-| 551  | [Student Attendance Record I](https://github.com/shaojintian/leetcode-answer/issues/551) | 43.90%   | Easy       |
-| 549  | [Binary Tree Longest Consecutive Sequence II](https://github.com/shaojintian/leetcode-answer/issues/549) $ | 38.10%   | Medium     |
-| 548  | [Split Array with Equal Sum](https://github.com/shaojintian/leetcode-answer/issues/548) $ | 30.80%   | Medium     |
-| 547  | [Friend Circles](https://github.com/shaojintian/leetcode-answer/issues/547) | 49.00%   | Medium     |
-| 546  | [Remove Boxes](https://github.com/shaojintian/leetcode-answer/issues/546) | 29.60%   | Hard       |
-| 545  | [Boundary of Binary Tree](https://github.com/shaojintian/leetcode-answer/issues/545) $ | 29.10%   | Medium     |
-| 544  | [Output Contest Matches](https://github.com/shaojintian/leetcode-answer/issues/544) $ | 73.20%   | Medium     |
-| 543  | [Diameter of Binary Tree](https://github.com/shaojintian/leetcode-answer/issues/543) | 42.70%   | Easy       |
-| 542  | [01 Matrix](https://github.com/shaojintian/leetcode-answer/issues/542) | 32.50%   | Medium     |
-| 541  | [Reverse String II](https://github.com/shaojintian/leetcode-answer/issues/541) | 44.40%   | Easy       |
-| 540  | [Single Element in a Sorted Array](https://github.com/shaojintian/leetcode-answer/issues/540) | 55.90%   | Medium     |
-| 539  | [Minimum Time Difference](https://github.com/shaojintian/leetcode-answer/issues/539) | 44.70%   | Medium     |
-| 538  | [Convert BST to Greater Tree](https://github.com/shaojintian/leetcode-answer/issues/538) | 52.70%   | Medium     |
-| 537  | [Complex Number Multiplication](https://github.com/shaojintian/leetcode-answer/issues/537) | 65.90%   | Medium     |
-| 536  | [Construct Binary Tree from String](https://github.com/shaojintian/leetcode-answer/issues/536) $ | 36.30%   | Medium     |
-| 535  | [Encode and Decode TinyURL](https://github.com/shaojintian/leetcode-answer/issues/535) | 76.10%   | Medium     |
-| 534  | [Design TinyURL](https://github.com/shaojintian/leetcode-answer/issues/534) | N/A      | Medium     |
-| 533  | [Lonely Pixel II](https://github.com/shaojintian/leetcode-answer/issues/533) $ | 38.90%   | Medium     |
-| 532  | [K-diff Pairs in an Array](https://github.com/shaojintian/leetcode-answer/issues/532) | 27.20%   | Easy       |
-| 531  | [Lonely Pixel I](https://github.com/shaojintian/leetcode-answer/issues/531) $ | 50.20%   | Medium     |
-| 530  | [Minimum Absolute Difference in BST](https://github.com/shaojintian/leetcode-answer/issues/530) | 48.00%   | Easy       |
-| 529  | [Minesweeper](https://github.com/shaojintian/leetcode-answer/issues/529) | 52.00%   | Medium     |
-| 528  | [Random Pick with Weight](https://github.com/shaojintian/leetcode-answer/issues/528) | 41.80%   | Medium     |
-| 527  | [Word Abbreviation](https://github.com/shaojintian/leetcode-answer/issues/527) $ | 33.90%   | Hard       |
-| 526  | [Beautiful Arrangement](https://github.com/shaojintian/leetcode-answer/issues/526) | 53.50%   | Medium     |
-| 525  | [Contiguous Array](https://github.com/shaojintian/leetcode-answer/issues/525) | 34.40%   | Medium     |
-| 524  | [Longest Word in Dictionary through Deleting](https://github.com/shaojintian/leetcode-answer/issues/524) | 40.20%   | Medium     |
-| 523  | [Continuous Subarray Sum](https://github.com/shaojintian/leetcode-answer/issues/523) | 21.3     | Medium     |
-| 522  | [Longest Uncommon Subsequence II](https://github.com/shaojintian/leetcode-answer/issues/522) | 28.10%   | Medium     |
-| 521  | [Longest Uncommon Subsequence I](https://github.com/shaojintian/leetcode-answer/issues/521) | 50.70%   | Easy       |
-| 520  | [Detect Capital](https://github.com/shaojintian/leetcode-answer/issues/520) | 54.20%   | Easy       |
-| 519  | [Random Flip Matrix](https://github.com/shaojintian/leetcode-answer/issues/519) | 32.20%   | Medium     |
-| 518  | [Coin Change 2](https://github.com/shaojintian/leetcode-answer/issues/518) | 33.20%   | Medium     |
-| 517  | [Super Washing Machines](https://github.com/shaojintian/leetcode-answer/issues/517) | 34.60%   | Hard       |
-| 516  | [Longest Palindromic Subsequence](https://github.com/shaojintian/leetcode-answer/issues/516) | 42.00%   | Medium     |
-| 515  | [Find Largest Value in Each Tree Row](https://github.com/shaojintian/leetcode-answer/issues/515) | 52.70%   | Medium     |
-| 514  | [Freedom Trail](https://github.com/shaojintian/leetcode-answer/issues/514) | 27.20%   | Hard       |
-| 513  | [Find Bottom Left Tree Value](https://github.com/shaojintian/leetcode-answer/issues/513) | 55.60%   | Medium     |
-| 510  | [Inorder Successor in BST II](https://github.com/shaojintian/leetcode-answer/issues/510) $ | 56.20%   | Medium     |
-| 509  | [Fibonacci Number](https://github.com/shaojintian/leetcode-answer/issues/509) | 66.40%   | Easy       |
-| 508  | [Most Frequent Subtree Sum](https://github.com/shaojintian/leetcode-answer/issues/508) | 52.00%   | Medium     |
-| 507  | [Perfect Number](https://github.com/shaojintian/leetcode-answer/issues/507) | 32.70%   | Easy       |
-| 506  | [Relative Ranks](https://github.com/shaojintian/leetcode-answer/issues/506) | 48.50%   | Easy       |
-| 505  | [The Maze II](https://github.com/shaojintian/leetcode-answer/issues/505) | 34.80%   | Medium     |
-| 504  | [Base 7](https://github.com/shaojintian/leetcode-answer/issues/504) | 46.40%   | Easy       |
-| 503  | [Next Greater Element II](https://github.com/shaojintian/leetcode-answer/issues/503) | 46.20%   | Medium     |
-| 502  | [IPO](https://github.com/shaojintian/leetcode-answer/issues/502) | 32.40%   | Hard       |
-| 501  | [Find Mode in Binary Search Tree](https://github.com/shaojintian/leetcode-answer/issues/501) | 39.40%   | Easy       |
-| 500  | [Keyboard Row](https://github.com/shaojintian/leetcode-answer/issues/500) | 60.20%   | Easy       |
-| 499  | [The Maze III](https://github.com/shaojintian/leetcode-answer/issues/499) | 32.00%   | Hard       |
-| 498  | [Diagonal Traverse](https://github.com/shaojintian/leetcode-answer/issues/498) | 46.20%   | Medium     |
-| 497  | [Random Point in Non-overlapping Rectangles](https://github.com/shaojintian/leetcode-answer/issues/497) | 33.20%   | Medium     |
-| 496  | [Next Greater Element I](https://github.com/shaojintian/leetcode-answer/issues/496) | 58.80%   | Easy       |
-| 495  | [Teemo Attacking](https://github.com/shaojintian/leetcode-answer/issues/495) | 51.90%   | Medium     |
-| 494  | [Target Sum](https://github.com/shaojintian/leetcode-answer/issues/494) | 44.40%   | Medium     |
-| 493  | [Reverse Pairs](https://github.com/shaojintian/leetcode-answer/issues/493) | 17.10%   | Hard       |
-| 492  | [Construct the Rectangle](https://github.com/shaojintian/leetcode-answer/issues/492) | 49.70%   | Easy       |
-| 491  | [Increasing Subsequences](https://github.com/shaojintian/leetcode-answer/issues/491) | 39.30%   | Medium     |
-| 490  | [The Maze](https://github.com/shaojintian/leetcode-answer/issues/490) | 42.80%   | Medium     |
-| 489  | [Robot Room Cleaner](https://github.com/shaojintian/leetcode-answer/issues/489) | 57.10%   | Hard       |
-| 488  | [Zuma Game](https://github.com/shaojintian/leetcode-answer/issues/488) | 38.00%   | Hard       |
-| 487  | [Max Consecutive Ones II](https://github.com/shaojintian/leetcode-answer/issues/487) $ | 42.70%   | Medium     |
-| 486  | [Predict the Winner](https://github.com/shaojintian/leetcode-answer/issues/486) | 43.60%   | Medium     |
-| 485  | [Max Consecutive Ones](https://github.com/shaojintian/leetcode-answer/issues/485) | 55.30%   | Easy       |
-| 484  | [Find Permutation](https://github.com/shaojintian/leetcode-answer/issues/484) $ | 50.50%   | Medium     |
-| 483  | [Smallest Good Base](https://github.com/shaojintian/leetcode-answer/issues/483) | 30.60%   | Hard       |
-| 482  | [License Key Formatting](https://github.com/shaojintian/leetcode-answer/issues/482) | 41.20%   | Medium     |
-| 481  | [Magical String](https://github.com/shaojintian/leetcode-answer/issues/481) | 46.20%   | Medium     |
-| 480  | [Sliding Window Median](https://github.com/shaojintian/leetcode-answer/issues/480) | 31.00%   | Hard       |
-| 479  | [Largest Palindrome Product](https://github.com/shaojintian/leetcode-answer/issues/479) | 23.90%   | Easy       |
-| 478  | [Generate Random Point in a Circle](https://github.com/shaojintian/leetcode-answer/issues/478) | 33.80%   | Medium     |
-| 477  | [Total Hamming Distance](https://github.com/shaojintian/leetcode-answer/issues/477) | 44.10%   | Medium     |
-| 476  | [Number Complement](https://github.com/shaojintian/leetcode-answer/issues/476) | 61.20%   | Easy       |
-| 475  | [Heaters](https://github.com/shaojintian/leetcode-answer/issues/475) | 30.20%   | Easy       |
-| 474  | [Ones and Zeroes](https://github.com/shaojintian/leetcode-answer/issues/474) | 34.90%   | Medium     |
-| 473  | [Matchsticks to Square](https://github.com/shaojintian/leetcode-answer/issues/473) | 31.80%   | Medium     |
-| 472  | [Concatenated Words](https://github.com/shaojintian/leetcode-answer/issues/472) | 29.20%   | Hard       |
-| 471  | [Encode String with Shortest Length](https://github.com/shaojintian/leetcode-answer/issues/471) $ | 43.50%   | Hard       |
-| 470  | [Implement Rand10() Using Rand7()](https://github.com/shaojintian/leetcode-answer/issues/470) | 43.00%   | Medium     |
-| 469  | [Convex Polygon](https://github.com/shaojintian/leetcode-answer/issues/469) $ | 27.20%   | Medium     |
-| 468  | [Validate IP Address](https://github.com/shaojintian/leetcode-answer/issues/468) | 22.10%   | Medium     |
-| 467  | [Unique Substrings in Wraparound String](https://github.com/shaojintian/leetcode-answer/issues/467) | 29.90%   | Medium     |
-| 466  | [Count The Repetitions](https://github.com/shaojintian/leetcode-answer/issues/466) | 24.20%   | Hard       |
-| 465  | [Optimal Account Balancing](https://github.com/shaojintian/leetcode-answer/issues/465) $ | 29.20%   | Hard       |
-| 464  | [Can I Win](https://github.com/shaojintian/leetcode-answer/issues/464) | 22.20%   | Medium     |
-| 463  | [Island Perimeter](https://github.com/shaojintian/leetcode-answer/issues/463) | 56.70%   | Easy       |
-| 462  | [Minimum Moves to Equal Array Elements II](https://github.com/shaojintian/leetcode-answer/issues/462) | 50.90%   | Medium     |
-| 461  | [Hamming Distance](https://github.com/shaojintian/leetcode-answer/issues/461) | 73.20%   | Easy       |
-| 460  | [LFU Cache](https://github.com/shaojintian/leetcode-answer/issues/460) | 18.30%   | Hard       |
-| 459  | [Repeated Substring Pattern](https://github.com/shaojintian/leetcode-answer/issues/459) | 39.70%   | Easy       |
-| 458  | [Poor Pigs](https://github.com/shaojintian/leetcode-answer/issues/458) | 40.70%   | Easy       |
-| 457  | [Circular Array Loop](https://github.com/shaojintian/leetcode-answer/issues/457) | 20.60%   | Medium     |
-| 456  | [132 Pattern](https://github.com/shaojintian/leetcode-answer/issues/456) | 28.00%   | Medium     |
-| 455  | [Assign Cookies](https://github.com/shaojintian/leetcode-answer/issues/455) | 48.10%   | Easy       |
-| 454  | [4Sum II](https://github.com/shaojintian/leetcode-answer/issues/454) | 42.80%   | Medium     |
-| 453  | [Minimum Moves to Equal Array Elements](https://github.com/shaojintian/leetcode-answer/issues/453) | 46.30%   | Easy       |
-| 452  | [Minimum Number of Arrows to Burst Balloons](https://github.com/shaojintian/leetcode-answer/issues/452) | 42.10%   | Medium     |
-| 451  | [Sort Characters By Frequency](https://github.com/shaojintian/leetcode-answer/issues/451) | 50.90%   | Medium     |
-| 450  | [Delete Node in a BST](https://github.com/shaojintian/leetcode-answer/issues/450) | 34.50%   | Medium     |
-| 449  | [Serialize and Deserialize BST](https://github.com/shaojintian/leetcode-answer/issues/449) | 41.20%   | Medium     |
-| 448  | [Find All Numbers Disappeared in an Array](https://github.com/shaojintian/leetcode-answer/issues/448) | 58.30%   | Easy       |
-| 447  | [Number of Boomerangs](https://github.com/shaojintian/leetcode-answer/issues/447) | 42.20%   | Easy       |
-| 446  | [Arithmetic Slices II - Subsequence](https://github.com/shaojintian/leetcode-answer/issues/446) | 22.30%   | Hard       |
-| 445  | [Add Two Numbers II](https://github.com/shaojintian/leetcode-answer/issues/445) | 45.40%   | Medium     |
-| 444  | [Sequence Reconstruction](https://github.com/shaojintian/leetcode-answer/issues/444) $ | 20.50%   | Medium     |
-| 443  | [String Compression](https://github.com/shaojintian/leetcode-answer/issues/443) | 35.80%   | Easy       |
-| 442  | [Find All Duplicates in an Array](https://github.com/shaojintian/leetcode-answer/issues/442) | 46.40%   | Medium     |
-| 441  | [Arranging Coins](https://github.com/shaojintian/leetcode-answer/issues/441) | 36.20%   | Easy       |
-| 440  | [K-th Smallest in Lexicographical Order](https://github.com/shaojintian/leetcode-answer/issues/440) | 21.50%   | Hard       |
-| 439  | [Ternary Expression Parser](https://github.com/shaojintian/leetcode-answer/issues/439) $ | 49.40%   | Medium     |
-| 438  | [Find All Anagrams in a String](https://github.com/shaojintian/leetcode-answer/issues/438) | 33.50%   | Easy       |
-| 437  | [Path Sum III](https://github.com/shaojintian/leetcode-answer/issues/437) | 38.60%   | Easy       |
-| 436  | [Find Right Interval](https://github.com/shaojintian/leetcode-answer/issues/436) | 42.30%   | Medium     |
-| 435  | [Non-overlapping Intervals](https://github.com/shaojintian/leetcode-answer/issues/435) | 39.80%   | Medium     |
-| 434  | [Number of Segments in a String](https://github.com/shaojintian/leetcode-answer/issues/434) | 38.40%   | Easy       |
-| 433  | [Minimum Genetic Mutation](https://github.com/shaojintian/leetcode-answer/issues/433) | 33.50%   | Medium     |
-| 432  | [All O`one Data Structure](https://github.com/shaojintian/leetcode-answer/issues/432) | 28.30%   | Hard       |
-| 431  | [Encode N-ary Tree to Binary Tree](https://github.com/shaojintian/leetcode-answer/issues/431) $ | 53.70%   | Hard       |
-| 430  | [Flatten a Multilevel Doubly Linked List](https://github.com/shaojintian/leetcode-answer/issues/430) | 36.20%   | Medium     |
-| 429  | [N-ary Tree Level Order Traversal](https://github.com/shaojintian/leetcode-answer/issues/429) | 55.80%   | Easy       |
-| 428  | [Serialize and Deserialize N-ary Tree](https://github.com/shaojintian/leetcode-answer/issues/428) $ | 48.10%   | Hard       |
-| 427  | [Construct Quad Tree](https://github.com/shaojintian/leetcode-answer/issues/427) | 49.20%   | Easy       |
-| 426  | [Convert Binary Search Tree to Sorted Doubly Linked List](https://github.com/shaojintian/leetcode-answer/issues/426) | 43.30%   | Medium     |
-| 425  | [Word Squares](https://github.com/shaojintian/leetcode-answer/issues/425) $ | 40.10%   | Hard       |
-| 424  | [Longest Repeating Character Replacement](https://github.com/shaojintian/leetcode-answer/issues/424) | 38.10%   | Medium     |
-| 423  | [Reconstruct Original Digits from English](https://github.com/shaojintian/leetcode-answer/issues/423) | 40.80%   | Medium     |
-| 422  | [Valid Word Square](https://github.com/shaojintian/leetcode-answer/issues/422) $ | 36.40%   | Easy       |
-| 421  | [Maximum XOR of Two Numbers in an Array](https://github.com/shaojintian/leetcode-answer/issues/421) | 36.40%   | Medium     |
-| 420  | [Strong Password Checker](https://github.com/shaojintian/leetcode-answer/issues/420) | 22.10%   | Hard       |
-| 419  | [Battleships in a Board](https://github.com/shaojintian/leetcode-answer/issues/419) | 59.30%   | Medium     |
-| 418  | [Sentence Screen Fitting](https://github.com/shaojintian/leetcode-answer/issues/418) $ | 25.10%   | Medium     |
-| 417  | [Pacific Atlantic Water Flow](https://github.com/shaojintian/leetcode-answer/issues/417) | 31.10%   | Medium     |
-| 416  | [Partition Equal Subset Sum](https://github.com/shaojintian/leetcode-answer/issues/416) | 36.80%   | Medium     |
-| 415  | [Add Strings](https://github.com/shaojintian/leetcode-answer/issues/415) | 41.50%   | Easy       |
-| 414  | [Third Maximum Number](https://github.com/shaojintian/leetcode-answer/issues/414) | 26.50%   | Easy       |
-| 413  | [Arithmetic Slices](https://github.com/shaojintian/leetcode-answer/issues/413) | 53.50%   | Medium     |
-| 412  | [Fizz Buzz](https://github.com/shaojintian/leetcode-answer/issues/412) | 57.50%   | Easy       |
-| 411  | [Minimum Unique Word Abbreviation](https://github.com/shaojintian/leetcode-answer/issues/411) $ | 25.60%   | Hard       |
-| 410  | [Split Array Largest Sum](https://github.com/shaojintian/leetcode-answer/issues/410) | 25.00%   | Hard       |
-| 409  | [Longest Palindrome](https://github.com/shaojintian/leetcode-answer/issues/409) | 44.90%   | Easy       |
-| 408  | [Valid Word Abbreviation](https://github.com/shaojintian/leetcode-answer/issues/408) $ | 26.20%   | Easy       |
-| 407  | [Trapping Rain Water II](https://github.com/shaojintian/leetcode-answer/issues/407) | 33.10%   | Hard       |
-| 406  | [Queue Reconstruction by Height](https://github.com/shaojintian/leetcode-answer/issues/406) | 54.10%   | Medium     |
-| 405  | [Convert a Number to Hexadecimal](https://github.com/shaojintian/leetcode-answer/issues/405) | 41.80%   | Easy       |
-| 404  | [Sum of Left Leaves](https://github.com/shaojintian/leetcode-answer/issues/404) | 46.20%   | Easy       |
-| 403  | [Frog Jump](https://github.com/shaojintian/leetcode-answer/issues/403) | 31.70%   | Hard       |
-| 402  | [Remove K Digits](https://github.com/shaojintian/leetcode-answer/issues/402) | 25.90%   | Medium     |
-| 401  | [Binary Watch](https://github.com/shaojintian/leetcode-answer/issues/401) | 43.00%   | Easy       |
-| 400  | [Nth Digit](https://github.com/shaojintian/leetcode-answer/issues/400) | 30.70%   | Easy       |
-| 399  | [Evaluate Division](https://github.com/shaojintian/leetcode-answer/issues/399) | 34.60%   | Medium     |
-| 398  | [Random Pick Index](https://github.com/shaojintian/leetcode-answer/issues/398) | 30.40%   | Medium     |
-| 397  | [Integer Replacement](https://github.com/shaojintian/leetcode-answer/issues/397) | 25.90%   | Easy       |
-| 396  | [Rotate Function](https://github.com/shaojintian/leetcode-answer/issues/396) | 28.40%   | Easy       |
-| 395  | [Longest Substring with At Least K Repeating Characters](https://github.com/shaojintian/leetcode-answer/issues/395) | 32.50%   | Medium     |
-| 394  | [Decode String](https://github.com/shaojintian/leetcode-answer/issues/394) | 38.60%   | Medium     |
-| 393  | [UTF-8 Validation](https://github.com/shaojintian/leetcode-answer/issues/393) | 33.00%   | Medium     |
-| 392  | [Is Subsequence](https://github.com/shaojintian/leetcode-answer/issues/392) | 44.10%   | Medium     |
-| 391  | [Perfect Rectangle](https://github.com/shaojintian/leetcode-answer/issues/391) | 13.30%   | Hard       |
-| 390  | [Elimination Game](https://github.com/shaojintian/leetcode-answer/issues/390) | 12.50%   | Medium     |
-| 389  | [Find the Difference](https://github.com/shaojintian/leetcode-answer/issues/389) | 49.90%   | Easy       |
-| 388  | [Longest Absolute File Path](https://github.com/shaojintian/leetcode-answer/issues/388) | 28.30%   | Medium     |
-| 387  | [First Unique Character in a String](https://github.com/shaojintian/leetcode-answer/issues/387) | 43.10%   | Easy       |
-| 386  | [Lexicographical Numbers](https://github.com/shaojintian/leetcode-answer/issues/386) | 31.00%   | Medium     |
-| 385  | [Mini Parser](https://github.com/shaojintian/leetcode-answer/issues/385) | 26.90%   | Medium     |
-| 384  | [Shuffle an Array](https://github.com/shaojintian/leetcode-answer/issues/384) | 45.50%   | Medium     |
-| 383  | [Ransom Note](https://github.com/shaojintian/leetcode-answer/issues/383) | 44.60%   | Easy       |
-| 382  | [Linked List Random Node](https://github.com/shaojintian/leetcode-answer/issues/382) | 48.60%   | Medium     |
-| 381  | [Insert Delete GetRandom O(1) - Duplicates allowed](https://github.com/shaojintian/leetcode-answer/issues/381) | 30.90%   | Hard       |
-| 380  | [Insert Delete GetRandom O(1)](https://github.com/shaojintian/leetcode-answer/issues/380) | 33.80%   | Medium     |
-| 379  | [Design Phone Directory](https://github.com/shaojintian/leetcode-answer/issues/379) $ | 25.80%   | Medium     |
-| 378  | [Kth Smallest Element in a Sorted Matrix](https://github.com/shaojintian/leetcode-answer/issues/378) | 40.20%   | Medium     |
-| 377  | [Combination Sum IV](https://github.com/shaojintian/leetcode-answer/issues/377) | 37.50%   | Medium     |
-| 376  | [Wiggle Subsequence](https://github.com/shaojintian/leetcode-answer/issues/376) | 35.80%   | Medium     |
-| 375  | [Guess Number Higher or Lower II](https://github.com/shaojintian/leetcode-answer/issues/375) | 28.30%   | Medium     |
-| 374  | [Guess Number Higher or Lower](https://github.com/shaojintian/leetcode-answer/issues/374) | 31.70%   | Easy       |
-| 373  | [Find K Pairs with Smallest Sums](https://github.com/shaojintian/leetcode-answer/issues/373) | 25.50%   | Medium     |
-| 372  | [Super Pow](https://github.com/shaojintian/leetcode-answer/issues/372) | 30.10%   | Medium     |
-| 371  | [Sum of Two Integers](https://github.com/shaojintian/leetcode-answer/issues/371) | 54.00%   | Easy       |
-| 370  | [Range Addition](https://github.com/shaojintian/leetcode-answer/issues/370) $ | 49.90%   | Medium     |
-| 369  | [Plus One Linked List](https://github.com/shaojintian/leetcode-answer/issues/369) $ | 50.10%   | Medium     |
-| 368  | [Largest Divisible Subset](https://github.com/shaojintian/leetcode-answer/issues/368) | 32.00%   | Medium     |
-| 367  | [Valid Perfect Square](https://github.com/shaojintian/leetcode-answer/issues/367) | 36.60%   | Medium     |
-| 366  | [Find Leaves of Binary Tree](https://github.com/shaojintian/leetcode-answer/issues/366) $ | 53.60%   | Medium     |
-| 365  | [Water and Jug Problem](https://github.com/shaojintian/leetcode-answer/issues/365) | 20.10%   | Medium     |
-| 364  | [Nested List Weight Sum II](https://github.com/shaojintian/leetcode-answer/issues/364) $ | 47.20%   | Medium     |
-| 363  | [Max Sum of Rectangle No Larger Than K](https://github.com/shaojintian/leetcode-answer/issues/363) | 27.00%   | Hard       |
-| 362  | [Design Hit Counter](https://github.com/shaojintian/leetcode-answer/issues/362) $ | 48.30%   | Medium     |
-| 361  | [Bomb Enemy](https://github.com/shaojintian/leetcode-answer/issues/361) $ | 32.60%   | Medium     |
-| 360  | [Sort Transformed Array](https://github.com/shaojintian/leetcode-answer/issues/360) $ | 40.80%   | Medium     |
-| 359  | [Logger Rate Limiter](https://github.com/shaojintian/leetcode-answer/issues/359) $ | 56.00%   | Easy       |
-| 358  | [Rearrange String k Distance Apart](https://github.com/shaojintian/leetcode-answer/issues/358) $ | 26.90%   | Hard       |
-| 357  | [Count Numbers with Unique Digits](https://github.com/shaojintian/leetcode-answer/issues/357) | 42.50%   | Medium     |
-| 356  | [Line Reflection](https://github.com/shaojintian/leetcode-answer/issues/356) $ | 28.70%   | Medium     |
-| 355  | [Design Twitter](https://github.com/shaojintian/leetcode-answer/issues/355) | 22.20%   | Medium     |
-| 354  | [Russian Doll Envelopes](https://github.com/shaojintian/leetcode-answer/issues/354) | 27.10%   | Hard       |
-| 353  | [Design Snake Game](https://github.com/shaojintian/leetcode-answer/issues/353) $ | 19.80%   | Medium     |
-| 352  | [Data Stream as Disjoint Intervals](https://github.com/shaojintian/leetcode-answer/issues/352) | 34.40%   | Hard       |
-| 351  | [Android Unlock Patterns](https://github.com/shaojintian/leetcode-answer/issues/351) $ | 32.00%   | Medium     |
-| 350  | [Intersection of Two Arrays II](https://github.com/shaojintian/leetcode-answer/issues/350) | 41.50%   | Easy       |
-| 349  | [Intersection of Two Arrays](https://github.com/shaojintian/leetcode-answer/issues/349) | 47.80%   | Easy       |
-| 348  | [Design Tic-Tac-Toe ](https://github.com/shaojintian/leetcode-answer/issues/348) $ | 45.60%   | Medium     |
-| 347  | [Top K Frequent Elements](https://github.com/shaojintian/leetcode-answer/issues/347) | 44.50%   | Medium     |
-| 346  | [Moving Average from Data Stream ](https://github.com/shaojintian/leetcode-answer/issues/346) $ | 69.20%   | Easy       |
-| 345  | [Reverse Vowels of a String](https://github.com/shaojintian/leetcode-answer/issues/345) | 35.30%   | Easy       |
-| 344  | [Reverse String](https://github.com/shaojintian/leetcode-answer/issues/344) | 58.90%   | Easy       |
-| 343  | [Integer Break](https://github.com/shaojintian/leetcode-answer/issues/343) | 43.60%   | Medium     |
-| 342  | [Power of Four](https://github.com/shaojintian/leetcode-answer/issues/342) | 34.10%   | Easy       |
-| 341  | [Flatten Nested List Iterator](https://github.com/shaojintian/leetcode-answer/issues/341) $ | 18.70%   | Medium     |
-| 340  | [Longest Substring with At Most K Distinct Characters](https://github.com/shaojintian/leetcode-answer/issues/340) $ | 36.30%   | Hard       |
-| 339  | [Nested List Weight Sum](https://github.com/shaojintian/leetcode-answer/issues/339) $ | 54.60%   | Easy       |
-| 338  | [Counting Bits](https://github.com/shaojintian/leetcode-answer/issues/338) | 55.40%   | Medium     |
-| 337  | [House Robber III](https://github.com/shaojintian/leetcode-answer/issues/337) | 37.00%   | Medium     |
-| 336  | [Palindrome Pairs](https://github.com/shaojintian/leetcode-answer/issues/336) | 18.70%   | Hard       |
-| 335  | [Self Crossing](https://github.com/shaojintian/leetcode-answer/issues/335) | 18.00%   | Medium     |
-| 334  | [Increasing Triplet Subsequence](https://github.com/shaojintian/leetcode-answer/issues/334) | 33.20%   | Medium     |
-| 333  | [Largest BST Subtree](https://github.com/shaojintian/leetcode-answer/issues/333) $ | 26.50%   | Medium     |
-| 332  | [Reconstruct Itinerary](https://github.com/shaojintian/leetcode-answer/issues/332) | 23.40%   | Medium     |
-| 331  | [Verify Preorder Serialization of a Binary Tree](https://github.com/shaojintian/leetcode-answer/issues/331) | 31.50%   | Medium     |
-| 330  | [Patching Array](https://github.com/shaojintian/leetcode-answer/issues/330) | 28.80%   | Medium     |
-| 329  | [Longest Increasing Path in a Matrix](https://github.com/shaojintian/leetcode-answer/issues/329) | 29.50%   | Medium     |
-| 328  | [Odd Even Linked List](https://github.com/shaojintian/leetcode-answer/issues/328) | 37.80%   | Easy       |
-| 327  | [Count of Range Sum](https://github.com/shaojintian/leetcode-answer/issues/327) | 24.30%   | Hard       |
-| 326  | [Power of Three](https://github.com/shaojintian/leetcode-answer/issues/326) | 35.30%   | Easy       |
-| 325  | [Maximum Size Subarray Sum Equals k](https://github.com/shaojintian/leetcode-answer/issues/325) $ | 39.60%   | Easy       |
-| 324  | [Wiggle Sort II](https://github.com/shaojintian/leetcode-answer/issues/324) | 20.10%   | Medium     |
-| 323  | [Number of Connected Components in an Undirected Graph](https://github.com/shaojintian/leetcode-answer/issues/323) $ | 43.30%   | Medium     |
-| 322  | [Coin Change](https://github.com/shaojintian/leetcode-answer/issues/322) | 24.90%   | Medium     |
-| 321  | [Create Maximum Number](https://github.com/shaojintian/leetcode-answer/issues/321) | 19.10%   | Hard       |
-| 320  | [Generalized Abbreviation](https://github.com/shaojintian/leetcode-answer/issues/320) $ | 40.40%   | Medium     |
-| 319  | [Bulb Switcher](https://github.com/shaojintian/leetcode-answer/issues/319) | 39.20%   | Medium     |
-| 318  | [Maximum Product of Word Lengths](https://github.com/shaojintian/leetcode-answer/issues/318) | 38.70%   | Medium     |
-| 317  | [Shortest Distance from All Buildings](https://github.com/shaojintian/leetcode-answer/issues/317) $ | 29.10%   | Hard       |
-| 316  | [Remove Duplicate Letters](https://github.com/shaojintian/leetcode-answer/issues/316) | 23.00%   | Medium     |
-| 315  | [Count of Smaller Numbers After Self](https://github.com/shaojintian/leetcode-answer/issues/315) | 28.20%   | Hard       |
-| 314  | [Binary Tree Vertical Order Traversal](https://github.com/shaojintian/leetcode-answer/issues/314) $ | 30.10%   | Medium     |
-| 313  | [Super Ugly Number](https://github.com/shaojintian/leetcode-answer/issues/313) | 31.20%   | Medium     |
-| 312  | [Burst Balloons](https://github.com/shaojintian/leetcode-answer/issues/312) | 24.50%   | Medium     |
-| 311  | [Sparse Matrix Multiplication](https://github.com/shaojintian/leetcode-answer/issues/311) $ | 40.00%   | Medium     |
-| 310  | [Minimum Height Trees](https://github.com/shaojintian/leetcode-answer/issues/310) | 20.20%   | Medium     |
-| 309  | [Best Time to Buy and Sell Stock with Cooldown](https://github.com/shaojintian/leetcode-answer/issues/309) | 32.60%   | Medium     |
-| 308  | [Range Sum Query 2D - Mutable](https://github.com/shaojintian/leetcode-answer/issues/308) $ | 20.30%   | Hard       |
-| 307  | [Range Sum Query - Mutable](https://github.com/shaojintian/leetcode-answer/issues/307) | 14.50%   | Medium     |
-| 306  | [Additive Number](https://github.com/shaojintian/leetcode-answer/issues/306) | 23.30%   | Medium     |
-| 305  | [Number of Islands II](https://github.com/shaojintian/leetcode-answer/issues/305) $ | 26.70%   | Hard       |
-| 304  | [Range Sum Query 2D - Immutable](https://github.com/shaojintian/leetcode-answer/issues/304) | 21.50%   | Medium     |
-| 303  | [Range Sum Query - Immutable](https://github.com/shaojintian/leetcode-answer/issues/303) | 25.70%   | Easy       |
-| 302  | [Smallest Rectangle Enclosing Black Pixels](https://github.com/shaojintian/leetcode-answer/issues/302) $ | 36.70%   | Hard       |
-| 301  | [Remove Invalid Parentheses](https://github.com/shaojintian/leetcode-answer/issues/301) | 27.00%   | Hard       |
-| 300  | [Longest Increasing Subsequence](https://github.com/shaojintian/leetcode-answer/issues/300) | 31.50%   | Medium     |
-| 299  | [Bulls and Cows](https://github.com/shaojintian/leetcode-answer/issues/299) | 23.80%   | Easy       |
-| 298  | [Binary Tree Longest Consecutive Sequence](https://github.com/shaojintian/leetcode-answer/issues/298) $ | 32.20%   | Medium     |
-| 297  | [Serialize and Deserialize Binary Tree](https://github.com/shaojintian/leetcode-answer/issues/297) | 23.80%   | Medium     |
-| 296  | [Best Meeting Point](https://github.com/shaojintian/leetcode-answer/issues/296) $ | 41.40%   | Hard       |
-| 295  | [Find Median from Data Stream](https://github.com/shaojintian/leetcode-answer/issues/295) | 18.60%   | Hard       |
-| 294  | [Flip Game II](https://github.com/shaojintian/leetcode-answer/issues/294) $ | 38.10%   | Medium     |
-| 293  | [Flip Game](https://github.com/shaojintian/leetcode-answer/issues/293) $ | 47.60%   | Easy       |
-| 292  | [Nim Game](https://github.com/shaojintian/leetcode-answer/issues/292) | 49.50%   | Easy       |
-| 291  | [Word Pattern II](https://github.com/shaojintian/leetcode-answer/issues/291) $ | 31.50%   | Hard       |
-| 290  | [Word Pattern](https://github.com/shaojintian/leetcode-answer/issues/290) | 26.50%   | Easy       |
-| 289  | [Game of Life](https://github.com/shaojintian/leetcode-answer/issues/289) | 32.60%   | Medium     |
-| 288  | [Unique Word Abbreviation](https://github.com/shaojintian/leetcode-answer/issues/288) $ | 16.80%   | Easy       |
-| 287  | [Find the Duplicate Number](https://github.com/shaojintian/leetcode-answer/issues/287) | 32.80%   | Hard       |
-| 286  | [Walls and Gates](https://github.com/shaojintian/leetcode-answer/issues/286) $ | 29.90%   | Medium     |
-| 285  | [Inorder Successor in BST](https://github.com/shaojintian/leetcode-answer/issues/285) $ | 32.50%   | Medium     |
-| 284  | [Peeking Iterator](https://github.com/shaojintian/leetcode-answer/issues/284) | 31.00%   | Medium     |
-| 283  | [Move Zeroes](https://github.com/shaojintian/leetcode-answer/issues/283) | 41.40%   | Easy       |
-| 282  | [Expression Add Operators](https://github.com/shaojintian/leetcode-answer/issues/282) | 18.90%   | Hard       |
-| 281  | [Zigzag Iterator](https://github.com/shaojintian/leetcode-answer/issues/281) $ | 37.20%   | Medium     |
-| 280  | [Wiggle Sort](https://github.com/shaojintian/leetcode-answer/issues/280) $ | 43.30%   | Medium     |
-| 279  | [Perfect Squares](https://github.com/shaojintian/leetcode-answer/issues/279) | 28.80%   | Medium     |
-| 278  | [First Bad Version](https://github.com/shaojintian/leetcode-answer/issues/278) | 19.80%   | Easy       |
-| 277  | [Find the Celebrity](https://github.com/shaojintian/leetcode-answer/issues/277) $ | 31.70%   | Medium     |
-| 276  | [Paint Fence](https://github.com/shaojintian/leetcode-answer/issues/276) $ | 25.00%   | Easy       |
-| 275  | [H-Index II](https://github.com/shaojintian/leetcode-answer/issues/275) | 31.40%   | Medium     |
-| 274  | [H-Index](https://github.com/shaojintian/leetcode-answer/issues/274) | 25.30%   | Medium     |
-| 273  | [Integer to English Words](https://github.com/shaojintian/leetcode-answer/issues/273) | 15.50%   | Medium     |
-| 272  | [Closest Binary Search Tree Value II](https://github.com/shaojintian/leetcode-answer/issues/272) $ | 26.90%   | Hard       |
-| 271  | [Encode and Decode Strings](https://github.com/shaojintian/leetcode-answer/issues/271) $ | 25.40%   | Medium     |
-| 270  | [Closest Binary Search Tree Value](https://github.com/shaojintian/leetcode-answer/issues/270) $ | 29.40%   | Easy       |
-| 269  | [Alien Dictionary](https://github.com/shaojintian/leetcode-answer/issues/269) $ | 16.50%   | Hard       |
-| 268  | [Missing Number](https://github.com/shaojintian/leetcode-answer/issues/268) | 34.70%   | Medium     |
-| 267  | [Palindrome Permutation II](https://github.com/shaojintian/leetcode-answer/issues/267) $ | 22.50%   | Medium     |
-| 266  | [Palindrome Permutation](https://github.com/shaojintian/leetcode-answer/issues/266) $ | 45.80%   | Easy       |
-| 265  | [Paint House II](https://github.com/shaojintian/leetcode-answer/issues/265) $ | 30.00%   | Hard       |
-| 264  | [Ugly Number II](https://github.com/shaojintian/leetcode-answer/issues/264) | 21.60%   | Medium     |
-| 263  | [Ugly Number](https://github.com/shaojintian/leetcode-answer/issues/263) | 32.60%   | Easy       |
-| 262  | [Trips and Users](https://github.com/shaojintian/leetcode-answer/issues/262) * | 16.10%   | Hard       |
-| 261  | [Graph Valid Tree](https://github.com/shaojintian/leetcode-answer/issues/261) $ | 25.40%   | Medium     |
-| 260  | [Single Number III](https://github.com/shaojintian/leetcode-answer/issues/260) | 37.60%   | Medium     |
-| 259  | [3Sum Smaller](https://github.com/shaojintian/leetcode-answer/issues/259) $ | 34.20%   | Medium     |
-| 258  | [Add Digits](https://github.com/shaojintian/leetcode-answer/issues/258) | 46.50%   | Easy       |
-| 257  | [Binary Tree Paths](https://github.com/shaojintian/leetcode-answer/issues/257) | 21.90%   | Easy       |
-| 256  | [Paint House](https://github.com/shaojintian/leetcode-answer/issues/256) $ | 38.40%   | Medium     |
-| 255  | [Verify Preorder Sequence in Binary Search Tree](https://github.com/shaojintian/leetcode-answer/issues/255) $ | 32.30%   | Medium     |
-| 254  | [Factor Combinations](https://github.com/shaojintian/leetcode-answer/issues/254) $ | 29.00%   | Medium     |
-| 253  | [Meeting Rooms II](https://github.com/shaojintian/leetcode-answer/issues/253) $ | 28.80%   | Medium     |
-| 252  | [Meeting Rooms](https://github.com/shaojintian/leetcode-answer/issues/252) $ | 35.40%   | Easy       |
-| 251  | [Flatten 2D Vector](https://github.com/shaojintian/leetcode-answer/issues/251) $ | 28.30%   | Medium     |
-| 250  | [Count Univalue Subtrees](https://github.com/shaojintian/leetcode-answer/issues/250) $ | 32.70%   | Medium     |
-| 249  | [Group Shifted Strings](https://github.com/shaojintian/leetcode-answer/issues/249) $ | 25.20%   | Easy       |
-| 248  | [Strobogrammatic Number III](https://github.com/shaojintian/leetcode-answer/issues/248) $ | 21.80%   | Hard       |
-| 247  | [Strobogrammatic Number II](https://github.com/shaojintian/leetcode-answer/issues/247) $ | 26.70%   | Medium     |
-| 246  | [Strobogrammatic Number](https://github.com/shaojintian/leetcode-answer/issues/246) $ | 31.60%   | Easy       |
-| 245  | [Shortest Word Distance III](https://github.com/shaojintian/leetcode-answer/issues/245) $ | 43.20%   | Medium     |
-| 244  | [Shortest Word Distance II](https://github.com/shaojintian/leetcode-answer/issues/244) $ | 33.70%   | Medium     |
-| 243  | [Shortest Word Distance](https://github.com/shaojintian/leetcode-answer/issues/243) $ | 41.80%   | Easy       |
-| 242  | [Valid Anagram](https://github.com/shaojintian/leetcode-answer/issues/242) | 39.30%   | Easy       |
-| 241  | [Different Ways to Add Parentheses](https://github.com/shaojintian/leetcode-answer/issues/241) | 27.10%   | Medium     |
-| 240  | [Search a 2D Matrix II](https://github.com/shaojintian/leetcode-answer/issues/240) | 31.40%   | Medium     |
-| 239  | [Sliding Window Maximum](https://github.com/shaojintian/leetcode-answer/issues/239) | 24.30%   | Hard       |
-| 238  | [Product of Array Except Self](https://github.com/shaojintian/leetcode-answer/issues/238) | 42.40%   | Medium     |
-| 237  | [Delete Node in a Linked List](https://github.com/shaojintian/leetcode-answer/issues/237) | 50.90%   | Easy       |
-| 236  | [Lowest Common Ancestor of a Binary Tree](https://github.com/shaojintian/leetcode-answer/issues/236) | 28.30%   | Medium     |
-| 235  | [Lowest Common Ancestor of a Binary Search Tree](https://github.com/shaojintian/leetcode-answer/issues/235) | 38.90%   | Medium     |
-| 234  | [Palindrome Linked List](https://github.com/shaojintian/leetcode-answer/issues/234) | 23.80%   | Easy       |
-| 233  | [Number of Digit One](https://github.com/shaojintian/leetcode-answer/issues/233) | 16.10%   | Medium     |
-| 232  | [Implement Queue using Stacks](https://github.com/shaojintian/leetcode-answer/issues/232) | 37.40%   | Easy       |
-| 231  | [Power of Two](https://github.com/shaojintian/leetcode-answer/issues/231) | 31.30%   | Easy       |
-| 230  | [Kth Smallest Element in a BST](https://github.com/shaojintian/leetcode-answer/issues/230) | 30.50%   | Medium     |
-| 229  | [Majority Element II](https://github.com/shaojintian/leetcode-answer/issues/229) | 30.50%   | Medium     |
-| 228  | [Summary Ranges](https://github.com/shaojintian/leetcode-answer/issues/228) | 21.10%   | Easy       |
-| 227  | [Basic Calculator II](https://github.com/shaojintian/leetcode-answer/issues/227) | 18.00%   | Medium     |
-| 226  | [Invert Binary Tree](https://github.com/shaojintian/leetcode-answer/issues/226) | 35.40%   | Easy       |
-| 225  | [Implement Stack using Queues](https://github.com/shaojintian/leetcode-answer/issues/225) | 29.60%   | Medium     |
-| 224  | [Basic Calculator](https://github.com/shaojintian/leetcode-answer/issues/224) | 15.80%   | Medium     |
-| 223  | [Rectangle Area](https://github.com/shaojintian/leetcode-answer/issues/223) | 25.60%   | Easy       |
-| 222  | [Count Complete Tree Nodes](https://github.com/shaojintian/leetcode-answer/issues/222) | 19.40%   | Medium     |
-| 221  | [Maximal Square](https://github.com/shaojintian/leetcode-answer/issues/221) | 20.30%   | Medium     |
-| 220  | [Contains Duplicate III](https://github.com/shaojintian/leetcode-answer/issues/220) | 15.30%   | Medium     |
-| 219  | [Contains Duplicate II](https://github.com/shaojintian/leetcode-answer/issues/219) | 25.60%   | Easy       |
-| 218  | [The Skyline Problem](https://github.com/shaojintian/leetcode-answer/issues/218) | 16.20%   | Hard       |
-| 217  | [Contains Duplicate](https://github.com/shaojintian/leetcode-answer/issues/217) | 35.90%   | Easy       |
-| 216  | [Combination Sum III](https://github.com/shaojintian/leetcode-answer/issues/216) | 27.70%   | Medium     |
-| 215  | [Kth Largest Element in an Array](https://github.com/shaojintian/leetcode-answer/issues/215) | 27.30%   | Medium     |
-| 214  | [Shortest Palindrome](https://github.com/shaojintian/leetcode-answer/issues/214) | 16.80%   | Hard       |
-| 213  | [House Robber II](https://github.com/shaojintian/leetcode-answer/issues/213) | 26.30%   | Medium     |
-| 212  | [Word Search II](https://github.com/shaojintian/leetcode-answer/issues/212) | 15.00%   | Hard       |
-| 211  | [Add and Search Word - Data structure design](https://github.com/shaojintian/leetcode-answer/issues/211) | 20.70%   | Medium     |
-| 210  | [Course Schedule II](https://github.com/shaojintian/leetcode-answer/issues/210) | 19.30%   | Medium     |
-| 209  | [Minimum Size Subarray Sum](https://github.com/shaojintian/leetcode-answer/issues/209) | 22.90%   | Medium     |
-| 208  | [Implement Trie (Prefix Tree)](https://github.com/shaojintian/leetcode-answer/issues/208) | 24.80%   | Medium     |
-| 207  | [Course Schedule](https://github.com/shaojintian/leetcode-answer/issues/207) | 21.70%   | Medium     |
-| 206  | [Reverse Linked List](https://github.com/shaojintian/leetcode-answer/issues/206) | 31.50%   | Easy       |
-| 205  | [Isomorphic Strings](https://github.com/shaojintian/leetcode-answer/issues/205) | 24.20%   | Easy       |
-| 204  | [Count Primes](https://github.com/shaojintian/leetcode-answer/issues/204) | 19.00%   | Easy       |
-| 203  | [Remove Linked List Elements](https://github.com/shaojintian/leetcode-answer/issues/203) | 25.80%   | Easy       |
-| 202  | [Happy Number](https://github.com/shaojintian/leetcode-answer/issues/202) | 31.40%   | Easy       |
-| 201  | [Bitwise AND of Numbers Range](https://github.com/shaojintian/leetcode-answer/issues/201) | 23.30%   | Medium     |
-| 200  | [Number of Islands](https://github.com/shaojintian/leetcode-answer/issues/200) | 21.90%   | Medium     |
-| 199  | [Binary Tree Right Side View](https://github.com/shaojintian/leetcode-answer/issues/199) | 27.10%   | Medium     |
-| 198  | [House Robber](https://github.com/shaojintian/leetcode-answer/issues/198) | 28.80%   | Easy       |
-| 197  | [Rising Temperature](https://github.com/shaojintian/leetcode-answer/issues/197) * | 25.90%   | Easy       |
-| 196  | [Delete Duplicate Emails](https://github.com/shaojintian/leetcode-answer/issues/196) * | 19.00%   | Easy       |
-| 195  | [Tenth Line](https://github.com/shaojintian/leetcode-answer/issues/195) # | 32.20%   | Easy       |
-| 194  | [Transpose File](https://github.com/shaojintian/leetcode-answer/issues/194) # | 21.40%   | Medium     |
-| 193  | [Valid Phone Numbers](https://github.com/shaojintian/leetcode-answer/issues/193) # | 24.40%   | Easy       |
-| 192  | [Word Frequency](https://github.com/shaojintian/leetcode-answer/issues/192) # | 26.10%   | Medium     |
-| 191  | [Number of 1 Bits](https://github.com/shaojintian/leetcode-answer/issues/191) | 37.30%   | Easy       |
-| 190  | [Reverse Bits](https://github.com/shaojintian/leetcode-answer/issues/190) | 28.40%   | Easy       |
-| 189  | [Rotate Array](https://github.com/shaojintian/leetcode-answer/issues/189) | 17.80%   | Easy       |
-| 188  | [Best Time to Buy and Sell Stock IV](https://github.com/shaojintian/leetcode-answer/issues/188) | 17.30%   | Hard       |
-| 187  | [Repeated DNA Sequences](https://github.com/shaojintian/leetcode-answer/issues/187) | 19.50%   | Medium     |
-| 186  | [Reverse Words in a String II](https://github.com/shaojintian/leetcode-answer/issues/186) $ | 31.10%   | Medium     |
-| 185  | [Department Top Three Salaries](https://github.com/shaojintian/leetcode-answer/issues/185) * | 15.20%   | Hard       |
-| 184  | [Department Highest Salary](https://github.com/shaojintian/leetcode-answer/issues/184) * | 19.00%   | Medium     |
-| 183  | [Customers Who Never Order](https://github.com/shaojintian/leetcode-answer/issues/183) * | 33.70%   | Easy       |
-| 182  | [Duplicate Emails](https://github.com/shaojintian/leetcode-answer/issues/182) * | 38.10%   | Easy       |
-| 181  | [Employees Earning More Than Their Managers](https://github.com/shaojintian/leetcode-answer/issues/181) * | 41.00%   | Easy       |
-| 180  | [Consecutive Numbers](https://github.com/shaojintian/leetcode-answer/issues/180) * | 26.60%   | Medium     |
-| 179  | [Largest Number](https://github.com/shaojintian/leetcode-answer/issues/179) | 15.70%   | Medium     |
-| 178  | [Rank Scores](https://github.com/shaojintian/leetcode-answer/issues/178) * | 24.60%   | Medium     |
-| 177  | [Nth Highest Salary](https://github.com/shaojintian/leetcode-answer/issues/177) * | 16.30%   | Medium     |
-| 176  | [Second Highest Salary](https://github.com/shaojintian/leetcode-answer/issues/176) * | 25.00%   | Easy       |
-| 175  | [Combine Two Tables](https://github.com/shaojintian/leetcode-answer/issues/175) * | 34.40%   | Easy       |
-| 174  | [Dungeon Game](https://github.com/shaojintian/leetcode-answer/issues/174) | 17.70%   | Hard       |
-| 173  | [Binary Search Tree Iterator](https://github.com/shaojintian/leetcode-answer/issues/173) | 29.30%   | Medium     |
-| 172  | [Factorial Trailing Zeroes](https://github.com/shaojintian/leetcode-answer/issues/172) | 28.40%   | Easy       |
-| 171  | [Excel Sheet Column Number](https://github.com/shaojintian/leetcode-answer/issues/171) | 36.50%   | Easy       |
-| 170  | [Two Sum III - Data structure design](https://github.com/shaojintian/leetcode-answer/issues/170) $ | 24.70%   | Easy       |
-| 169  | [Majority Element](https://github.com/shaojintian/leetcode-answer/issues/169) | 35.00%   | Easy       |
-| 168  | [Excel Sheet Column Title](https://github.com/shaojintian/leetcode-answer/issues/168) | 18.10%   | Easy       |
-| 167  | [Two Sum II - Input array is sorted](https://github.com/shaojintian/leetcode-answer/issues/167) $ | 43.30%   | Medium     |
-| 166  | [Fraction to Recurring Decimal](https://github.com/shaojintian/leetcode-answer/issues/166) | 12.70%   | Medium     |
-| 165  | [Compare Version Numbers](https://github.com/shaojintian/leetcode-answer/issues/165) | 15.20%   | Easy       |
-| 164  | [Maximum Gap](https://github.com/shaojintian/leetcode-answer/issues/164) | 24.40%   | Hard       |
-| 163  | [Missing Ranges](https://github.com/shaojintian/leetcode-answer/issues/163) $ | 24.10%   | Medium     |
-| 162  | [Find Peak Element](https://github.com/shaojintian/leetcode-answer/issues/162) | 31.50%   | Medium     |
-| 161  | [One Edit Distance](https://github.com/shaojintian/leetcode-answer/issues/161) $ | 24.00%   | Medium     |
-| 160  | [Intersection of Two Linked Lists](https://github.com/shaojintian/leetcode-answer/issues/160) | 28.70%   | Easy       |
-| 159  | [Longest Substring with At Most Two Distinct Characters](https://github.com/shaojintian/leetcode-answer/issues/159) $ | 30.20%   | Hard       |
-| 158  | [Read N Characters Given Read4 II - Call multiple times](https://github.com/shaojintian/leetcode-answer/issues/158) $ | 22.30%   | Hard       |
-| 157  | [Read N Characters Given Read4](https://github.com/shaojintian/leetcode-answer/issues/157) $ | 29.80%   | Easy       |
-| 156  | [Binary Tree Upside Down](https://github.com/shaojintian/leetcode-answer/issues/156) $ | 34.30%   | Medium     |
-| 155  | [Min Stack](https://github.com/shaojintian/leetcode-answer/issues/155) | 18.50%   | Easy       |
-| 154  | [Find Minimum in Rotated Sorted Array II](https://github.com/shaojintian/leetcode-answer/issues/154) | 31.90%   | Hard       |
-| 153  | [Find Minimum in Rotated Sorted Array](https://github.com/shaojintian/leetcode-answer/issues/153) | 33.30%   | Medium     |
-| 152  | [Maximum Product Subarray](https://github.com/shaojintian/leetcode-answer/issues/152) | 19.40%   | Medium     |
-| 151  | [Reverse Words in a String](https://github.com/shaojintian/leetcode-answer/issues/151) | 15.10%   | Medium     |
-| 150  | [Evaluate Reverse Polish Notation](https://github.com/shaojintian/leetcode-answer/issues/150) | 21.10%   | Medium     |
-| 149  | [Max Points on a Line](https://github.com/shaojintian/leetcode-answer/issues/149) | 12.60%   | Hard       |
-| 148  | [Sort List](https://github.com/shaojintian/leetcode-answer/issues/148) | 22.00%   | Medium     |
-| 147  | [Insertion Sort List](https://github.com/shaojintian/leetcode-answer/issues/147) | 26.40%   | Medium     |
-| 146  | [LRU Cache](https://github.com/shaojintian/leetcode-answer/issues/146) | 15.00%   | Hard       |
-| 145  | [Binary Tree Postorder Traversal](https://github.com/shaojintian/leetcode-answer/issues/145) | 32.40%   | Hard       |
-| 144  | [Binary Tree Preorder Traversal](https://github.com/shaojintian/leetcode-answer/issues/144) | 36.30%   | Medium     |
-| 143  | [Reorder List](https://github.com/shaojintian/leetcode-answer/issues/143) | 21.00%   | Medium     |
-| 142  | [Linked List Cycle II](https://github.com/shaojintian/leetcode-answer/issues/142) | 31.40%   | Medium     |
-| 141  | [Linked List Cycle](https://github.com/shaojintian/leetcode-answer/issues/141) | 36.30%   | Medium     |
-| 140  | [Word Break II](https://github.com/shaojintian/leetcode-answer/issues/140) | 17.70%   | Hard       |
-| 139  | [Word Break](https://github.com/shaojintian/leetcode-answer/issues/139) | 23.00%   | Medium     |
-| 138  | [Copy List with Random Pointer](https://github.com/shaojintian/leetcode-answer/issues/138) | 25.10%   | Hard       |
-| 137  | [Single Number II](https://github.com/shaojintian/leetcode-answer/issues/137) | 35.00%   | Medium     |
-| 136  | [Single Number](https://github.com/shaojintian/leetcode-answer/issues/136) | 45.10%   | Medium     |
-| 135  | [Candy](https://github.com/shaojintian/leetcode-answer/issues/135) | 20.50%   | Hard       |
-| 134  | [Gas Station](https://github.com/shaojintian/leetcode-answer/issues/134) | 25.70%   | Medium     |
-| 133  | [Clone Graph](https://github.com/shaojintian/leetcode-answer/issues/133) | 24.00%   | Medium     |
-| 132  | [Palindrome Partitioning II](https://github.com/shaojintian/leetcode-answer/issues/132) | 19.70%   | Hard       |
-| 131  | [Palindrome Partitioning](https://github.com/shaojintian/leetcode-answer/issues/131) | 26.70%   | Medium     |
-| 130  | [Surrounded Regions](https://github.com/shaojintian/leetcode-answer/issues/130) | 14.60%   | Medium     |
-| 129  | [Sum Root to Leaf Numbers](https://github.com/shaojintian/leetcode-answer/issues/129) | 30.30%   | Medium     |
-| 128  | [Longest Consecutive Sequence](https://github.com/shaojintian/leetcode-answer/issues/128) | 29.40%   | Hard       |
-| 127  | [Word Ladder](https://github.com/shaojintian/leetcode-answer/issues/127) | 19.30%   | Medium     |
-| 126  | [Word Ladder II](https://github.com/shaojintian/leetcode-answer/issues/126) | 12.90%   | Hard       |
-| 125  | [Valid Palindrome](https://github.com/shaojintian/leetcode-answer/issues/125) | 22.00%   | Easy       |
-| 124  | [Binary Tree Maximum Path Sum](https://github.com/shaojintian/leetcode-answer/issues/124) | 21.50%   | Hard       |
-| 123  | [Best Time to Buy and Sell Stock III](https://github.com/shaojintian/leetcode-answer/issues/123) | 23.90%   | Hard       |
-| 122  | [Best Time to Buy and Sell Stock II](https://github.com/shaojintian/leetcode-answer/issues/122) | 38.30%   | Medium     |
-| 121  | [Best Time to Buy and Sell Stock](https://github.com/shaojintian/leetcode-answer/issues/121) | 32.60%   | Medium     |
-| 120  | [Triangle](https://github.com/shaojintian/leetcode-answer/issues/120) | 27.40%   | Medium     |
-| 119  | [Pascal's Triangle II](https://github.com/shaojintian/leetcode-answer/issues/119) | 29.40%   | Easy       |
-| 118  | [Pascal's Triangle](https://github.com/shaojintian/leetcode-answer/issues/118) | 30.10%   | Easy       |
-| 117  | [Populating Next Right Pointers in Each Node II](https://github.com/shaojintian/leetcode-answer/issues/117) | 32.00%   | Hard       |
-| 116  | [Populating Next Right Pointers in Each Node](https://github.com/shaojintian/leetcode-answer/issues/116) | 36.20%   | Medium     |
-| 115  | [Distinct Subsequences](https://github.com/shaojintian/leetcode-answer/issues/115) | 26.30%   | Hard       |
-| 114  | [Flatten Binary Tree to Linked List](https://github.com/shaojintian/leetcode-answer/issues/114) | 28.80%   | Medium     |
-| 113  | [Path Sum II](https://github.com/shaojintian/leetcode-answer/issues/113) | 26.60%   | Medium     |
-| 112  | [Path Sum](https://github.com/shaojintian/leetcode-answer/issues/112) | 29.80%   | Easy       |
-| 111  | [Minimum Depth of Binary Tree](https://github.com/shaojintian/leetcode-answer/issues/111) | 29.10%   | Easy       |
-| 110  | [Balanced Binary Tree](https://github.com/shaojintian/leetcode-answer/issues/110) | 32.00%   | Easy       |
-| 109  | [Convert Sorted List to Binary Search Tree](https://github.com/shaojintian/leetcode-answer/issues/109) | 27.90%   | Medium     |
-| 108  | [Convert Sorted Array to Binary Search Tree](https://github.com/shaojintian/leetcode-answer/issues/108) | 34.00%   | Medium     |
-| 107  | [Binary Tree Level Order Traversal II](https://github.com/shaojintian/leetcode-answer/issues/107) | 31.10%   | Easy       |
-| 106  | [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/shaojintian/leetcode-answer/issues/106) | 26.80%   | Medium     |
-| 105  | [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/shaojintian/leetcode-answer/issues/105) | 26.40%   | Medium     |
-| 104  | [Maximum Depth of Binary Tree](https://github.com/shaojintian/leetcode-answer/issues/104) | 45.10%   | Easy       |
-| 103  | [Binary Tree Zigzag Level Order Traversal](https://github.com/shaojintian/leetcode-answer/issues/103) | 26.40%   | Medium     |
-| 102  | [Binary Tree Level Order Traversal](https://github.com/shaojintian/leetcode-answer/issues/102) | 29.30%   | Easy       |
-| 101  | [Symmetric Tree](https://github.com/shaojintian/leetcode-answer/issues/101) | 31.60%   | Easy       |
-| 100  | [Same Tree](https://github.com/shaojintian/leetcode-answer/issues/100) | 41.80%   | Easy       |
-| 99   | [Recover Binary Search Tree](https://github.com/shaojintian/leetcode-answer/issues/99) | 24.30%   | Hard       |
-| 98   | [Validate Binary Search Tree](https://github.com/shaojintian/leetcode-answer/issues/98) | 20.60%   | Medium     |
-| 97   | [Interleaving String](https://github.com/shaojintian/leetcode-answer/issues/97) | 20.80%   | Hard       |
-| 96   | [Unique Binary Search Trees](https://github.com/shaojintian/leetcode-answer/issues/96) | 36.00%   | Medium     |
-| 95   | [Unique Binary Search Trees II](https://github.com/shaojintian/leetcode-answer/issues/95) | 28.00%   | Medium     |
-| 94   | [Binary Tree Inorder Traversal](https://github.com/shaojintian/leetcode-answer/issues/94) | 36.20%   | Medium     |
-| 93   | [Restore IP Addresses](https://github.com/shaojintian/leetcode-answer/issues/93) | 21.00%   | Medium     |
-| 92   | [Reverse Linked List II](https://github.com/shaojintian/leetcode-answer/issues/92) | 26.10%   | Medium     |
-| 91   | [Decode Ways](https://github.com/shaojintian/leetcode-answer/issues/91) | 16.40%   | Medium     |
-| 90   | [Subsets II](https://github.com/shaojintian/leetcode-answer/issues/90) | 27.70%   | Medium     |
-| 89   | [Gray Code](https://github.com/shaojintian/leetcode-answer/issues/89) | 32.80%   | Medium     |
-| 88   | [Merge Sorted Array](https://github.com/shaojintian/leetcode-answer/issues/88) | 29.70%   | Easy       |
-| 87   | [Scramble String](https://github.com/shaojintian/leetcode-answer/issues/87) | 24.20%   | Hard       |
-| 86   | [Partition List](https://github.com/shaojintian/leetcode-answer/issues/86) | 27.50%   | Medium     |
-| 85   | [Maximal Rectangle](https://github.com/shaojintian/leetcode-answer/issues/85) | 22.00%   | Hard       |
-| 84   | [Largest Rectangle in Histogram](https://github.com/shaojintian/leetcode-answer/issues/84) | 22.60%   | Hard       |
-| 83   | [Remove Duplicates from Sorted List](https://github.com/shaojintian/leetcode-answer/issues/83) | 34.50%   | Easy       |
-| 82   | [Remove Duplicates from Sorted List II](https://github.com/shaojintian/leetcode-answer/issues/82) | 25.00%   | Medium     |
-| 81   | [Search in Rotated Sorted Array II](https://github.com/shaojintian/leetcode-answer/issues/81) | 31.40%   | Medium     |
-| 80   | [Remove Duplicates from Sorted Array II](https://github.com/shaojintian/leetcode-answer/issues/80) | 30.50%   | Medium     |
-| 79   | [Word Search](https://github.com/shaojintian/leetcode-answer/issues/79) | 20.30%   | Medium     |
-| 78   | [Subsets](https://github.com/shaojintian/leetcode-answer/issues/78) | 28.20%   | Medium     |
-| 77   | [Combinations](https://github.com/shaojintian/leetcode-answer/issues/77) | 30.90%   | Medium     |
-| 76   | [Minimum Window Substring](https://github.com/shaojintian/leetcode-answer/issues/76) | 18.90%   | Hard       |
-| 75   | [Sort Colors](https://github.com/shaojintian/leetcode-answer/issues/75) | 32.60%   | Medium     |
-| 74   | [Search a 2D Matrix](https://github.com/shaojintian/leetcode-answer/issues/74) | 31.60%   | Medium     |
-| 73   | [Set Matrix Zeroes](https://github.com/shaojintian/leetcode-answer/issues/73) | 31.40%   | Medium     |
-| 72   | [Edit Distance](https://github.com/shaojintian/leetcode-answer/issues/72) | 26.20%   | Hard       |
-| 71   | [Simplify Path](https://github.com/shaojintian/leetcode-answer/issues/71) | 20.00%   | Medium     |
-| 70   | [Climbing Stairs](https://github.com/shaojintian/leetcode-answer/issues/70) | 34.40%   | Easy       |
-| 69   | [Sqrt(x)](https://github.com/shaojintian/leetcode-answer/issues/69) | 23.10%   | Medium     |
-| 68   | [Text Justification](https://github.com/shaojintian/leetcode-answer/issues/68) | 14.60%   | Hard       |
-| 67   | [Add Binary](https://github.com/shaojintian/leetcode-answer/issues/67) | 24.70%   | Easy       |
-| 66   | [Plus One](https://github.com/shaojintian/leetcode-answer/issues/66) | 30.40%   | Easy       |
-| 65   | [Valid Number](https://github.com/shaojintian/leetcode-answer/issues/65) | 11.40%   | Hard       |
-| 64   | [Minimum Path Sum](https://github.com/shaojintian/leetcode-answer/issues/64) | 32.20%   | Medium     |
-| 63   | [Unique Paths II](https://github.com/shaojintian/leetcode-answer/issues/63) | 28.00%   | Medium     |
-| 62   | [Unique Paths](https://github.com/shaojintian/leetcode-answer/issues/62) | 32.80%   | Medium     |
-| 61   | [Rotate List](https://github.com/shaojintian/leetcode-answer/issues/61) | 21.70%   | Medium     |
-| 60   | [Permutation Sequence](https://github.com/shaojintian/leetcode-answer/issues/60) | 22.80%   | Medium     |
-| 59   | [Spiral Matrix II](https://github.com/shaojintian/leetcode-answer/issues/59) | 31.80%   | Medium     |
-| 58   | [Length of Last Word](https://github.com/shaojintian/leetcode-answer/issues/58) | 28.00%   | Easy       |
-| 57   | [Insert Interval](https://github.com/shaojintian/leetcode-answer/issues/57) | 21.40%   | Hard       |
-| 56   | [Merge Intervals](https://github.com/shaojintian/leetcode-answer/issues/56) | 22.40%   | Hard       |
-| 55   | [Jump Game](https://github.com/shaojintian/leetcode-answer/issues/55) | 27.00%   | Medium     |
-| 54   | [Spiral Matrix](https://github.com/shaojintian/leetcode-answer/issues/54) | 20.80%   | Medium     |
-| 53   | [Maximum Subarray](https://github.com/shaojintian/leetcode-answer/issues/53) | 34.50%   | Medium     |
-| 52   | [N-Queens II](https://github.com/shaojintian/leetcode-answer/issues/52) | 35.80%   | Hard       |
-| 51   | [N-Queens](https://github.com/shaojintian/leetcode-answer/issues/51) | 26.50%   | Hard       |
-| 50   | [Pow(x)](https://github.com/shaojintian/leetcode-answer/issues/50)                                                      |  26.70%     |  Medium|
-| 49   | [Anagrams](https://github.com/shaojintian/leetcode-answer/issues/49) | 24.30%   | Medium     |
-| 48   | [Rotate Image](https://github.com/shaojintian/leetcode-answer/issues/48) | 31.90%   | Medium     |
-| 47   | [Permutations II](https://github.com/shaojintian/leetcode-answer/issues/47) | 25.80%   | Hard       |
-| 46   | [Permutations](https://github.com/shaojintian/leetcode-answer/issues/46) | 31.90%   | Medium     |
-| 45   | [Jump Game II](https://github.com/shaojintian/leetcode-answer/issues/45) | 24.20%   | Hard       |
-| 44   | [Wildcard Matching](https://github.com/shaojintian/leetcode-answer/issues/44) | 15.00%   | Hard       |
-| 43   | [Multiply Strings](https://github.com/shaojintian/leetcode-answer/issues/43) | 21.00%   | Medium     |
-| 42   | [Trapping Rain Water](https://github.com/shaojintian/leetcode-answer/issues/42) | 30.00%   | Hard       |
-| 41   | [First Missing Positive](https://github.com/shaojintian/leetcode-answer/issues/41) | 22.90%   | Hard       |
-| 40   | [Combination Sum II](https://github.com/shaojintian/leetcode-answer/issues/40) | 25.20%   | Medium     |
-| 39   | [Combination Sum](https://github.com/shaojintian/leetcode-answer/issues/39) | 27.90%   | Medium     |
-| 38   | [Count and Say](https://github.com/shaojintian/leetcode-answer/issues/38) | 25.20%   | Easy       |
-| 37   | [Sudoku Solver](https://github.com/shaojintian/leetcode-answer/issues/37) | 21.80%   | Hard       |
-| 36   | [Valid Sudoku](https://github.com/shaojintian/leetcode-answer/issues/36) | 27.20%   | Easy       |
-| 35   | [Search Insert Position](https://github.com/shaojintian/leetcode-answer/issues/35) | 35.40%   | Medium     |
-| 34   | [Search for a Range](https://github.com/shaojintian/leetcode-answer/issues/34) | 27.50%   | Medium     |
-| 33   | [Search in Rotated Sorted Array](https://github.com/shaojintian/leetcode-answer/issues/33) | 28.80%   | Hard       |
-| 32   | [Longest Valid Parentheses](https://github.com/shaojintian/leetcode-answer/issues/32) | 20.90%   | Hard       |
-| 31   | [Next Permutation](https://github.com/shaojintian/leetcode-answer/issues/31) | 25.00%   | Medium     |
-| 30   | [Substring with Concatenation of All Words](https://github.com/shaojintian/leetcode-answer/issues/30) | 19.40%   | Hard       |
-| 29   | [Divide Two Integers](https://github.com/shaojintian/leetcode-answer/issues/29) | 15.00%   | Medium     |
-| 28   | [Implement strStr()](https://github.com/shaojintian/leetcode-answer/issues/28) | 22.20%   | Easy       |
-| 27   | [Remove Element](https://github.com/shaojintian/leetcode-answer/issues/27) | 32.10%   | Easy       |
-| 26   | [Remove Duplicates from Sorted Array](https://github.com/shaojintian/leetcode-answer/issues/26) | 31.30%   | Easy       |
-| 25   | [Reverse Nodes in k-Group](https://github.com/shaojintian/leetcode-answer/issues/25) | 25.50%   | Hard       |
-| 24   | [Swap Nodes in Pairs](https://github.com/shaojintian/leetcode-answer/issues/24) | 32.50%   | Medium     |
-| 23   | [Merge k Sorted Lists](https://github.com/shaojintian/leetcode-answer/issues/23) | 21.10%   | Hard       |
-| 22   | [Generate Parentheses](https://github.com/shaojintian/leetcode-answer/issues/22) | 32.60%   | Medium     |
-| 21   | [Merge Two Sorted Lists](https://github.com/shaojintian/leetcode-answer/issues/21) | 32.70%   | Easy       |
-| 20   | [Valid Parentheses](https://github.com/shaojintian/leetcode-answer/issues/20) | 26.50%   | Easy       |
-| 19   | [Remove Nth Node From End of List](https://github.com/shaojintian/leetcode-answer/issues/19) | 27.10%   | Easy       |
-| 18   | [4Sum](https://github.com/shaojintian/leetcode-answer/issues/18) | 21.70%   | Medium     |
-| 17   | [Letter Combinations of a Phone Number](https://github.com/shaojintian/leetcode-answer/issues/17) | 25.80%   | Medium     |
-| 16   | [3Sum Closest](https://github.com/shaojintian/leetcode-answer/issues/16) | 26.90%   | Medium     |
-| 15   | [3Sum](https://github.com/shaojintian/leetcode-answer/issues/15) | 16.90%   | Medium     |
-| 14   | [Longest Common Prefix](https://github.com/shaojintian/leetcode-answer/issues/14) | 25.50%   | Easy       |
-| 13   | [Roman to Integer](https://github.com/shaojintian/leetcode-answer/issues/13) | 34.00%   | Easy       |
-| 12   | [Integer to Roman](https://github.com/shaojintian/leetcode-answer/issues/12) | 33.80%   | Medium     |
-| 11   | [Container With Most Water](https://github.com/shaojintian/leetcode-answer/issues/11) | 32.00%   | Medium     |
-| 10   | [Regular Expression Matching](https://github.com/shaojintian/leetcode-answer/issues/10) | 20.70%   | Hard       |
-| 9    | [Palindrome Number](https://github.com/shaojintian/leetcode-answer/issues/9) | 28.30%   | Easy       |
-| 8    | [String to Integer (atoi)](https://github.com/shaojintian/leetcode-answer/issues/8) | 13.00%   | Easy       |
-| 7    | [Reverse Integer](https://github.com/shaojintian/leetcode-answer/issues/7) | 25.10%   | Easy       |
-| 6    | [ZigZag Conversion](https://github.com/shaojintian/leetcode-answer/issues/6) | 21.80%   | Easy       |
-| 5    | [Longest Palindromic Substring](https://github.com/shaojintian/leetcode-answer/issues/5) | 20.70%   | Medium     |
-| 4    | [Median of Two Sorted Arrays](https://github.com/shaojintian/leetcode-answer/issues/4) | 17.40%   | Hard       |
-| 3    | [Longest Substring Without Repeating Characters](https://github.com/shaojintian/leetcode-answer/issues/3) | 20.60%   | Medium     |
+| 569  | [Median Employee Salary ](https://github.com/shaojintian/leetcode-answer/answers/569) $ | 41.60%   | Hard       |
+| 568  | [Maximum Vacation Days](https://github.com/shaojintian/leetcode-answer/answers/568) $ | 39.90%   | Hard       |
+| 567  | [Permutation in String](https://github.com/shaojintian/leetcode-answer/answers/567) | 36.30%   | Medium     |
+| 566  | [Reshape the Matrix](https://github.com/shaojintian/leetcode-answer/answers/566) | 59.80%   | Easy       |
+| 565  | [Array Nesting](https://github.com/shaojintian/leetcode-answer/answers/565) | 50.00%   | Medium     |
+| 564  | [Find the Closest Palindrome](https://github.com/shaojintian/leetcode-answer/answers/564) | 16.60%   | Hard       |
+| 563  | [Binary Tree Tilt](https://github.com/shaojintian/leetcode-answer/answers/563) | 47.00%   | Easy       |
+| 562  | [Longest Line of Consecutive One in Matrix](https://github.com/shaojintian/leetcode-answer/answers/562) $ | 38.80%   | Medium     |
+| 561  | [Array Partition I](https://github.com/shaojintian/leetcode-answer/answers/561) | 69.80%   | Easy       |
+| 560  | [Subarray Sum Equals K](https://github.com/shaojintian/leetcode-answer/answers/560) | 41.80%   | Medium     |
+| 559  | [Maximum Depth of N-ary Tree](https://github.com/shaojintian/leetcode-answer/answers/559) | 62.10%   | Easy       |
+| 558  | [Quad Tree Intersection](https://github.com/shaojintian/leetcode-answer/answers/558) | 36.40%   | Easy       |
+| 557  | [Reverse Words in a String III](https://github.com/shaojintian/leetcode-answer/answers/557) | 61.20%   | Easy       |
+| 556  | [Next Greater Element III](https://github.com/shaojintian/leetcode-answer/answers/556) | 27.70%   | Medium     |
+| 555  | [Split Concatenated Strings](https://github.com/shaojintian/leetcode-answer/answers/555) $ | 30.00%   | Medium     |
+| 554  | [Brick Wall](https://github.com/shaojintian/leetcode-answer/answers/554) | 42.70%   | Medium     |
+| 553  | [Optimal Division](https://github.com/shaojintian/leetcode-answer/answers/553) | 55.20%   | Medium     |
+| 552  | [Student Attendance Record II](https://github.com/shaojintian/leetcode-answer/answers/552) | 28.50%   | Hard       |
+| 551  | [Student Attendance Record I](https://github.com/shaojintian/leetcode-answer/answers/551) | 43.90%   | Easy       |
+| 549  | [Binary Tree Longest Consecutive Sequence II](https://github.com/shaojintian/leetcode-answer/answers/549) $ | 38.10%   | Medium     |
+| 548  | [Split Array with Equal Sum](https://github.com/shaojintian/leetcode-answer/answers/548) $ | 30.80%   | Medium     |
+| 547  | [Friend Circles](https://github.com/shaojintian/leetcode-answer/answers/547) | 49.00%   | Medium     |
+| 546  | [Remove Boxes](https://github.com/shaojintian/leetcode-answer/answers/546) | 29.60%   | Hard       |
+| 545  | [Boundary of Binary Tree](https://github.com/shaojintian/leetcode-answer/answers/545) $ | 29.10%   | Medium     |
+| 544  | [Output Contest Matches](https://github.com/shaojintian/leetcode-answer/answers/544) $ | 73.20%   | Medium     |
+| 543  | [Diameter of Binary Tree](https://github.com/shaojintian/leetcode-answer/answers/543) | 42.70%   | Easy       |
+| 542  | [01 Matrix](https://github.com/shaojintian/leetcode-answer/answers/542) | 32.50%   | Medium     |
+| 541  | [Reverse String II](https://github.com/shaojintian/leetcode-answer/answers/541) | 44.40%   | Easy       |
+| 540  | [Single Element in a Sorted Array](https://github.com/shaojintian/leetcode-answer/answers/540) | 55.90%   | Medium     |
+| 539  | [Minimum Time Difference](https://github.com/shaojintian/leetcode-answer/answers/539) | 44.70%   | Medium     |
+| 538  | [Convert BST to Greater Tree](https://github.com/shaojintian/leetcode-answer/answers/538) | 52.70%   | Medium     |
+| 537  | [Complex Number Multiplication](https://github.com/shaojintian/leetcode-answer/answers/537) | 65.90%   | Medium     |
+| 536  | [Construct Binary Tree from String](https://github.com/shaojintian/leetcode-answer/answers/536) $ | 36.30%   | Medium     |
+| 535  | [Encode and Decode TinyURL](https://github.com/shaojintian/leetcode-answer/answers/535) | 76.10%   | Medium     |
+| 534  | [Design TinyURL](https://github.com/shaojintian/leetcode-answer/answers/534) | N/A      | Medium     |
+| 533  | [Lonely Pixel II](https://github.com/shaojintian/leetcode-answer/answers/533) $ | 38.90%   | Medium     |
+| 532  | [K-diff Pairs in an Array](https://github.com/shaojintian/leetcode-answer/answers/532) | 27.20%   | Easy       |
+| 531  | [Lonely Pixel I](https://github.com/shaojintian/leetcode-answer/answers/531) $ | 50.20%   | Medium     |
+| 530  | [Minimum Absolute Difference in BST](https://github.com/shaojintian/leetcode-answer/answers/530) | 48.00%   | Easy       |
+| 529  | [Minesweeper](https://github.com/shaojintian/leetcode-answer/answers/529) | 52.00%   | Medium     |
+| 528  | [Random Pick with Weight](https://github.com/shaojintian/leetcode-answer/answers/528) | 41.80%   | Medium     |
+| 527  | [Word Abbreviation](https://github.com/shaojintian/leetcode-answer/answers/527) $ | 33.90%   | Hard       |
+| 526  | [Beautiful Arrangement](https://github.com/shaojintian/leetcode-answer/answers/526) | 53.50%   | Medium     |
+| 525  | [Contiguous Array](https://github.com/shaojintian/leetcode-answer/answers/525) | 34.40%   | Medium     |
+| 524  | [Longest Word in Dictionary through Deleting](https://github.com/shaojintian/leetcode-answer/answers/524) | 40.20%   | Medium     |
+| 523  | [Continuous Subarray Sum](https://github.com/shaojintian/leetcode-answer/answers/523) | 21.3     | Medium     |
+| 522  | [Longest Uncommon Subsequence II](https://github.com/shaojintian/leetcode-answer/answers/522) | 28.10%   | Medium     |
+| 521  | [Longest Uncommon Subsequence I](https://github.com/shaojintian/leetcode-answer/answers/521) | 50.70%   | Easy       |
+| 520  | [Detect Capital](https://github.com/shaojintian/leetcode-answer/answers/520) | 54.20%   | Easy       |
+| 519  | [Random Flip Matrix](https://github.com/shaojintian/leetcode-answer/answers/519) | 32.20%   | Medium     |
+| 518  | [Coin Change 2](https://github.com/shaojintian/leetcode-answer/answers/518) | 33.20%   | Medium     |
+| 517  | [Super Washing Machines](https://github.com/shaojintian/leetcode-answer/answers/517) | 34.60%   | Hard       |
+| 516  | [Longest Palindromic Subsequence](https://github.com/shaojintian/leetcode-answer/answers/516) | 42.00%   | Medium     |
+| 515  | [Find Largest Value in Each Tree Row](https://github.com/shaojintian/leetcode-answer/answers/515) | 52.70%   | Medium     |
+| 514  | [Freedom Trail](https://github.com/shaojintian/leetcode-answer/answers/514) | 27.20%   | Hard       |
+| 513  | [Find Bottom Left Tree Value](https://github.com/shaojintian/leetcode-answer/answers/513) | 55.60%   | Medium     |
+| 510  | [Inorder Successor in BST II](https://github.com/shaojintian/leetcode-answer/answers/510) $ | 56.20%   | Medium     |
+| 509  | [Fibonacci Number](https://github.com/shaojintian/leetcode-answer/answers/509) | 66.40%   | Easy       |
+| 508  | [Most Frequent Subtree Sum](https://github.com/shaojintian/leetcode-answer/answers/508) | 52.00%   | Medium     |
+| 507  | [Perfect Number](https://github.com/shaojintian/leetcode-answer/answers/507) | 32.70%   | Easy       |
+| 506  | [Relative Ranks](https://github.com/shaojintian/leetcode-answer/answers/506) | 48.50%   | Easy       |
+| 505  | [The Maze II](https://github.com/shaojintian/leetcode-answer/answers/505) | 34.80%   | Medium     |
+| 504  | [Base 7](https://github.com/shaojintian/leetcode-answer/answers/504) | 46.40%   | Easy       |
+| 503  | [Next Greater Element II](https://github.com/shaojintian/leetcode-answer/answers/503) | 46.20%   | Medium     |
+| 502  | [IPO](https://github.com/shaojintian/leetcode-answer/answers/502) | 32.40%   | Hard       |
+| 501  | [Find Mode in Binary Search Tree](https://github.com/shaojintian/leetcode-answer/answers/501) | 39.40%   | Easy       |
+| 500  | [Keyboard Row](https://github.com/shaojintian/leetcode-answer/answers/500) | 60.20%   | Easy       |
+| 499  | [The Maze III](https://github.com/shaojintian/leetcode-answer/answers/499) | 32.00%   | Hard       |
+| 498  | [Diagonal Traverse](https://github.com/shaojintian/leetcode-answer/answers/498) | 46.20%   | Medium     |
+| 497  | [Random Point in Non-overlapping Rectangles](https://github.com/shaojintian/leetcode-answer/answers/497) | 33.20%   | Medium     |
+| 496  | [Next Greater Element I](https://github.com/shaojintian/leetcode-answer/answers/496) | 58.80%   | Easy       |
+| 495  | [Teemo Attacking](https://github.com/shaojintian/leetcode-answer/answers/495) | 51.90%   | Medium     |
+| 494  | [Target Sum](https://github.com/shaojintian/leetcode-answer/answers/494) | 44.40%   | Medium     |
+| 493  | [Reverse Pairs](https://github.com/shaojintian/leetcode-answer/answers/493) | 17.10%   | Hard       |
+| 492  | [Construct the Rectangle](https://github.com/shaojintian/leetcode-answer/answers/492) | 49.70%   | Easy       |
+| 491  | [Increasing Subsequences](https://github.com/shaojintian/leetcode-answer/answers/491) | 39.30%   | Medium     |
+| 490  | [The Maze](https://github.com/shaojintian/leetcode-answer/answers/490) | 42.80%   | Medium     |
+| 489  | [Robot Room Cleaner](https://github.com/shaojintian/leetcode-answer/answers/489) | 57.10%   | Hard       |
+| 488  | [Zuma Game](https://github.com/shaojintian/leetcode-answer/answers/488) | 38.00%   | Hard       |
+| 487  | [Max Consecutive Ones II](https://github.com/shaojintian/leetcode-answer/answers/487) $ | 42.70%   | Medium     |
+| 486  | [Predict the Winner](https://github.com/shaojintian/leetcode-answer/answers/486) | 43.60%   | Medium     |
+| 485  | [Max Consecutive Ones](https://github.com/shaojintian/leetcode-answer/answers/485) | 55.30%   | Easy       |
+| 484  | [Find Permutation](https://github.com/shaojintian/leetcode-answer/answers/484) $ | 50.50%   | Medium     |
+| 483  | [Smallest Good Base](https://github.com/shaojintian/leetcode-answer/answers/483) | 30.60%   | Hard       |
+| 482  | [License Key Formatting](https://github.com/shaojintian/leetcode-answer/answers/482) | 41.20%   | Medium     |
+| 481  | [Magical String](https://github.com/shaojintian/leetcode-answer/answers/481) | 46.20%   | Medium     |
+| 480  | [Sliding Window Median](https://github.com/shaojintian/leetcode-answer/answers/480) | 31.00%   | Hard       |
+| 479  | [Largest Palindrome Product](https://github.com/shaojintian/leetcode-answer/answers/479) | 23.90%   | Easy       |
+| 478  | [Generate Random Point in a Circle](https://github.com/shaojintian/leetcode-answer/answers/478) | 33.80%   | Medium     |
+| 477  | [Total Hamming Distance](https://github.com/shaojintian/leetcode-answer/answers/477) | 44.10%   | Medium     |
+| 476  | [Number Complement](https://github.com/shaojintian/leetcode-answer/answers/476) | 61.20%   | Easy       |
+| 475  | [Heaters](https://github.com/shaojintian/leetcode-answer/answers/475) | 30.20%   | Easy       |
+| 474  | [Ones and Zeroes](https://github.com/shaojintian/leetcode-answer/answers/474) | 34.90%   | Medium     |
+| 473  | [Matchsticks to Square](https://github.com/shaojintian/leetcode-answer/answers/473) | 31.80%   | Medium     |
+| 472  | [Concatenated Words](https://github.com/shaojintian/leetcode-answer/answers/472) | 29.20%   | Hard       |
+| 471  | [Encode String with Shortest Length](https://github.com/shaojintian/leetcode-answer/answers/471) $ | 43.50%   | Hard       |
+| 470  | [Implement Rand10() Using Rand7()](https://github.com/shaojintian/leetcode-answer/answers/470) | 43.00%   | Medium     |
+| 469  | [Convex Polygon](https://github.com/shaojintian/leetcode-answer/answers/469) $ | 27.20%   | Medium     |
+| 468  | [Validate IP Address](https://github.com/shaojintian/leetcode-answer/answers/468) | 22.10%   | Medium     |
+| 467  | [Unique Substrings in Wraparound String](https://github.com/shaojintian/leetcode-answer/answers/467) | 29.90%   | Medium     |
+| 466  | [Count The Repetitions](https://github.com/shaojintian/leetcode-answer/answers/466) | 24.20%   | Hard       |
+| 465  | [Optimal Account Balancing](https://github.com/shaojintian/leetcode-answer/answers/465) $ | 29.20%   | Hard       |
+| 464  | [Can I Win](https://github.com/shaojintian/leetcode-answer/answers/464) | 22.20%   | Medium     |
+| 463  | [Island Perimeter](https://github.com/shaojintian/leetcode-answer/answers/463) | 56.70%   | Easy       |
+| 462  | [Minimum Moves to Equal Array Elements II](https://github.com/shaojintian/leetcode-answer/answers/462) | 50.90%   | Medium     |
+| 461  | [Hamming Distance](https://github.com/shaojintian/leetcode-answer/answers/461) | 73.20%   | Easy       |
+| 460  | [LFU Cache](https://github.com/shaojintian/leetcode-answer/answers/460) | 18.30%   | Hard       |
+| 459  | [Repeated Substring Pattern](https://github.com/shaojintian/leetcode-answer/answers/459) | 39.70%   | Easy       |
+| 458  | [Poor Pigs](https://github.com/shaojintian/leetcode-answer/answers/458) | 40.70%   | Easy       |
+| 457  | [Circular Array Loop](https://github.com/shaojintian/leetcode-answer/answers/457) | 20.60%   | Medium     |
+| 456  | [132 Pattern](https://github.com/shaojintian/leetcode-answer/answers/456) | 28.00%   | Medium     |
+| 455  | [Assign Cookies](https://github.com/shaojintian/leetcode-answer/answers/455) | 48.10%   | Easy       |
+| 454  | [4Sum II](https://github.com/shaojintian/leetcode-answer/answers/454) | 42.80%   | Medium     |
+| 453  | [Minimum Moves to Equal Array Elements](https://github.com/shaojintian/leetcode-answer/answers/453) | 46.30%   | Easy       |
+| 452  | [Minimum Number of Arrows to Burst Balloons](https://github.com/shaojintian/leetcode-answer/answers/452) | 42.10%   | Medium     |
+| 451  | [Sort Characters By Frequency](https://github.com/shaojintian/leetcode-answer/answers/451) | 50.90%   | Medium     |
+| 450  | [Delete Node in a BST](https://github.com/shaojintian/leetcode-answer/answers/450) | 34.50%   | Medium     |
+| 449  | [Serialize and Deserialize BST](https://github.com/shaojintian/leetcode-answer/answers/449) | 41.20%   | Medium     |
+| 448  | [Find All Numbers Disappeared in an Array](https://github.com/shaojintian/leetcode-answer/answers/448) | 58.30%   | Easy       |
+| 447  | [Number of Boomerangs](https://github.com/shaojintian/leetcode-answer/answers/447) | 42.20%   | Easy       |
+| 446  | [Arithmetic Slices II - Subsequence](https://github.com/shaojintian/leetcode-answer/answers/446) | 22.30%   | Hard       |
+| 445  | [Add Two Numbers II](https://github.com/shaojintian/leetcode-answer/answers/445) | 45.40%   | Medium     |
+| 444  | [Sequence Reconstruction](https://github.com/shaojintian/leetcode-answer/answers/444) $ | 20.50%   | Medium     |
+| 443  | [String Compression](https://github.com/shaojintian/leetcode-answer/answers/443) | 35.80%   | Easy       |
+| 442  | [Find All Duplicates in an Array](https://github.com/shaojintian/leetcode-answer/answers/442) | 46.40%   | Medium     |
+| 441  | [Arranging Coins](https://github.com/shaojintian/leetcode-answer/answers/441) | 36.20%   | Easy       |
+| 440  | [K-th Smallest in Lexicographical Order](https://github.com/shaojintian/leetcode-answer/answers/440) | 21.50%   | Hard       |
+| 439  | [Ternary Expression Parser](https://github.com/shaojintian/leetcode-answer/answers/439) $ | 49.40%   | Medium     |
+| 438  | [Find All Anagrams in a String](https://github.com/shaojintian/leetcode-answer/answers/438) | 33.50%   | Easy       |
+| 437  | [Path Sum III](https://github.com/shaojintian/leetcode-answer/answers/437) | 38.60%   | Easy       |
+| 436  | [Find Right Interval](https://github.com/shaojintian/leetcode-answer/answers/436) | 42.30%   | Medium     |
+| 435  | [Non-overlapping Intervals](https://github.com/shaojintian/leetcode-answer/answers/435) | 39.80%   | Medium     |
+| 434  | [Number of Segments in a String](https://github.com/shaojintian/leetcode-answer/answers/434) | 38.40%   | Easy       |
+| 433  | [Minimum Genetic Mutation](https://github.com/shaojintian/leetcode-answer/answers/433) | 33.50%   | Medium     |
+| 432  | [All O`one Data Structure](https://github.com/shaojintian/leetcode-answer/answers/432) | 28.30%   | Hard       |
+| 431  | [Encode N-ary Tree to Binary Tree](https://github.com/shaojintian/leetcode-answer/answers/431) $ | 53.70%   | Hard       |
+| 430  | [Flatten a Multilevel Doubly Linked List](https://github.com/shaojintian/leetcode-answer/answers/430) | 36.20%   | Medium     |
+| 429  | [N-ary Tree Level Order Traversal](https://github.com/shaojintian/leetcode-answer/answers/429) | 55.80%   | Easy       |
+| 428  | [Serialize and Deserialize N-ary Tree](https://github.com/shaojintian/leetcode-answer/answers/428) $ | 48.10%   | Hard       |
+| 427  | [Construct Quad Tree](https://github.com/shaojintian/leetcode-answer/answers/427) | 49.20%   | Easy       |
+| 426  | [Convert Binary Search Tree to Sorted Doubly Linked List](https://github.com/shaojintian/leetcode-answer/answers/426) | 43.30%   | Medium     |
+| 425  | [Word Squares](https://github.com/shaojintian/leetcode-answer/answers/425) $ | 40.10%   | Hard       |
+| 424  | [Longest Repeating Character Replacement](https://github.com/shaojintian/leetcode-answer/answers/424) | 38.10%   | Medium     |
+| 423  | [Reconstruct Original Digits from English](https://github.com/shaojintian/leetcode-answer/answers/423) | 40.80%   | Medium     |
+| 422  | [Valid Word Square](https://github.com/shaojintian/leetcode-answer/answers/422) $ | 36.40%   | Easy       |
+| 421  | [Maximum XOR of Two Numbers in an Array](https://github.com/shaojintian/leetcode-answer/answers/421) | 36.40%   | Medium     |
+| 420  | [Strong Password Checker](https://github.com/shaojintian/leetcode-answer/answers/420) | 22.10%   | Hard       |
+| 419  | [Battleships in a Board](https://github.com/shaojintian/leetcode-answer/answers/419) | 59.30%   | Medium     |
+| 418  | [Sentence Screen Fitting](https://github.com/shaojintian/leetcode-answer/answers/418) $ | 25.10%   | Medium     |
+| 417  | [Pacific Atlantic Water Flow](https://github.com/shaojintian/leetcode-answer/answers/417) | 31.10%   | Medium     |
+| 416  | [Partition Equal Subset Sum](https://github.com/shaojintian/leetcode-answer/answers/416) | 36.80%   | Medium     |
+| 415  | [Add Strings](https://github.com/shaojintian/leetcode-answer/answers/415) | 41.50%   | Easy       |
+| 414  | [Third Maximum Number](https://github.com/shaojintian/leetcode-answer/answers/414) | 26.50%   | Easy       |
+| 413  | [Arithmetic Slices](https://github.com/shaojintian/leetcode-answer/answers/413) | 53.50%   | Medium     |
+| 412  | [Fizz Buzz](https://github.com/shaojintian/leetcode-answer/answers/412) | 57.50%   | Easy       |
+| 411  | [Minimum Unique Word Abbreviation](https://github.com/shaojintian/leetcode-answer/answers/411) $ | 25.60%   | Hard       |
+| 410  | [Split Array Largest Sum](https://github.com/shaojintian/leetcode-answer/answers/410) | 25.00%   | Hard       |
+| 409  | [Longest Palindrome](https://github.com/shaojintian/leetcode-answer/answers/409) | 44.90%   | Easy       |
+| 408  | [Valid Word Abbreviation](https://github.com/shaojintian/leetcode-answer/answers/408) $ | 26.20%   | Easy       |
+| 407  | [Trapping Rain Water II](https://github.com/shaojintian/leetcode-answer/answers/407) | 33.10%   | Hard       |
+| 406  | [Queue Reconstruction by Height](https://github.com/shaojintian/leetcode-answer/answers/406) | 54.10%   | Medium     |
+| 405  | [Convert a Number to Hexadecimal](https://github.com/shaojintian/leetcode-answer/answers/405) | 41.80%   | Easy       |
+| 404  | [Sum of Left Leaves](https://github.com/shaojintian/leetcode-answer/answers/404) | 46.20%   | Easy       |
+| 403  | [Frog Jump](https://github.com/shaojintian/leetcode-answer/answers/403) | 31.70%   | Hard       |
+| 402  | [Remove K Digits](https://github.com/shaojintian/leetcode-answer/answers/402) | 25.90%   | Medium     |
+| 401  | [Binary Watch](https://github.com/shaojintian/leetcode-answer/answers/401) | 43.00%   | Easy       |
+| 400  | [Nth Digit](https://github.com/shaojintian/leetcode-answer/answers/400) | 30.70%   | Easy       |
+| 399  | [Evaluate Division](https://github.com/shaojintian/leetcode-answer/answers/399) | 34.60%   | Medium     |
+| 398  | [Random Pick Index](https://github.com/shaojintian/leetcode-answer/answers/398) | 30.40%   | Medium     |
+| 397  | [Integer Replacement](https://github.com/shaojintian/leetcode-answer/answers/397) | 25.90%   | Easy       |
+| 396  | [Rotate Function](https://github.com/shaojintian/leetcode-answer/answers/396) | 28.40%   | Easy       |
+| 395  | [Longest Substring with At Least K Repeating Characters](https://github.com/shaojintian/leetcode-answer/answers/395) | 32.50%   | Medium     |
+| 394  | [Decode String](https://github.com/shaojintian/leetcode-answer/answers/394) | 38.60%   | Medium     |
+| 393  | [UTF-8 Validation](https://github.com/shaojintian/leetcode-answer/answers/393) | 33.00%   | Medium     |
+| 392  | [Is Subsequence](https://github.com/shaojintian/leetcode-answer/answers/392) | 44.10%   | Medium     |
+| 391  | [Perfect Rectangle](https://github.com/shaojintian/leetcode-answer/answers/391) | 13.30%   | Hard       |
+| 390  | [Elimination Game](https://github.com/shaojintian/leetcode-answer/answers/390) | 12.50%   | Medium     |
+| 389  | [Find the Difference](https://github.com/shaojintian/leetcode-answer/answers/389) | 49.90%   | Easy       |
+| 388  | [Longest Absolute File Path](https://github.com/shaojintian/leetcode-answer/answers/388) | 28.30%   | Medium     |
+| 387  | [First Unique Character in a String](https://github.com/shaojintian/leetcode-answer/answers/387) | 43.10%   | Easy       |
+| 386  | [Lexicographical Numbers](https://github.com/shaojintian/leetcode-answer/answers/386) | 31.00%   | Medium     |
+| 385  | [Mini Parser](https://github.com/shaojintian/leetcode-answer/answers/385) | 26.90%   | Medium     |
+| 384  | [Shuffle an Array](https://github.com/shaojintian/leetcode-answer/answers/384) | 45.50%   | Medium     |
+| 383  | [Ransom Note](https://github.com/shaojintian/leetcode-answer/answers/383) | 44.60%   | Easy       |
+| 382  | [Linked List Random Node](https://github.com/shaojintian/leetcode-answer/answers/382) | 48.60%   | Medium     |
+| 381  | [Insert Delete GetRandom O(1) - Duplicates allowed](https://github.com/shaojintian/leetcode-answer/answers/381) | 30.90%   | Hard       |
+| 380  | [Insert Delete GetRandom O(1)](https://github.com/shaojintian/leetcode-answer/answers/380) | 33.80%   | Medium     |
+| 379  | [Design Phone Directory](https://github.com/shaojintian/leetcode-answer/answers/379) $ | 25.80%   | Medium     |
+| 378  | [Kth Smallest Element in a Sorted Matrix](https://github.com/shaojintian/leetcode-answer/answers/378) | 40.20%   | Medium     |
+| 377  | [Combination Sum IV](https://github.com/shaojintian/leetcode-answer/answers/377) | 37.50%   | Medium     |
+| 376  | [Wiggle Subsequence](https://github.com/shaojintian/leetcode-answer/answers/376) | 35.80%   | Medium     |
+| 375  | [Guess Number Higher or Lower II](https://github.com/shaojintian/leetcode-answer/answers/375) | 28.30%   | Medium     |
+| 374  | [Guess Number Higher or Lower](https://github.com/shaojintian/leetcode-answer/answers/374) | 31.70%   | Easy       |
+| 373  | [Find K Pairs with Smallest Sums](https://github.com/shaojintian/leetcode-answer/answers/373) | 25.50%   | Medium     |
+| 372  | [Super Pow](https://github.com/shaojintian/leetcode-answer/answers/372) | 30.10%   | Medium     |
+| 371  | [Sum of Two Integers](https://github.com/shaojintian/leetcode-answer/answers/371) | 54.00%   | Easy       |
+| 370  | [Range Addition](https://github.com/shaojintian/leetcode-answer/answers/370) $ | 49.90%   | Medium     |
+| 369  | [Plus One Linked List](https://github.com/shaojintian/leetcode-answer/answers/369) $ | 50.10%   | Medium     |
+| 368  | [Largest Divisible Subset](https://github.com/shaojintian/leetcode-answer/answers/368) | 32.00%   | Medium     |
+| 367  | [Valid Perfect Square](https://github.com/shaojintian/leetcode-answer/answers/367) | 36.60%   | Medium     |
+| 366  | [Find Leaves of Binary Tree](https://github.com/shaojintian/leetcode-answer/answers/366) $ | 53.60%   | Medium     |
+| 365  | [Water and Jug Problem](https://github.com/shaojintian/leetcode-answer/answers/365) | 20.10%   | Medium     |
+| 364  | [Nested List Weight Sum II](https://github.com/shaojintian/leetcode-answer/answers/364) $ | 47.20%   | Medium     |
+| 363  | [Max Sum of Rectangle No Larger Than K](https://github.com/shaojintian/leetcode-answer/answers/363) | 27.00%   | Hard       |
+| 362  | [Design Hit Counter](https://github.com/shaojintian/leetcode-answer/answers/362) $ | 48.30%   | Medium     |
+| 361  | [Bomb Enemy](https://github.com/shaojintian/leetcode-answer/answers/361) $ | 32.60%   | Medium     |
+| 360  | [Sort Transformed Array](https://github.com/shaojintian/leetcode-answer/answers/360) $ | 40.80%   | Medium     |
+| 359  | [Logger Rate Limiter](https://github.com/shaojintian/leetcode-answer/answers/359) $ | 56.00%   | Easy       |
+| 358  | [Rearrange String k Distance Apart](https://github.com/shaojintian/leetcode-answer/answers/358) $ | 26.90%   | Hard       |
+| 357  | [Count Numbers with Unique Digits](https://github.com/shaojintian/leetcode-answer/answers/357) | 42.50%   | Medium     |
+| 356  | [Line Reflection](https://github.com/shaojintian/leetcode-answer/answers/356) $ | 28.70%   | Medium     |
+| 355  | [Design Twitter](https://github.com/shaojintian/leetcode-answer/answers/355) | 22.20%   | Medium     |
+| 354  | [Russian Doll Envelopes](https://github.com/shaojintian/leetcode-answer/answers/354) | 27.10%   | Hard       |
+| 353  | [Design Snake Game](https://github.com/shaojintian/leetcode-answer/answers/353) $ | 19.80%   | Medium     |
+| 352  | [Data Stream as Disjoint Intervals](https://github.com/shaojintian/leetcode-answer/answers/352) | 34.40%   | Hard       |
+| 351  | [Android Unlock Patterns](https://github.com/shaojintian/leetcode-answer/answers/351) $ | 32.00%   | Medium     |
+| 350  | [Intersection of Two Arrays II](https://github.com/shaojintian/leetcode-answer/answers/350) | 41.50%   | Easy       |
+| 349  | [Intersection of Two Arrays](https://github.com/shaojintian/leetcode-answer/answers/349) | 47.80%   | Easy       |
+| 348  | [Design Tic-Tac-Toe ](https://github.com/shaojintian/leetcode-answer/answers/348) $ | 45.60%   | Medium     |
+| 347  | [Top K Frequent Elements](https://github.com/shaojintian/leetcode-answer/answers/347) | 44.50%   | Medium     |
+| 346  | [Moving Average from Data Stream ](https://github.com/shaojintian/leetcode-answer/answers/346) $ | 69.20%   | Easy       |
+| 345  | [Reverse Vowels of a String](https://github.com/shaojintian/leetcode-answer/answers/345) | 35.30%   | Easy       |
+| 344  | [Reverse String](https://github.com/shaojintian/leetcode-answer/answers/344) | 58.90%   | Easy       |
+| 343  | [Integer Break](https://github.com/shaojintian/leetcode-answer/answers/343) | 43.60%   | Medium     |
+| 342  | [Power of Four](https://github.com/shaojintian/leetcode-answer/answers/342) | 34.10%   | Easy       |
+| 341  | [Flatten Nested List Iterator](https://github.com/shaojintian/leetcode-answer/answers/341) $ | 18.70%   | Medium     |
+| 340  | [Longest Substring with At Most K Distinct Characters](https://github.com/shaojintian/leetcode-answer/answers/340) $ | 36.30%   | Hard       |
+| 339  | [Nested List Weight Sum](https://github.com/shaojintian/leetcode-answer/answers/339) $ | 54.60%   | Easy       |
+| 338  | [Counting Bits](https://github.com/shaojintian/leetcode-answer/answers/338) | 55.40%   | Medium     |
+| 337  | [House Robber III](https://github.com/shaojintian/leetcode-answer/answers/337) | 37.00%   | Medium     |
+| 336  | [Palindrome Pairs](https://github.com/shaojintian/leetcode-answer/answers/336) | 18.70%   | Hard       |
+| 335  | [Self Crossing](https://github.com/shaojintian/leetcode-answer/answers/335) | 18.00%   | Medium     |
+| 334  | [Increasing Triplet Subsequence](https://github.com/shaojintian/leetcode-answer/answers/334) | 33.20%   | Medium     |
+| 333  | [Largest BST Subtree](https://github.com/shaojintian/leetcode-answer/answers/333) $ | 26.50%   | Medium     |
+| 332  | [Reconstruct Itinerary](https://github.com/shaojintian/leetcode-answer/answers/332) | 23.40%   | Medium     |
+| 331  | [Verify Preorder Serialization of a Binary Tree](https://github.com/shaojintian/leetcode-answer/answers/331) | 31.50%   | Medium     |
+| 330  | [Patching Array](https://github.com/shaojintian/leetcode-answer/answers/330) | 28.80%   | Medium     |
+| 329  | [Longest Increasing Path in a Matrix](https://github.com/shaojintian/leetcode-answer/answers/329) | 29.50%   | Medium     |
+| 328  | [Odd Even Linked List](https://github.com/shaojintian/leetcode-answer/answers/328) | 37.80%   | Easy       |
+| 327  | [Count of Range Sum](https://github.com/shaojintian/leetcode-answer/answers/327) | 24.30%   | Hard       |
+| 326  | [Power of Three](https://github.com/shaojintian/leetcode-answer/answers/326) | 35.30%   | Easy       |
+| 325  | [Maximum Size Subarray Sum Equals k](https://github.com/shaojintian/leetcode-answer/answers/325) $ | 39.60%   | Easy       |
+| 324  | [Wiggle Sort II](https://github.com/shaojintian/leetcode-answer/answers/324) | 20.10%   | Medium     |
+| 323  | [Number of Connected Components in an Undirected Graph](https://github.com/shaojintian/leetcode-answer/answers/323) $ | 43.30%   | Medium     |
+| 322  | [Coin Change](https://github.com/shaojintian/leetcode-answer/answers/322) | 24.90%   | Medium     |
+| 321  | [Create Maximum Number](https://github.com/shaojintian/leetcode-answer/answers/321) | 19.10%   | Hard       |
+| 320  | [Generalized Abbreviation](https://github.com/shaojintian/leetcode-answer/answers/320) $ | 40.40%   | Medium     |
+| 319  | [Bulb Switcher](https://github.com/shaojintian/leetcode-answer/answers/319) | 39.20%   | Medium     |
+| 318  | [Maximum Product of Word Lengths](https://github.com/shaojintian/leetcode-answer/answers/318) | 38.70%   | Medium     |
+| 317  | [Shortest Distance from All Buildings](https://github.com/shaojintian/leetcode-answer/answers/317) $ | 29.10%   | Hard       |
+| 316  | [Remove Duplicate Letters](https://github.com/shaojintian/leetcode-answer/answers/316) | 23.00%   | Medium     |
+| 315  | [Count of Smaller Numbers After Self](https://github.com/shaojintian/leetcode-answer/answers/315) | 28.20%   | Hard       |
+| 314  | [Binary Tree Vertical Order Traversal](https://github.com/shaojintian/leetcode-answer/answers/314) $ | 30.10%   | Medium     |
+| 313  | [Super Ugly Number](https://github.com/shaojintian/leetcode-answer/answers/313) | 31.20%   | Medium     |
+| 312  | [Burst Balloons](https://github.com/shaojintian/leetcode-answer/answers/312) | 24.50%   | Medium     |
+| 311  | [Sparse Matrix Multiplication](https://github.com/shaojintian/leetcode-answer/answers/311) $ | 40.00%   | Medium     |
+| 310  | [Minimum Height Trees](https://github.com/shaojintian/leetcode-answer/answers/310) | 20.20%   | Medium     |
+| 309  | [Best Time to Buy and Sell Stock with Cooldown](https://github.com/shaojintian/leetcode-answer/answers/309) | 32.60%   | Medium     |
+| 308  | [Range Sum Query 2D - Mutable](https://github.com/shaojintian/leetcode-answer/answers/308) $ | 20.30%   | Hard       |
+| 307  | [Range Sum Query - Mutable](https://github.com/shaojintian/leetcode-answer/answers/307) | 14.50%   | Medium     |
+| 306  | [Additive Number](https://github.com/shaojintian/leetcode-answer/answers/306) | 23.30%   | Medium     |
+| 305  | [Number of Islands II](https://github.com/shaojintian/leetcode-answer/answers/305) $ | 26.70%   | Hard       |
+| 304  | [Range Sum Query 2D - Immutable](https://github.com/shaojintian/leetcode-answer/answers/304) | 21.50%   | Medium     |
+| 303  | [Range Sum Query - Immutable](https://github.com/shaojintian/leetcode-answer/answers/303) | 25.70%   | Easy       |
+| 302  | [Smallest Rectangle Enclosing Black Pixels](https://github.com/shaojintian/leetcode-answer/answers/302) $ | 36.70%   | Hard       |
+| 301  | [Remove Invalid Parentheses](https://github.com/shaojintian/leetcode-answer/answers/301) | 27.00%   | Hard       |
+| 300  | [Longest Increasing Subsequence](https://github.com/shaojintian/leetcode-answer/answers/300) | 31.50%   | Medium     |
+| 299  | [Bulls and Cows](https://github.com/shaojintian/leetcode-answer/answers/299) | 23.80%   | Easy       |
+| 298  | [Binary Tree Longest Consecutive Sequence](https://github.com/shaojintian/leetcode-answer/answers/298) $ | 32.20%   | Medium     |
+| 297  | [Serialize and Deserialize Binary Tree](https://github.com/shaojintian/leetcode-answer/answers/297) | 23.80%   | Medium     |
+| 296  | [Best Meeting Point](https://github.com/shaojintian/leetcode-answer/answers/296) $ | 41.40%   | Hard       |
+| 295  | [Find Median from Data Stream](https://github.com/shaojintian/leetcode-answer/answers/295) | 18.60%   | Hard       |
+| 294  | [Flip Game II](https://github.com/shaojintian/leetcode-answer/answers/294) $ | 38.10%   | Medium     |
+| 293  | [Flip Game](https://github.com/shaojintian/leetcode-answer/answers/293) $ | 47.60%   | Easy       |
+| 292  | [Nim Game](https://github.com/shaojintian/leetcode-answer/answers/292) | 49.50%   | Easy       |
+| 291  | [Word Pattern II](https://github.com/shaojintian/leetcode-answer/answers/291) $ | 31.50%   | Hard       |
+| 290  | [Word Pattern](https://github.com/shaojintian/leetcode-answer/answers/290) | 26.50%   | Easy       |
+| 289  | [Game of Life](https://github.com/shaojintian/leetcode-answer/answers/289) | 32.60%   | Medium     |
+| 288  | [Unique Word Abbreviation](https://github.com/shaojintian/leetcode-answer/answers/288) $ | 16.80%   | Easy       |
+| 287  | [Find the Duplicate Number](https://github.com/shaojintian/leetcode-answer/answers/287) | 32.80%   | Hard       |
+| 286  | [Walls and Gates](https://github.com/shaojintian/leetcode-answer/answers/286) $ | 29.90%   | Medium     |
+| 285  | [Inorder Successor in BST](https://github.com/shaojintian/leetcode-answer/answers/285) $ | 32.50%   | Medium     |
+| 284  | [Peeking Iterator](https://github.com/shaojintian/leetcode-answer/answers/284) | 31.00%   | Medium     |
+| 283  | [Move Zeroes](https://github.com/shaojintian/leetcode-answer/answers/283) | 41.40%   | Easy       |
+| 282  | [Expression Add Operators](https://github.com/shaojintian/leetcode-answer/answers/282) | 18.90%   | Hard       |
+| 281  | [Zigzag Iterator](https://github.com/shaojintian/leetcode-answer/answers/281) $ | 37.20%   | Medium     |
+| 280  | [Wiggle Sort](https://github.com/shaojintian/leetcode-answer/answers/280) $ | 43.30%   | Medium     |
+| 279  | [Perfect Squares](https://github.com/shaojintian/leetcode-answer/answers/279) | 28.80%   | Medium     |
+| 278  | [First Bad Version](https://github.com/shaojintian/leetcode-answer/answers/278) | 19.80%   | Easy       |
+| 277  | [Find the Celebrity](https://github.com/shaojintian/leetcode-answer/answers/277) $ | 31.70%   | Medium     |
+| 276  | [Paint Fence](https://github.com/shaojintian/leetcode-answer/answers/276) $ | 25.00%   | Easy       |
+| 275  | [H-Index II](https://github.com/shaojintian/leetcode-answer/answers/275) | 31.40%   | Medium     |
+| 274  | [H-Index](https://github.com/shaojintian/leetcode-answer/answers/274) | 25.30%   | Medium     |
+| 273  | [Integer to English Words](https://github.com/shaojintian/leetcode-answer/answers/273) | 15.50%   | Medium     |
+| 272  | [Closest Binary Search Tree Value II](https://github.com/shaojintian/leetcode-answer/answers/272) $ | 26.90%   | Hard       |
+| 271  | [Encode and Decode Strings](https://github.com/shaojintian/leetcode-answer/answers/271) $ | 25.40%   | Medium     |
+| 270  | [Closest Binary Search Tree Value](https://github.com/shaojintian/leetcode-answer/answers/270) $ | 29.40%   | Easy       |
+| 269  | [Alien Dictionary](https://github.com/shaojintian/leetcode-answer/answers/269) $ | 16.50%   | Hard       |
+| 268  | [Missing Number](https://github.com/shaojintian/leetcode-answer/answers/268) | 34.70%   | Medium     |
+| 267  | [Palindrome Permutation II](https://github.com/shaojintian/leetcode-answer/answers/267) $ | 22.50%   | Medium     |
+| 266  | [Palindrome Permutation](https://github.com/shaojintian/leetcode-answer/answers/266) $ | 45.80%   | Easy       |
+| 265  | [Paint House II](https://github.com/shaojintian/leetcode-answer/answers/265) $ | 30.00%   | Hard       |
+| 264  | [Ugly Number II](https://github.com/shaojintian/leetcode-answer/answers/264) | 21.60%   | Medium     |
+| 263  | [Ugly Number](https://github.com/shaojintian/leetcode-answer/answers/263) | 32.60%   | Easy       |
+| 262  | [Trips and Users](https://github.com/shaojintian/leetcode-answer/answers/262) * | 16.10%   | Hard       |
+| 261  | [Graph Valid Tree](https://github.com/shaojintian/leetcode-answer/answers/261) $ | 25.40%   | Medium     |
+| 260  | [Single Number III](https://github.com/shaojintian/leetcode-answer/answers/260) | 37.60%   | Medium     |
+| 259  | [3Sum Smaller](https://github.com/shaojintian/leetcode-answer/answers/259) $ | 34.20%   | Medium     |
+| 258  | [Add Digits](https://github.com/shaojintian/leetcode-answer/answers/258) | 46.50%   | Easy       |
+| 257  | [Binary Tree Paths](https://github.com/shaojintian/leetcode-answer/answers/257) | 21.90%   | Easy       |
+| 256  | [Paint House](https://github.com/shaojintian/leetcode-answer/answers/256) $ | 38.40%   | Medium     |
+| 255  | [Verify Preorder Sequence in Binary Search Tree](https://github.com/shaojintian/leetcode-answer/answers/255) $ | 32.30%   | Medium     |
+| 254  | [Factor Combinations](https://github.com/shaojintian/leetcode-answer/answers/254) $ | 29.00%   | Medium     |
+| 253  | [Meeting Rooms II](https://github.com/shaojintian/leetcode-answer/answers/253) $ | 28.80%   | Medium     |
+| 252  | [Meeting Rooms](https://github.com/shaojintian/leetcode-answer/answers/252) $ | 35.40%   | Easy       |
+| 251  | [Flatten 2D Vector](https://github.com/shaojintian/leetcode-answer/answers/251) $ | 28.30%   | Medium     |
+| 250  | [Count Univalue Subtrees](https://github.com/shaojintian/leetcode-answer/answers/250) $ | 32.70%   | Medium     |
+| 249  | [Group Shifted Strings](https://github.com/shaojintian/leetcode-answer/answers/249) $ | 25.20%   | Easy       |
+| 248  | [Strobogrammatic Number III](https://github.com/shaojintian/leetcode-answer/answers/248) $ | 21.80%   | Hard       |
+| 247  | [Strobogrammatic Number II](https://github.com/shaojintian/leetcode-answer/answers/247) $ | 26.70%   | Medium     |
+| 246  | [Strobogrammatic Number](https://github.com/shaojintian/leetcode-answer/answers/246) $ | 31.60%   | Easy       |
+| 245  | [Shortest Word Distance III](https://github.com/shaojintian/leetcode-answer/answers/245) $ | 43.20%   | Medium     |
+| 244  | [Shortest Word Distance II](https://github.com/shaojintian/leetcode-answer/answers/244) $ | 33.70%   | Medium     |
+| 243  | [Shortest Word Distance](https://github.com/shaojintian/leetcode-answer/answers/243) $ | 41.80%   | Easy       |
+| 242  | [Valid Anagram](https://github.com/shaojintian/leetcode-answer/answers/242) | 39.30%   | Easy       |
+| 241  | [Different Ways to Add Parentheses](https://github.com/shaojintian/leetcode-answer/answers/241) | 27.10%   | Medium     |
+| 240  | [Search a 2D Matrix II](https://github.com/shaojintian/leetcode-answer/answers/240) | 31.40%   | Medium     |
+| 239  | [Sliding Window Maximum](https://github.com/shaojintian/leetcode-answer/answers/239) | 24.30%   | Hard       |
+| 238  | [Product of Array Except Self](https://github.com/shaojintian/leetcode-answer/answers/238) | 42.40%   | Medium     |
+| 237  | [Delete Node in a Linked List](https://github.com/shaojintian/leetcode-answer/answers/237) | 50.90%   | Easy       |
+| 236  | [Lowest Common Ancestor of a Binary Tree](https://github.com/shaojintian/leetcode-answer/answers/236) | 28.30%   | Medium     |
+| 235  | [Lowest Common Ancestor of a Binary Search Tree](https://github.com/shaojintian/leetcode-answer/answers/235) | 38.90%   | Medium     |
+| 234  | [Palindrome Linked List](https://github.com/shaojintian/leetcode-answer/answers/234) | 23.80%   | Easy       |
+| 233  | [Number of Digit One](https://github.com/shaojintian/leetcode-answer/answers/233) | 16.10%   | Medium     |
+| 232  | [Implement Queue using Stacks](https://github.com/shaojintian/leetcode-answer/answers/232) | 37.40%   | Easy       |
+| 231  | [Power of Two](https://github.com/shaojintian/leetcode-answer/answers/231) | 31.30%   | Easy       |
+| 230  | [Kth Smallest Element in a BST](https://github.com/shaojintian/leetcode-answer/answers/230) | 30.50%   | Medium     |
+| 229  | [Majority Element II](https://github.com/shaojintian/leetcode-answer/answers/229) | 30.50%   | Medium     |
+| 228  | [Summary Ranges](https://github.com/shaojintian/leetcode-answer/answers/228) | 21.10%   | Easy       |
+| 227  | [Basic Calculator II](https://github.com/shaojintian/leetcode-answer/answers/227) | 18.00%   | Medium     |
+| 226  | [Invert Binary Tree](https://github.com/shaojintian/leetcode-answer/answers/226) | 35.40%   | Easy       |
+| 225  | [Implement Stack using Queues](https://github.com/shaojintian/leetcode-answer/answers/225) | 29.60%   | Medium     |
+| 224  | [Basic Calculator](https://github.com/shaojintian/leetcode-answer/answers/224) | 15.80%   | Medium     |
+| 223  | [Rectangle Area](https://github.com/shaojintian/leetcode-answer/answers/223) | 25.60%   | Easy       |
+| 222  | [Count Complete Tree Nodes](https://github.com/shaojintian/leetcode-answer/answers/222) | 19.40%   | Medium     |
+| 221  | [Maximal Square](https://github.com/shaojintian/leetcode-answer/answers/221) | 20.30%   | Medium     |
+| 220  | [Contains Duplicate III](https://github.com/shaojintian/leetcode-answer/answers/220) | 15.30%   | Medium     |
+| 219  | [Contains Duplicate II](https://github.com/shaojintian/leetcode-answer/answers/219) | 25.60%   | Easy       |
+| 218  | [The Skyline Problem](https://github.com/shaojintian/leetcode-answer/answers/218) | 16.20%   | Hard       |
+| 217  | [Contains Duplicate](https://github.com/shaojintian/leetcode-answer/answers/217) | 35.90%   | Easy       |
+| 216  | [Combination Sum III](https://github.com/shaojintian/leetcode-answer/answers/216) | 27.70%   | Medium     |
+| 215  | [Kth Largest Element in an Array](https://github.com/shaojintian/leetcode-answer/answers/215) | 27.30%   | Medium     |
+| 214  | [Shortest Palindrome](https://github.com/shaojintian/leetcode-answer/answers/214) | 16.80%   | Hard       |
+| 213  | [House Robber II](https://github.com/shaojintian/leetcode-answer/answers/213) | 26.30%   | Medium     |
+| 212  | [Word Search II](https://github.com/shaojintian/leetcode-answer/answers/212) | 15.00%   | Hard       |
+| 211  | [Add and Search Word - Data structure design](https://github.com/shaojintian/leetcode-answer/answers/211) | 20.70%   | Medium     |
+| 210  | [Course Schedule II](https://github.com/shaojintian/leetcode-answer/answers/210) | 19.30%   | Medium     |
+| 209  | [Minimum Size Subarray Sum](https://github.com/shaojintian/leetcode-answer/answers/209) | 22.90%   | Medium     |
+| 208  | [Implement Trie (Prefix Tree)](https://github.com/shaojintian/leetcode-answer/answers/208) | 24.80%   | Medium     |
+| 207  | [Course Schedule](https://github.com/shaojintian/leetcode-answer/answers/207) | 21.70%   | Medium     |
+| 206  | [Reverse Linked List](https://github.com/shaojintian/leetcode-answer/answers/206) | 31.50%   | Easy       |
+| 205  | [Isomorphic Strings](https://github.com/shaojintian/leetcode-answer/answers/205) | 24.20%   | Easy       |
+| 204  | [Count Primes](https://github.com/shaojintian/leetcode-answer/answers/204) | 19.00%   | Easy       |
+| 203  | [Remove Linked List Elements](https://github.com/shaojintian/leetcode-answer/answers/203) | 25.80%   | Easy       |
+| 202  | [Happy Number](https://github.com/shaojintian/leetcode-answer/answers/202) | 31.40%   | Easy       |
+| 201  | [Bitwise AND of Numbers Range](https://github.com/shaojintian/leetcode-answer/answers/201) | 23.30%   | Medium     |
+| 200  | [Number of Islands](https://github.com/shaojintian/leetcode-answer/answers/200) | 21.90%   | Medium     |
+| 199  | [Binary Tree Right Side View](https://github.com/shaojintian/leetcode-answer/answers/199) | 27.10%   | Medium     |
+| 198  | [House Robber](https://github.com/shaojintian/leetcode-answer/answers/198) | 28.80%   | Easy       |
+| 197  | [Rising Temperature](https://github.com/shaojintian/leetcode-answer/answers/197) * | 25.90%   | Easy       |
+| 196  | [Delete Duplicate Emails](https://github.com/shaojintian/leetcode-answer/answers/196) * | 19.00%   | Easy       |
+| 195  | [Tenth Line](https://github.com/shaojintian/leetcode-answer/answers/195) # | 32.20%   | Easy       |
+| 194  | [Transpose File](https://github.com/shaojintian/leetcode-answer/answers/194) # | 21.40%   | Medium     |
+| 193  | [Valid Phone Numbers](https://github.com/shaojintian/leetcode-answer/answers/193) # | 24.40%   | Easy       |
+| 192  | [Word Frequency](https://github.com/shaojintian/leetcode-answer/answers/192) # | 26.10%   | Medium     |
+| 191  | [Number of 1 Bits](https://github.com/shaojintian/leetcode-answer/answers/191) | 37.30%   | Easy       |
+| 190  | [Reverse Bits](https://github.com/shaojintian/leetcode-answer/answers/190) | 28.40%   | Easy       |
+| 189  | [Rotate Array](https://github.com/shaojintian/leetcode-answer/answers/189) | 17.80%   | Easy       |
+| 188  | [Best Time to Buy and Sell Stock IV](https://github.com/shaojintian/leetcode-answer/answers/188) | 17.30%   | Hard       |
+| 187  | [Repeated DNA Sequences](https://github.com/shaojintian/leetcode-answer/answers/187) | 19.50%   | Medium     |
+| 186  | [Reverse Words in a String II](https://github.com/shaojintian/leetcode-answer/answers/186) $ | 31.10%   | Medium     |
+| 185  | [Department Top Three Salaries](https://github.com/shaojintian/leetcode-answer/answers/185) * | 15.20%   | Hard       |
+| 184  | [Department Highest Salary](https://github.com/shaojintian/leetcode-answer/answers/184) * | 19.00%   | Medium     |
+| 183  | [Customers Who Never Order](https://github.com/shaojintian/leetcode-answer/answers/183) * | 33.70%   | Easy       |
+| 182  | [Duplicate Emails](https://github.com/shaojintian/leetcode-answer/answers/182) * | 38.10%   | Easy       |
+| 181  | [Employees Earning More Than Their Managers](https://github.com/shaojintian/leetcode-answer/answers/181) * | 41.00%   | Easy       |
+| 180  | [Consecutive Numbers](https://github.com/shaojintian/leetcode-answer/answers/180) * | 26.60%   | Medium     |
+| 179  | [Largest Number](https://github.com/shaojintian/leetcode-answer/answers/179) | 15.70%   | Medium     |
+| 178  | [Rank Scores](https://github.com/shaojintian/leetcode-answer/answers/178) * | 24.60%   | Medium     |
+| 177  | [Nth Highest Salary](https://github.com/shaojintian/leetcode-answer/answers/177) * | 16.30%   | Medium     |
+| 176  | [Second Highest Salary](https://github.com/shaojintian/leetcode-answer/answers/176) * | 25.00%   | Easy       |
+| 175  | [Combine Two Tables](https://github.com/shaojintian/leetcode-answer/answers/175) * | 34.40%   | Easy       |
+| 174  | [Dungeon Game](https://github.com/shaojintian/leetcode-answer/answers/174) | 17.70%   | Hard       |
+| 173  | [Binary Search Tree Iterator](https://github.com/shaojintian/leetcode-answer/answers/173) | 29.30%   | Medium     |
+| 172  | [Factorial Trailing Zeroes](https://github.com/shaojintian/leetcode-answer/answers/172) | 28.40%   | Easy       |
+| 171  | [Excel Sheet Column Number](https://github.com/shaojintian/leetcode-answer/answers/171) | 36.50%   | Easy       |
+| 170  | [Two Sum III - Data structure design](https://github.com/shaojintian/leetcode-answer/answers/170) $ | 24.70%   | Easy       |
+| 169  | [Majority Element](https://github.com/shaojintian/leetcode-answer/answers/169) | 35.00%   | Easy       |
+| 168  | [Excel Sheet Column Title](https://github.com/shaojintian/leetcode-answer/answers/168) | 18.10%   | Easy       |
+| 167  | [Two Sum II - Input array is sorted](https://github.com/shaojintian/leetcode-answer/answers/167) $ | 43.30%   | Medium     |
+| 166  | [Fraction to Recurring Decimal](https://github.com/shaojintian/leetcode-answer/answers/166) | 12.70%   | Medium     |
+| 165  | [Compare Version Numbers](https://github.com/shaojintian/leetcode-answer/answers/165) | 15.20%   | Easy       |
+| 164  | [Maximum Gap](https://github.com/shaojintian/leetcode-answer/answers/164) | 24.40%   | Hard       |
+| 163  | [Missing Ranges](https://github.com/shaojintian/leetcode-answer/answers/163) $ | 24.10%   | Medium     |
+| 162  | [Find Peak Element](https://github.com/shaojintian/leetcode-answer/answers/162) | 31.50%   | Medium     |
+| 161  | [One Edit Distance](https://github.com/shaojintian/leetcode-answer/answers/161) $ | 24.00%   | Medium     |
+| 160  | [Intersection of Two Linked Lists](https://github.com/shaojintian/leetcode-answer/answers/160) | 28.70%   | Easy       |
+| 159  | [Longest Substring with At Most Two Distinct Characters](https://github.com/shaojintian/leetcode-answer/answers/159) $ | 30.20%   | Hard       |
+| 158  | [Read N Characters Given Read4 II - Call multiple times](https://github.com/shaojintian/leetcode-answer/answers/158) $ | 22.30%   | Hard       |
+| 157  | [Read N Characters Given Read4](https://github.com/shaojintian/leetcode-answer/answers/157) $ | 29.80%   | Easy       |
+| 156  | [Binary Tree Upside Down](https://github.com/shaojintian/leetcode-answer/answers/156) $ | 34.30%   | Medium     |
+| 155  | [Min Stack](https://github.com/shaojintian/leetcode-answer/answers/155) | 18.50%   | Easy       |
+| 154  | [Find Minimum in Rotated Sorted Array II](https://github.com/shaojintian/leetcode-answer/answers/154) | 31.90%   | Hard       |
+| 153  | [Find Minimum in Rotated Sorted Array](https://github.com/shaojintian/leetcode-answer/answers/153) | 33.30%   | Medium     |
+| 152  | [Maximum Product Subarray](https://github.com/shaojintian/leetcode-answer/answers/152) | 19.40%   | Medium     |
+| 151  | [Reverse Words in a String](https://github.com/shaojintian/leetcode-answer/answers/151) | 15.10%   | Medium     |
+| 150  | [Evaluate Reverse Polish Notation](https://github.com/shaojintian/leetcode-answer/answers/150) | 21.10%   | Medium     |
+| 149  | [Max Points on a Line](https://github.com/shaojintian/leetcode-answer/answers/149) | 12.60%   | Hard       |
+| 148  | [Sort List](https://github.com/shaojintian/leetcode-answer/answers/148) | 22.00%   | Medium     |
+| 147  | [Insertion Sort List](https://github.com/shaojintian/leetcode-answer/answers/147) | 26.40%   | Medium     |
+| 146  | [LRU Cache](https://github.com/shaojintian/leetcode-answer/answers/146) | 15.00%   | Hard       |
+| 145  | [Binary Tree Postorder Traversal](https://github.com/shaojintian/leetcode-answer/answers/145) | 32.40%   | Hard       |
+| 144  | [Binary Tree Preorder Traversal](https://github.com/shaojintian/leetcode-answer/answers/144) | 36.30%   | Medium     |
+| 143  | [Reorder List](https://github.com/shaojintian/leetcode-answer/answers/143) | 21.00%   | Medium     |
+| 142  | [Linked List Cycle II](https://github.com/shaojintian/leetcode-answer/answers/142) | 31.40%   | Medium     |
+| 141  | [Linked List Cycle](https://github.com/shaojintian/leetcode-answer/answers/141) | 36.30%   | Medium     |
+| 140  | [Word Break II](https://github.com/shaojintian/leetcode-answer/answers/140) | 17.70%   | Hard       |
+| 139  | [Word Break](https://github.com/shaojintian/leetcode-answer/answers/139) | 23.00%   | Medium     |
+| 138  | [Copy List with Random Pointer](https://github.com/shaojintian/leetcode-answer/answers/138) | 25.10%   | Hard       |
+| 137  | [Single Number II](https://github.com/shaojintian/leetcode-answer/answers/137) | 35.00%   | Medium     |
+| 136  | [Single Number](https://github.com/shaojintian/leetcode-answer/answers/136) | 45.10%   | Medium     |
+| 135  | [Candy](https://github.com/shaojintian/leetcode-answer/answers/135) | 20.50%   | Hard       |
+| 134  | [Gas Station](https://github.com/shaojintian/leetcode-answer/answers/134) | 25.70%   | Medium     |
+| 133  | [Clone Graph](https://github.com/shaojintian/leetcode-answer/answers/133) | 24.00%   | Medium     |
+| 132  | [Palindrome Partitioning II](https://github.com/shaojintian/leetcode-answer/answers/132) | 19.70%   | Hard       |
+| 131  | [Palindrome Partitioning](https://github.com/shaojintian/leetcode-answer/answers/131) | 26.70%   | Medium     |
+| 130  | [Surrounded Regions](https://github.com/shaojintian/leetcode-answer/answers/130) | 14.60%   | Medium     |
+| 129  | [Sum Root to Leaf Numbers](https://github.com/shaojintian/leetcode-answer/answers/129) | 30.30%   | Medium     |
+| 128  | [Longest Consecutive Sequence](https://github.com/shaojintian/leetcode-answer/answers/128) | 29.40%   | Hard       |
+| 127  | [Word Ladder](https://github.com/shaojintian/leetcode-answer/answers/127) | 19.30%   | Medium     |
+| 126  | [Word Ladder II](https://github.com/shaojintian/leetcode-answer/answers/126) | 12.90%   | Hard       |
+| 125  | [Valid Palindrome](https://github.com/shaojintian/leetcode-answer/answers/125) | 22.00%   | Easy       |
+| 124  | [Binary Tree Maximum Path Sum](https://github.com/shaojintian/leetcode-answer/answers/124) | 21.50%   | Hard       |
+| 123  | [Best Time to Buy and Sell Stock III](https://github.com/shaojintian/leetcode-answer/answers/123) | 23.90%   | Hard       |
+| 122  | [Best Time to Buy and Sell Stock II](https://github.com/shaojintian/leetcode-answer/answers/122) | 38.30%   | Medium     |
+| 121  | [Best Time to Buy and Sell Stock](https://github.com/shaojintian/leetcode-answer/answers/121) | 32.60%   | Medium     |
+| 120  | [Triangle](https://github.com/shaojintian/leetcode-answer/answers/120) | 27.40%   | Medium     |
+| 119  | [Pascal's Triangle II](https://github.com/shaojintian/leetcode-answer/answers/119) | 29.40%   | Easy       |
+| 118  | [Pascal's Triangle](https://github.com/shaojintian/leetcode-answer/answers/118) | 30.10%   | Easy       |
+| 117  | [Populating Next Right Pointers in Each Node II](https://github.com/shaojintian/leetcode-answer/answers/117) | 32.00%   | Hard       |
+| 116  | [Populating Next Right Pointers in Each Node](https://github.com/shaojintian/leetcode-answer/answers/116) | 36.20%   | Medium     |
+| 115  | [Distinct Subsequences](https://github.com/shaojintian/leetcode-answer/answers/115) | 26.30%   | Hard       |
+| 114  | [Flatten Binary Tree to Linked List](https://github.com/shaojintian/leetcode-answer/answers/114) | 28.80%   | Medium     |
+| 113  | [Path Sum II](https://github.com/shaojintian/leetcode-answer/answers/113) | 26.60%   | Medium     |
+| 112  | [Path Sum](https://github.com/shaojintian/leetcode-answer/answers/112) | 29.80%   | Easy       |
+| 111  | [Minimum Depth of Binary Tree](https://github.com/shaojintian/leetcode-answer/answers/111) | 29.10%   | Easy       |
+| 110  | [Balanced Binary Tree](https://github.com/shaojintian/leetcode-answer/answers/110) | 32.00%   | Easy       |
+| 109  | [Convert Sorted List to Binary Search Tree](https://github.com/shaojintian/leetcode-answer/answers/109) | 27.90%   | Medium     |
+| 108  | [Convert Sorted Array to Binary Search Tree](https://github.com/shaojintian/leetcode-answer/answers/108) | 34.00%   | Medium     |
+| 107  | [Binary Tree Level Order Traversal II](https://github.com/shaojintian/leetcode-answer/answers/107) | 31.10%   | Easy       |
+| 106  | [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/shaojintian/leetcode-answer/answers/106) | 26.80%   | Medium     |
+| 105  | [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/shaojintian/leetcode-answer/answers/105) | 26.40%   | Medium     |
+| 104  | [Maximum Depth of Binary Tree](https://github.com/shaojintian/leetcode-answer/answers/104) | 45.10%   | Easy       |
+| 103  | [Binary Tree Zigzag Level Order Traversal](https://github.com/shaojintian/leetcode-answer/answers/103) | 26.40%   | Medium     |
+| 102  | [Binary Tree Level Order Traversal](https://github.com/shaojintian/leetcode-answer/answers/102) | 29.30%   | Easy       |
+| 101  | [Symmetric Tree](https://github.com/shaojintian/leetcode-answer/answers/101) | 31.60%   | Easy       |
+| 100  | [Same Tree](https://github.com/shaojintian/leetcode-answer/answers/100) | 41.80%   | Easy       |
+| 99   | [Recover Binary Search Tree](https://github.com/shaojintian/leetcode-answer/answers/99) | 24.30%   | Hard       |
+| 98   | [Validate Binary Search Tree](https://github.com/shaojintian/leetcode-answer/answers/98) | 20.60%   | Medium     |
+| 97   | [Interleaving String](https://github.com/shaojintian/leetcode-answer/answers/97) | 20.80%   | Hard       |
+| 96   | [Unique Binary Search Trees](https://github.com/shaojintian/leetcode-answer/answers/96) | 36.00%   | Medium     |
+| 95   | [Unique Binary Search Trees II](https://github.com/shaojintian/leetcode-answer/answers/95) | 28.00%   | Medium     |
+| 94   | [Binary Tree Inorder Traversal](https://github.com/shaojintian/leetcode-answer/answers/94) | 36.20%   | Medium     |
+| 93   | [Restore IP Addresses](https://github.com/shaojintian/leetcode-answer/answers/93) | 21.00%   | Medium     |
+| 92   | [Reverse Linked List II](https://github.com/shaojintian/leetcode-answer/answers/92) | 26.10%   | Medium     |
+| 91   | [Decode Ways](https://github.com/shaojintian/leetcode-answer/answers/91) | 16.40%   | Medium     |
+| 90   | [Subsets II](https://github.com/shaojintian/leetcode-answer/answers/90) | 27.70%   | Medium     |
+| 89   | [Gray Code](https://github.com/shaojintian/leetcode-answer/answers/89) | 32.80%   | Medium     |
+| 88   | [Merge Sorted Array](https://github.com/shaojintian/leetcode-answer/answers/88) | 29.70%   | Easy       |
+| 87   | [Scramble String](https://github.com/shaojintian/leetcode-answer/answers/87) | 24.20%   | Hard       |
+| 86   | [Partition List](https://github.com/shaojintian/leetcode-answer/answers/86) | 27.50%   | Medium     |
+| 85   | [Maximal Rectangle](https://github.com/shaojintian/leetcode-answer/answers/85) | 22.00%   | Hard       |
+| 84   | [Largest Rectangle in Histogram](https://github.com/shaojintian/leetcode-answer/answers/84) | 22.60%   | Hard       |
+| 83   | [Remove Duplicates from Sorted List](https://github.com/shaojintian/leetcode-answer/answers/83) | 34.50%   | Easy       |
+| 82   | [Remove Duplicates from Sorted List II](https://github.com/shaojintian/leetcode-answer/answers/82) | 25.00%   | Medium     |
+| 81   | [Search in Rotated Sorted Array II](https://github.com/shaojintian/leetcode-answer/answers/81) | 31.40%   | Medium     |
+| 80   | [Remove Duplicates from Sorted Array II](https://github.com/shaojintian/leetcode-answer/answers/80) | 30.50%   | Medium     |
+| 79   | [Word Search](https://github.com/shaojintian/leetcode-answer/answers/79) | 20.30%   | Medium     |
+| 78   | [Subsets](https://github.com/shaojintian/leetcode-answer/answers/78) | 28.20%   | Medium     |
+| 77   | [Combinations](https://github.com/shaojintian/leetcode-answer/answers/77) | 30.90%   | Medium     |
+| 76   | [Minimum Window Substring](https://github.com/shaojintian/leetcode-answer/answers/76) | 18.90%   | Hard       |
+| 75   | [Sort Colors](https://github.com/shaojintian/leetcode-answer/answers/75) | 32.60%   | Medium     |
+| 74   | [Search a 2D Matrix](https://github.com/shaojintian/leetcode-answer/answers/74) | 31.60%   | Medium     |
+| 73   | [Set Matrix Zeroes](https://github.com/shaojintian/leetcode-answer/answers/73) | 31.40%   | Medium     |
+| 72   | [Edit Distance](https://github.com/shaojintian/leetcode-answer/answers/72) | 26.20%   | Hard       |
+| 71   | [Simplify Path](https://github.com/shaojintian/leetcode-answer/answers/71) | 20.00%   | Medium     |
+| 70   | [Climbing Stairs](https://github.com/shaojintian/leetcode-answer/answers/70) | 34.40%   | Easy       |
+| 69   | [Sqrt(x)](https://github.com/shaojintian/leetcode-answer/answers/69) | 23.10%   | Medium     |
+| 68   | [Text Justification](https://github.com/shaojintian/leetcode-answer/answers/68) | 14.60%   | Hard       |
+| 67   | [Add Binary](https://github.com/shaojintian/leetcode-answer/answers/67) | 24.70%   | Easy       |
+| 66   | [Plus One](https://github.com/shaojintian/leetcode-answer/answers/66) | 30.40%   | Easy       |
+| 65   | [Valid Number](https://github.com/shaojintian/leetcode-answer/answers/65) | 11.40%   | Hard       |
+| 64   | [Minimum Path Sum](https://github.com/shaojintian/leetcode-answer/answers/64) | 32.20%   | Medium     |
+| 63   | [Unique Paths II](https://github.com/shaojintian/leetcode-answer/answers/63) | 28.00%   | Medium     |
+| 62   | [Unique Paths](https://github.com/shaojintian/leetcode-answer/answers/62) | 32.80%   | Medium     |
+| 61   | [Rotate List](https://github.com/shaojintian/leetcode-answer/answers/61) | 21.70%   | Medium     |
+| 60   | [Permutation Sequence](https://github.com/shaojintian/leetcode-answer/answers/60) | 22.80%   | Medium     |
+| 59   | [Spiral Matrix II](https://github.com/shaojintian/leetcode-answer/answers/59) | 31.80%   | Medium     |
+| 58   | [Length of Last Word](https://github.com/shaojintian/leetcode-answer/answers/58) | 28.00%   | Easy       |
+| 57   | [Insert Interval](https://github.com/shaojintian/leetcode-answer/answers/57) | 21.40%   | Hard       |
+| 56   | [Merge Intervals](https://github.com/shaojintian/leetcode-answer/answers/56) | 22.40%   | Hard       |
+| 55   | [Jump Game](https://github.com/shaojintian/leetcode-answer/answers/55) | 27.00%   | Medium     |
+| 54   | [Spiral Matrix](https://github.com/shaojintian/leetcode-answer/answers/54) | 20.80%   | Medium     |
+| 53   | [Maximum Subarray](https://github.com/shaojintian/leetcode-answer/answers/53) | 34.50%   | Medium     |
+| 52   | [N-Queens II](https://github.com/shaojintian/leetcode-answer/answers/52) | 35.80%   | Hard       |
+| 51   | [N-Queens](https://github.com/shaojintian/leetcode-answer/answers/51) | 26.50%   | Hard       |
+| 50   | [Pow(x)](https://github.com/shaojintian/leetcode-answer/answers/50)                                                      |  26.70%     |  Medium|
+| 49   | [Anagrams](https://github.com/shaojintian/leetcode-answer/answers/49) | 24.30%   | Medium     |
+| 48   | [Rotate Image](https://github.com/shaojintian/leetcode-answer/answers/48) | 31.90%   | Medium     |
+| 47   | [Permutations II](https://github.com/shaojintian/leetcode-answer/answers/47) | 25.80%   | Hard       |
+| 46   | [Permutations](https://github.com/shaojintian/leetcode-answer/answers/46) | 31.90%   | Medium     |
+| 45   | [Jump Game II](https://github.com/shaojintian/leetcode-answer/answers/45) | 24.20%   | Hard       |
+| 44   | [Wildcard Matching](https://github.com/shaojintian/leetcode-answer/answers/44) | 15.00%   | Hard       |
+| 43   | [Multiply Strings](https://github.com/shaojintian/leetcode-answer/answers/43) | 21.00%   | Medium     |
+| 42   | [Trapping Rain Water](https://github.com/shaojintian/leetcode-answer/answers/42) | 30.00%   | Hard       |
+| 41   | [First Missing Positive](https://github.com/shaojintian/leetcode-answer/answers/41) | 22.90%   | Hard       |
+| 40   | [Combination Sum II](https://github.com/shaojintian/leetcode-answer/answers/40) | 25.20%   | Medium     |
+| 39   | [Combination Sum](https://github.com/shaojintian/leetcode-answer/answers/39) | 27.90%   | Medium     |
+| 38   | [Count and Say](https://github.com/shaojintian/leetcode-answer/answers/38) | 25.20%   | Easy       |
+| 37   | [Sudoku Solver](https://github.com/shaojintian/leetcode-answer/answers/37) | 21.80%   | Hard       |
+| 36   | [Valid Sudoku](https://github.com/shaojintian/leetcode-answer/answers/36) | 27.20%   | Easy       |
+| 35   | [Search Insert Position](https://github.com/shaojintian/leetcode-answer/answers/35) | 35.40%   | Medium     |
+| 34   | [Search for a Range](https://github.com/shaojintian/leetcode-answer/answers/34) | 27.50%   | Medium     |
+| 33   | [Search in Rotated Sorted Array](https://github.com/shaojintian/leetcode-answer/answers/33) | 28.80%   | Hard       |
+| 32   | [Longest Valid Parentheses](https://github.com/shaojintian/leetcode-answer/answers/32) | 20.90%   | Hard       |
+| 31   | [Next Permutation](https://github.com/shaojintian/leetcode-answer/answers/31) | 25.00%   | Medium     |
+| 30   | [Substring with Concatenation of All Words](https://github.com/shaojintian/leetcode-answer/answers/30) | 19.40%   | Hard       |
+| 29   | [Divide Two Integers](https://github.com/shaojintian/leetcode-answer/answers/29) | 15.00%   | Medium     |
+| 28   | [Implement strStr()](https://github.com/shaojintian/leetcode-answer/answers/28) | 22.20%   | Easy       |
+| 27   | [Remove Element](https://github.com/shaojintian/leetcode-answer/answers/27) | 32.10%   | Easy       |
+| 26   | [Remove Duplicates from Sorted Array](https://github.com/shaojintian/leetcode-answer/answers/26) | 31.30%   | Easy       |
+| 25   | [Reverse Nodes in k-Group](https://github.com/shaojintian/leetcode-answer/answers/25) | 25.50%   | Hard       |
+| 24   | [Swap Nodes in Pairs](https://github.com/shaojintian/leetcode-answer/answers/24) | 32.50%   | Medium     |
+| 23   | [Merge k Sorted Lists](https://github.com/shaojintian/leetcode-answer/answers/23) | 21.10%   | Hard       |
+| 22   | [Generate Parentheses](https://github.com/shaojintian/leetcode-answer/answers/22) | 32.60%   | Medium     |
+| 21   | [Merge Two Sorted Lists](https://github.com/shaojintian/leetcode-answer/answers/21) | 32.70%   | Easy       |
+| 20   | [Valid Parentheses](https://github.com/shaojintian/leetcode-answer/answers/20) | 26.50%   | Easy       |
+| 19   | [Remove Nth Node From End of List](https://github.com/shaojintian/leetcode-answer/answers/19) | 27.10%   | Easy       |
+| 18   | [4Sum](https://github.com/shaojintian/leetcode-answer/answers/18) | 21.70%   | Medium     |
+| 17   | [Letter Combinations of a Phone Number](https://github.com/shaojintian/leetcode-answer/answers/17) | 25.80%   | Medium     |
+| 16   | [3Sum Closest](https://github.com/shaojintian/leetcode-answer/answers/16) | 26.90%   | Medium     |
+| 15   | [3Sum](https://github.com/shaojintian/leetcode-answer/answers/15) | 16.90%   | Medium     |
+| 14   | [Longest Common Prefix](https://github.com/shaojintian/leetcode-answer/answers/14) | 25.50%   | Easy       |
+| 13   | [Roman to Integer](https://github.com/shaojintian/leetcode-answer/answers/13) | 34.00%   | Easy       |
+| 12   | [Integer to Roman](https://github.com/shaojintian/leetcode-answer/answers/12) | 33.80%   | Medium     |
+| 11   | [Container With Most Water](https://github.com/shaojintian/leetcode-answer/answers/11) | 32.00%   | Medium     |
+| 10   | [Regular Expression Matching](https://github.com/shaojintian/leetcode-answer/answers/10) | 20.70%   | Hard       |
+| 9    | [Palindrome Number](https://github.com/shaojintian/leetcode-answer/answers/9) | 28.30%   | Easy       |
+| 8    | [String to Integer (atoi)](https://github.com/shaojintian/leetcode-answer/answers/8) | 13.00%   | Easy       |
+| 7    | [Reverse Integer](https://github.com/shaojintian/leetcode-answer/answers/7) | 25.10%   | Easy       |
+| 6    | [ZigZag Conversion](https://github.com/shaojintian/leetcode-answer/answers/6) | 21.80%   | Easy       |
+| 5    | [Longest Palindromic Substring](https://github.com/shaojintian/leetcode-answer/answers/5) | 20.70%   | Medium     |
+| 4    | [Median of Two Sorted Arrays](https://github.com/shaojintian/leetcode-answer/answers/4) | 17.40%   | Hard       |
+| 3    | [Longest Substring Without Repeating Characters](https://github.com/shaojintian/leetcode-answer/answers/3) | 20.60%   | Medium     |
 | 2    | [Add Two Numbers 缺少答案，指向官网](https://leetcode-cn.com/problems/add-two-numbers/solution/) | 21.10%   | Medium     |
 | 1    | [Two Sum 缺少答案，指向官网](https://leetcode-cn.com/problems/two-sum/solution/) | 17.70%   | Medium     |
 
